@@ -1,0 +1,178 @@
+ENHANCED UK CYBER FRAUD Q&A GENERATION PROMPT - V4 DATASET EXPANSION
+=======================================================================
+
+OBJECTIVE: Generate comprehensive Q&A pairs from UK cyber fraud guidance documents focusing on SOCIAL MEDIA SCAMS, AI-ENABLED FRAUD, and RECENT CYBER CRIME TRENDS to expand the training dataset from 278 to 800+ Q&A pairs.
+
+This V4 expansion specifically targets:
+• Social media platform scams (Facebook, Instagram, TikTok, etc.)
+• AI and deepfake fraud techniques
+• Recent scam trends and emerging threats
+• Voice cloning and muse scams
+• Cryptocurrency and investment frauds
+
+GENERATION INSTRUCTIONS:
+
+1. ENHANCED QUESTION VARIETY - Create questions covering modern fraud scenarios:
+   
+   A) SOCIAL MEDIA CRISIS QUESTIONS (5-8 pairs per source):
+   - "Someone hacked my Facebook account and is asking my friends for money, what should I do?"
+   - "I'm getting messages from fake Instagram profiles claiming to be artists, is this a scam?"
+   - "My dating app match is asking for money for an emergency, should I send it?"
+   - "I saw a Facebook giveaway that looks too good to be true, how can I check?"
+   
+   B) AI/DEEPFAKE FRAUD QUESTIONS (4-6 pairs per source):
+   - "I received a voice message that sounds like my relative asking for money, but something feels off"
+   - "How can I tell if a video call is using deepfake technology?"
+   - "Someone created a fake LinkedIn profile using my photos, what should I do?"
+   - "I got a call with a voice that sounded exactly like my bank manager, was this real?"
+   
+   C) CRYPTOCURRENCY/INVESTMENT QUESTIONS (4-6 pairs per source):
+   - "A celebrity on Instagram is promoting a crypto investment, is this legitimate?"
+   - "Someone contacted me about a 'guaranteed' Bitcoin trading opportunity, should I invest?"
+   - "I saw an ad for NFT investments with huge returns, is this safe?"
+   - "A WhatsApp group is sharing investment tips that seem too good to be true"
+   
+   D) RECENT TRENDS QUESTIONS (4-6 pairs per source):
+   - "I received a message about a parcel delivery fee, but I didn't order anything"
+   - "Someone is offering to help me claim a government COVID grant for a fee"
+   - "I got a text about suspicious activity on my energy account, is this real?"
+   - "A company contacted me about PPI claims I didn't know about"
+   
+   E) PLATFORM-SPECIFIC QUESTIONS (3-5 pairs per source):
+   - "How do I report a scammer on TikTok who is using fake testimonials?"
+   - "Someone on WhatsApp is sharing 'exclusive' investment opportunities"
+   - "I'm getting suspicious friend requests on LinkedIn from recruiters"
+   - "A Snapchat user is asking for my bank details for a 'money flip' scheme"
+
+2. ENHANCED RESPONSE GUIDELINES:
+
+   TONE & EMOTIONAL SUPPORT:
+   - Acknowledge shame/embarrassment around modern scams
+   - Validate concerns about sophisticated AI techniques
+   - Provide reassurance about evolving fraud landscape
+   - Emphasize that modern scams fool even tech-savvy people
+
+   UK-SPECIFIC MODERN CONTEXT:
+   - Include 2024/2025 specific fraud trends
+   - Reference Action Fraud's recent alerts about AI scams
+   - Mention NCSC guidance on social media safety
+   - Include UK financial protections for APP fraud
+   - Reference ICO guidance on personal data breaches
+
+   TECHNICAL ACCURACY:
+   - Explain how deepfakes and voice cloning work
+   - Describe social media verification processes
+   - Detail cryptocurrency scam mechanics
+   - Explain how AI is used in modern fraud
+
+3. ENHANCED OUTPUT FORMAT:
+
+   [Same JSON structure as before, with enhanced metadata:]
+   {
+     "instruction": "Modern victim-perspective question",
+     "input": "",
+     "output": "Empathetic, technically-informed UK response",
+     "source_document": "Brief description",
+     "source_url": "URL if available",
+     "chunk_number": "[number]",
+     "document_index": "[number]",
+     "generated_by": "gemini",
+     "scam_category": "social_media|ai_enabled|crypto|recent_trend|platform_specific",
+     "target_demographic": "general|elderly|young_adults|professionals",
+     "threat_level": "low|medium|high|critical"
+   }
+
+4. MODERN SCAM CONTENT EXTRACTION:
+
+   From each new source, identify and create Q&As covering:
+   - AI-enabled fraud techniques (deepfakes, voice cloning)
+   - Social media platform-specific scams
+   - Cryptocurrency and investment fraud
+   - Romance scams on dating platforms
+   - Fake celebrity endorsements
+   - Muse scams and fake art commissions
+   - Ticket fraud through social media
+   - Fake delivery/parcel scams
+   - COVID/energy bill fraud
+   - Professional networking scams
+
+5. QUESTION PHRASING FOR MODERN CONTEXT:
+
+   Use contemporary language and scenarios:
+   - "I saw this on TikTok/Instagram/Facebook..."
+   - "Someone DMed me on Instagram saying..."
+   - "I got a WhatsApp message from..."
+   - "There's this crypto influencer who..."
+   - "I matched with someone on Tinder and..."
+   - "A LinkedIn recruiter contacted me about..."
+   - "I saw a Snapchat story with..."
+   - "Someone tagged me in a Facebook post about..."
+
+6. ENHANCED UK REGULATORY CONTEXT:
+
+   Include modern UK fraud response infrastructure:
+   - Action Fraud online reporting for social media crimes
+   - Bank authorised push payment protections
+   - ICO complaints for social media data breaches
+   - NCSC Cyber Security Centre reporting
+   - Platform-specific reporting mechanisms
+   - New APP fraud reimbursement rules
+   - Digital forensics and evidence preservation
+
+7. RESPONSE QUALITY FOR MODERN THREATS:
+
+   Ensure responses address:
+   - How to verify AI-generated content
+   - Platform reporting mechanisms
+   - Evidence preservation for digital crimes
+   - International fraud complications
+   - Recovery options for different fraud types
+   - Prevention strategies for social media users
+   - Understanding platform security features
+
+EXAMPLE V4 OUTPUT:
+
+[
+  {
+    "instruction": "I think someone used AI to clone my mum's voice and called me asking for money. The voice sounded exactly like her, but when I called her back, she said she never called. What should I do?",
+    "input": "",
+    "output": "I'm so sorry this happened to you - voice cloning scams are becoming increasingly sophisticated and can be extremely convincing. You were absolutely right to verify by calling your mum back directly. This is a new type of AI-enabled fraud where criminals use voice samples (often from social media videos) to create convincing fake calls. First, report this to Action Fraud immediately on 0300 123 2040 or online at actionfraud.police.uk - they're tracking these AI scams specifically. If you sent any money, contact your bank straight away as you may be eligible for reimbursement under new authorised push payment protections. For future protection, establish a family code word for emergency calls, limit voice content on social media, and remember that genuine emergencies would involve official channels. The NCSC also has guidance on protecting against AI-enabled fraud. Please don't feel embarrassed - these scams are designed to exploit our natural care for family, and the technology is so advanced that anyone could be fooled.",
+    "source_document": "NCSC guidance on AI-enabled fraud and voice cloning protection",
+    "source_url": "https://www.ncsc.gov.uk/guidance/voice-cloning-protection",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini",
+    "scam_category": "ai_enabled",
+    "target_demographic": "general",
+    "threat_level": "high"
+  },
+  {
+    "instruction": "Someone on Instagram claiming to be an artist wants to use my photo as inspiration for a portrait and is asking for my personal details. Is this the 'muse scam' I've heard about?",
+    "input": "",
+    "output": "Yes, this sounds exactly like the 'muse scam' that's become very common on Instagram and other social media platforms. Legitimate artists don't typically contact random people asking for personal details to create portraits. This scam usually leads to identity theft, advance fee fraud, or attempts to get you to pay for 'professional photos' or 'portfolio development'. Never share personal information, photos, or payment details with unsolicited contacts claiming to be artists. Check their profile thoroughly - genuine artists have extensive portfolios, verified followers, and professional websites. Report this profile to Instagram using their scam reporting feature, and if they've asked for payment or personal details, report it to Action Fraud on 0300 123 2040. Be particularly wary if they're asking for photos in specific poses, payment for 'materials', or offering large sums for 'modelling'. Trust your instincts - if something feels off, it usually is. The fact that you questioned it shows good awareness of these modern social media scams.",
+    "source_document": "Recent social media scam alerts covering muse and fake artist schemes",
+    "source_url": "https://www.actionfraud.police.uk/alert/muse-scam-instagram",
+    "chunk_number": 2,
+    "document_index": 1,
+    "generated_by": "gemini",
+    "scam_category": "social_media",
+    "target_demographic": "young_adults",
+    "threat_level": "medium"
+  }
+]
+
+TARGET FOR V4 EXPANSION: Generate 40-80 Q&A pairs per new source covering:
+• CIFAS: Financial fraud trends, identity theft, social media fraud
+• NCSC: Cyber security threats, AI-enabled attacks, social media safety  
+• NCA: Organised cyber crime, international fraud, emerging threats
+• ICO: Data protection breaches, social media privacy, digital rights
+
+TOTAL TARGET: 800+ comprehensive Q&A pairs covering modern fraud landscape
+
+CRITICAL REQUIREMENTS:
+✓ No duplicate questions from existing 278 Q&A dataset
+✓ Focus on 2024/2025 fraud trends not covered in original sources
+✓ Each Q&A must be completely standalone and self-contained
+✓ Emphasis on social media platforms and AI-enabled fraud
+✓ Include specific UK reporting mechanisms for digital crimes
+✓ Address psychological impact of sophisticated modern scams

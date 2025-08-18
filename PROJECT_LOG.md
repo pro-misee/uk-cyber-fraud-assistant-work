@@ -309,6 +309,128 @@ Final Training Loss: 1.1185
 
 ---
 
+## Phase 4: V4 Dataset Expansion - Social Media & AI Fraud Coverage
+
+### 2025-08-18: Dataset Expansion Initiative
+**Event**: V4 dataset expansion planning for social media fraud and AI-enabled threats  
+**Goal**: Expand from 278 to 800+ Q&A pairs covering modern fraud types  
+
+**Research Findings**:
+- 2025 UK fraud statistics: 67% is cyber-enabled
+- Social media platforms key facilitator of fraud
+- AI-enabled threats: voice cloning, deepfakes, muse scams
+- Rising social media hacking for ticket fraud
+- New trends: AI-powered phishing, biometric data theft
+
+**Target Coverage**:
+- Social media platform scams (Facebook, Instagram, TikTok)
+- AI and deepfake fraud techniques  
+- Voice cloning emergency scams
+- Cryptocurrency investment fraud via social media
+- Recent 2024/2025 emerging threats
+
+---
+
+### 2025-08-18: Enhanced Scraper Development  
+**Event**: Extension of existing site_scrapers.py for V4 expansion  
+**Approach**: Enhanced existing tools rather than creating new scripts  
+
+**Technical Improvements**:
+- **Enhanced keyword detection**: Added social media terms (Facebook, Instagram, TikTok, etc.)
+- **AI fraud keywords**: deepfake, voice cloning, muse scams, crypto
+- **Increased link scraping**: max_links 8 → 12 for comprehensive coverage
+- **New source configurations**: CIFAS, NCSC, NCA, ICO added
+- **Preserved original configs**: Moved to ORIGINAL_SITE_CONFIGS for reference
+
+**New Data Sources Added**:
+- **CIFAS**: Financial fraud trends, identity theft statistics
+- **NCSC**: Cyber security guidance, social media safety  
+- **NCA**: Organised cyber crime, emerging threats
+- **ICO**: Data protection breaches, social media privacy
+
+---
+
+### 2025-08-18: Manual Content Processing Strategy
+**Event**: Shift to manual content curation due to JavaScript-heavy modern websites  
+**Rationale**: Government websites use dynamic loading incompatible with traditional scraping  
+
+**Manual Processing Workflow Created**:
+1. **Manual content collection** from identified authoritative sources
+2. **Structured JSON format** with URL, title, date, content fields
+3. **ChatGPT processing pipeline** for Q&A generation
+4. **Diversification requirements** to prevent repetitive patterns
+5. **Quality control framework** ensuring UK-specific accuracy
+
+**Files Created**:
+- `Enhanced_QA_Generation_Prompt_V4.txt`: Advanced prompt for modern fraud types
+- `ChatGPT_Manual_Processing_Prompt.txt`: Complete ChatGPT processing workflow
+
+---
+
+### 2025-08-18: V4 Generation Framework Design
+**Event**: Comprehensive prompt engineering for modern fraud scenarios  
+
+**Enhanced Q&A Categories**:
+- **Social Media Crisis Questions**: Real-time platform-specific threats
+- **AI/Deepfake Fraud Questions**: Voice cloning, synthetic media detection
+- **Cryptocurrency Questions**: Social media investment fraud
+- **Recent Trends Questions**: 2024/2025 emerging scam types  
+- **Platform-Specific Questions**: TikTok, Instagram, WhatsApp guidance
+
+**Diversification Requirements**:
+- Multiple user perspectives (victims, family, general public, professionals)
+- Varied question starters and response structures
+- Different complexity levels and answer lengths
+- UK-specific context with correct contact information
+- Comprehensive fraud stage coverage (prevention → recovery)
+
+**Target Output Structure**:
+```json
+{
+  "scam_category": "social_media|ai_enabled|crypto|recent_trend",
+  "target_demographic": "general|elderly|young_adults|professionals", 
+  "threat_level": "low|medium|high|critical"
+}
+```
+
+---
+
+### 2025-08-18: Quality Assurance Framework
+**Event**: Implemented systematic approach to prevent repetitive Q&A generation  
+
+**Anti-Repetition Measures**:
+- **Question starter diversity**: Varied interrogative approaches
+- **User perspective rotation**: Different demographic viewpoints  
+- **Content angle variation**: Statistics, prevention, technical, emotional
+- **Response structure variety**: Short factual, medium explanatory, comprehensive
+- **Pattern detection**: Explicit instructions to avoid formulaic responses
+
+**UK Context Requirements**:
+- Action Fraud contact: 0300 123 2040
+- Appropriate UK regulatory references (FCA, ICO, NCSC)
+- UK-specific legal protections and procedures
+- Regional applicability and cultural context
+
+---
+
+## Current V4 Status Summary
+
+### 2025-08-18: Implementation Ready ✅  
+**Technical Infrastructure**: Enhanced scraper and processing workflows complete  
+**Content Strategy**: Manual collection approach with ChatGPT processing pipeline  
+**Quality Framework**: Diversification and UK accuracy requirements established  
+**Target Achievement**: Pathway to 800+ Q&A pairs covering modern fraud landscape  
+
+**Next Steps**:
+1. Manual content collection from identified authoritative sources
+2. ChatGPT processing using established workflow templates  
+3. Quality validation and consolidation into expanded dataset
+4. Integration with existing 278 Q&A pairs for training
+
+**Key Innovation**: Hybrid approach combining manual curation with AI processing to achieve comprehensive coverage of 2024/2025 fraud trends not captured in original dataset.
+
+---
+
 *Log maintained by: Claude Code Assistant*  
-*Last Updated: 2025-08-07*  
-*Status: Active Development*
+*Last Updated: 2025-08-18*  
+*Status: V4 Expansion Framework Complete - Ready for Content Processing*

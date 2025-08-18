@@ -9,7 +9,7 @@ class FraudGuidanceScraper:
     def __init__(self, source_name, delay=3):
         self.source_name = source_name
         project_root = Path(__file__).parent.parent
-        self.output_dir = project_root / "data_sources" / source_name / "scraped"
+        self.output_dir = project_root / "data_sources_v4" / source_name / "scraped"
         self.output_dir.mkdir(parents=True, exist_ok=True)
         self.delay = delay
         self.session = requests.Session()
@@ -66,11 +66,20 @@ class FraudGuidanceScraper:
 
 def main():
     """Main execution function"""
-    print("UK Cyber Fraud Guidance Scraper")
-    print("================================")
+    print("UK Cyber Fraud Guidance Scraper - V4 Dataset Expansion")
+    print("======================================================")
     
-    # Test Which scraping
-    scraper = FraudGuidanceScraper('which')
+    # Test new sources for V4 expansion
+    new_sources = ['cifas', 'ncsc', 'nca', 'ico']
+    
+    print(f"Available new sources: {list(SITE_CONFIGS.keys())}")
+    print(f"Testing: {new_sources}")
+    
+    # Test one source at a time
+    source_to_test = 'ncsc'  # Try NCSC (should be more accessible)
+    print(f"\n🧪 Testing {source_to_test.upper()} scraping...")
+    
+    scraper = FraudGuidanceScraper(source_to_test)
     scraper.scrape_site()
     
     # Compile final dataset

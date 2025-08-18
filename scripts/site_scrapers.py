@@ -25,11 +25,19 @@ def extract_content(soup):
 
 
 def is_relevant_link(href, link_text):
-    """Determine if a link is relevant for fraud guidance"""
+    """Determine if a link is relevant for fraud guidance including social media scams"""
     fraud_keywords = [
         'fraud', 'scam', 'phishing', 'identity', 'theft', 'online', 'cyber',
         'security', 'protect', 'safe', 'privacy', 'password', 'banking',
-        'shopping', 'email', 'social', 'mobile', 'wifi', 'money', 'finance'
+        'shopping', 'email', 'social', 'mobile', 'wifi', 'money', 'finance',
+        # Social media specific terms
+        'facebook', 'instagram', 'whatsapp', 'telegram', 'tiktok', 'snapchat',
+        'linkedin', 'twitter', 'dating', 'romance', 'investment', 'crypto',
+        # Recent scam types
+        'deepfake', 'ai', 'voice', 'clone', 'muse', 'nft', 'marketplace',
+        'ticket', 'concert', 'holiday', 'booking', 'delivery', 'parcel',
+        # Current trends and alerts
+        '2024', '2025', 'latest', 'new', 'recent', 'alert', 'warning', 'trend'
     ]
     
     text_lower = link_text.lower()
@@ -38,7 +46,7 @@ def is_relevant_link(href, link_text):
     return any(keyword in text_lower or keyword in href_lower for keyword in fraud_keywords)
 
 
-def scrape_linked_pages(soup, base_url, source_name, save_callback, session, delay=3, max_links=8):
+def scrape_linked_pages(soup, base_url, source_name, save_callback, session, delay=3, max_links=12):
     """Find and scrape relevant linked pages"""
     links = soup.find_all('a', href=True)
     relevant_links = []
@@ -131,8 +139,8 @@ def scrape_site(base_url, test_urls, source_name, save_callback, session, delay=
     print(f"{source_name.title()} scraping completed - {successful_pages} pages scraped")
 
 
-# Site configurations
-SITE_CONFIGS = {
+# Original site configurations (already scraped in data_sources_v1, v2, v3)
+ORIGINAL_SITE_CONFIGS = {
     'actionfraud': {
         'base_url': 'https://www.actionfraud.police.uk',
         'test_urls': [
@@ -180,6 +188,44 @@ SITE_CONFIGS = {
             'https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9',
             'https://www.which.co.uk/consumer-rights/scams/card-fraud',
             'https://www.which.co.uk/consumer-rights/scams/reporting-scams'
+        ]
+    }
+}
+
+# Active configurations - NEW SOURCES ONLY for V4 dataset expansion
+SITE_CONFIGS = {
+    # NEW sources focusing on social media fraud, recent cyber crime news, and emerging scam types
+    'cifas': {
+        'base_url': 'https://www.cifas.org.uk',
+        'test_urls': [
+            'https://www.cifas.org.uk/newsroom',
+            'https://www.cifas.org.uk/insights',
+            'https://www.cifas.org.uk/secure/contentPOB/type/fraud-prevention-for-individuals'
+        ]
+    },
+    'ncsc': {
+        'base_url': 'https://www.ncsc.gov.uk',
+        'test_urls': [
+            'https://www.ncsc.gov.uk/news',
+            'https://www.ncsc.gov.uk/guidance/phishing',
+            'https://www.ncsc.gov.uk/guidance/shopping-online-securely',
+            'https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely'
+        ]
+    },
+    'nca': {
+        'base_url': 'https://www.nationalcrimeagency.gov.uk',
+        'test_urls': [
+            'https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/fraud',
+            'https://www.nationalcrimeagency.gov.uk/news',
+            'https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cyber-crime'
+        ]
+    },
+    'ico': {
+        'base_url': 'https://ico.org.uk',
+        'test_urls': [
+            'https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/',
+            'https://ico.org.uk/for-the-public/online/social-networking/',
+            'https://ico.org.uk/for-the-public/personal-information/'
         ]
     }
 }
