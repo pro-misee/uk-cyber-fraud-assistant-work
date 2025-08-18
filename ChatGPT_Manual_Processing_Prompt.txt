@@ -1,82 +1,54 @@
 CHATGPT PROMPT FOR MANUAL SCRAPED CONTENT PROCESSING
 ===================================================
 
-Use this 3-step process for each JSON file containing manually scraped UK fraud content.
-
-STEP 1: CONTEXT SETUP MESSAGE
-=============================
+STEP 1: CONTEXT SETUP
+=====================
 
 I'm expanding a UK cyber fraud AI assistant dataset. I'll provide JSON data containing UK fraud articles.
 
-CRITICAL: You must generate DIVERSE, NON-REPETITIVE Q&A pairs. Avoid formulaic patterns.
+CRITICAL REQUIREMENTS:
 
-**DOCUMENT GROUNDING REQUIREMENT**: ALL Q&A pairs must be directly based on and referenced from the specific content provided. Do NOT create generic fraud advice - only create questions and answers that can be supported by the actual document content.
+**STANDALONE QUESTIONS ONLY**: Every question must make complete sense without referencing "this source", "the article", "this campaign", "according to this data", etc. 
 
-Your task: Generate 20-30 UNIQUE Q&A pairs per article covering different:
-- User perspectives (general public, victims, family, business, elderly, young adults, professionals)  
-- Question types (what, how, why, when, where, can I, should I, is it, ...)
-- Scenarios (before scam, during scam, after scam, prevention, education)
-- Complexity levels (simple facts, detailed procedures, emotional support)
-- Fraud stages (awareness, identification, reporting, recovery, prevention)
+**INDIVIDUAL SCENARIO FOCUS**: Generate realistic victim scenarios alongside factual questions. 50% should be individual scenarios like "I received...", "Someone told me...", "My parent got a call..."
+
+**CYBER FRAUD CONTENT ONLY**: Only create Q&A pairs from cyber fraud content. Skip general crime statistics, government policy, or non-fraud material.
+
+**DOCUMENT GROUNDING**: ALL answers must be directly supported by the source content. Do NOT add external knowledge.
+
+Your task: Generate 20-30 UNIQUE Q&A pairs covering:
+- Individual victim scenarios (50%): realistic situations people face
+- Factual questions (30%): definitions, statistics, procedures  
+- Prevention/guidance (20%): warning signs, protective measures
 
 AVOID:
-- Starting multiple questions the same way
-- Repetitive answer structures  
-- Similar phrasing patterns
-- Generic responses
-- Creating Q&A pairs not supported by the document content
-- Adding information not present in the source material
+- References to source material ("according to this article", "this source says")
+- Generic responses not grounded in the document
+- Non-fraud content from government announcements
 
-STEP 2: ARTICLE PROCESSING MESSAGE
-==================================
+STEP 2: ARTICLE PROCESSING
+==========================
 
-Process this UK fraud article with MAXIMUM DIVERSITY:
+Generate 20-30+ Q&A pairs using this FRAMEWORK:
 
-Generate 20-30 (or more) Q&A pairs using this DIVERSIFICATION FRAMEWORK:
+**QUESTION TYPES:**
 
-**USER PERSPECTIVES (rotate through):**  
-- Curious general public seeking information
-- Potential victims wanting prevention advice  
-- People mid-scam needing immediate help
-- Actual victims needing support/next steps
-- Concerned family members/friends
-- Business owners protecting customers
-- Elderly people needing simple explanations
-- Young adults on social media
-- Professionals advising others
-- ...
+1. **INDIVIDUAL SCENARIOS (50%)**:
+   - "I received a text saying my bank account is frozen, what should I do?"
+   - "Someone called claiming to be from HMRC demanding immediate payment, is this legitimate?"
+   - "My elderly parent got a call about computer problems, how can I help them?"
+   - "I'm selling online and received a QR code to 'verify my account', should I scan it?"
 
-**CONTENT ANGLES (cover all):**
-- Statistics and scale ("How common is...")
-- Warning signs ("What should I look for...")  
-- Prevention strategies ("How can I protect...")
-- Step-by-step procedures ("What do I do if...")
-- Emotional support ("I feel embarrassed about...")
-- Technical explanations ("How do scammers...")
-- Legal/financial recovery ("Can I get my money back...")
-- Platform-specific advice ("Is Facebook Marketplace safe...")
-- ...
+2. **FACTUAL/DEFINITIONAL (30%)**:
+   - "What is quishing and how does it work?"
+   - "How much money was lost to QR code scams in the UK last year?"
+   - "Which contact number should I use to report extortion emails?"
 
-**ANSWER LENGTHS (vary):**
-- Short factual (50-100 words)
-- Medium explanatory (100-200 words)  
-- Comprehensive guidance (200-300 words)
+3. **PREVENTION/GUIDANCE (20%)**:
+   - "What are the warning signs of a fraudulent QR code?"
+   - "How can I safely pay for parking if the QR code looks suspicious?"
 
-**TONE REQUIREMENTS:**
-- Professional and helpful for all audiences
-- UK-specific guidance with correct contact numbers
-- Empathetic when addressing victims
-- Educational when explaining fraud mechanics
-- Actionable advice with clear next steps
-- Use British English spelling and terminology throughout
-
-**CONTENT GROUNDING REQUIREMENTS:**
-- Base ALL answers on facts, statistics, and advice from the provided document
-- Quote specific figures, dates, and details mentioned in the source
-- Reference specific organizations, contacts, or procedures mentioned
-- Do NOT add external knowledge not present in the document
-- If the document mentions specific scam tactics, incorporate those exact details
-- Use the document's language and terminology where appropriate
+**TONE**: Professional, empathetic, UK-specific with correct contact information (101, 159, report@phishing.gov.uk, 7726), British English.
 
 **REQUIRED JSON FORMAT:**
 CRITICAL: Use straight double quotes (") not curly quotes (" "). Include trailing commas between objects.
@@ -84,89 +56,39 @@ CRITICAL: Use straight double quotes (") not curly quotes (" "). Include trailin
 ```json
 [
   {
-    "instruction": "diverse question from any user perspective",
+    "instruction": "I received an email demanding Bitcoin payment and claiming to have videos of me, what should I do?",
     "input": "",
-    "output": "professional, helpful UK-specific response with actionable advice",
+    "output": "Do not engage with the sender or pay anything. Forward the email to report@phishing.gov.uk (SERS) and then delete it. If the email includes a password you still use, change it immediately and enable additional authentication factors. These are typically extortion scams using data from historic breaches to appear authentic. If you fear someone may actually possess intimate images, call 101 to report to your local police.",
     "source_document": "[exact title from JSON]",
     "source_url": "[exact URL from JSON]",
     "chunk_number": 1,
     "document_index": 1,
     "generated_by": "chatgpt",
-    "scam_category": "[appropriate category: ticket_fraud, social_media, investment, etc.]",
-    "target_demographic": "[general, young_adults, elderly, professionals, etc.]",
-    "threat_level": "[low, medium, high, critical]"
+    "scam_category": "sextortion",
+    "target_demographic": "general",
+    "threat_level": "high"
   }
 ]
 ```
 
-IMPORTANT: Ensure valid JSON syntax with straight quotes and proper comma placement.
+**STANDALONE EXAMPLES:**
 
-NO REPETITIVE PATTERNS! Each Q&A must feel completely different.
+❌ BAD: "What does this source say about QR code safety?"
+✅ GOOD: "I scanned a QR code for parking and now I'm worried it was fake, what should I do?"
 
-STEP 3: DIVERSIFICATION QUALITY CHECK
-=====================================
+❌ BAD: "According to the article, how should I report fraud?"
+✅ GOOD: "How do I report a fraudulent email in the UK?"
 
-DIVERSIFICATION REVIEW:
+STEP 3: QUALITY CONTROL
+=======================
 
-1. **Question Analysis**: 
-   - Do I have varied question starters? 
-   - Are user perspectives diverse?
-   - Do questions cover different fraud stages?
+1. Can each question be understood without additional context?
+2. Do questions avoid phrases like "this source", "the article"?
+3. Are scenarios realistic and specific?
+4. Is every answer grounded in the provided document content?
+5. Mix of scenarios (50%) and factual questions (50%)?
+6. UK-specific guidance with correct contact details?
 
-2. **Answer Analysis**:
-   - Are response structures varied?
-   - Do I have different answer lengths?  
-   - Are explanations approaching topics from different angles?
+Revise any questions that aren't standalone and provide the final diverse JSON.
 
-3. **Pattern Check**:
-   - Am I repeating phrases like "I understand this is concerning" too often?
-   - Do multiple answers start the same way?
-   - Are my action steps formulaic?
-
-4. **Content Coverage**:
-   - Statistics, prevention, identification, response, recovery, education
-   - Different demographics, scenarios, complexity levels
-   - Various fraud aspects from the article
-
-5. **UK Context Check**:
-   - Are all contact numbers correct? (Action Fraud: 0300 123 2040)
-   - Do responses reference appropriate UK authorities?
-   - Is language and advice UK-specific?
-
-6. **Document Grounding Check**:
-   - Are ALL Q&A pairs directly supported by the source document?
-   - Do answers reference specific facts, figures, or details from the content?
-   - Have I avoided adding external knowledge not in the document?
-   - Are questions based on scenarios or information actually mentioned in the source?
-
-Revise any repetitive patterns, remove any content not grounded in the document, and provide the final diverse JSON.
-
-EXAMPLE DIVERSE QUESTIONS (document-grounded examples):
-=====================================================
-
-GOOD DIVERSITY (based on actual document content):
-- "What specific statistics does this article mention about fraud increases?"
-- "Which age groups are most affected according to the data provided?"
-- "What prevention advice does this source recommend?"
-- "What contact information is provided in this document?"
-- "What warning signs are mentioned in this article?"
-- "What procedures does this source outline for reporting fraud?"
-- "What recent trends does this document highlight?"
-- ...
-
-AVOID REPETITIVE PATTERNS:
-- Multiple questions starting with "What should I do if..."
-- Answers all beginning with "I understand this is concerning..."
-- Generic "First, contact Action Fraud..." responses
-
-PROCESSING WORKFLOW:
-===================
-
-1. Use STEP 1 message to start new ChatGPT conversation
-2. Use STEP 2 with your specific JSON content  
-3. Use STEP 3 for quality review and refinement
-4. Save output as [source]_qa_pairs.json
-5. Repeat for each manually scraped JSON file
-6. Consolidate all outputs into master expansion dataset
-
-TARGET: 800+ total Q&A pairs from manual content processing
+TARGET: 20-30+ diverse, standalone Q&A pairs covering cyber fraud content with realistic scenarios and factual accuracy.

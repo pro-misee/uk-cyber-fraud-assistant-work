@@ -1,0 +1,502 @@
+[
+       {
+        "url": "https://www.ncsc.gov.uk/news/uk-call-out-russian-military-intelligence-use-espionage-tool",
+        "title": "UK calls out Russian military intelligence for use of espionage tool",
+        "scraped_date": "2025-08-18",
+        "content": "Cyber threat group APT 28 has been responsible for deploying a sophisticated malware against user email accounts as part of its operations.
+
+GCHQ’s National Cyber Security Centre reveals Russian military intelligence are behind use of sophisticated malware dubbed AUTHENTIC ANTICS
+Formal attribution comes as UK Government sanctions GRU Units and 18 Russian individuals for malicious hybrid operations
+The malware steals victims’ login details and tokens to enable long-term access to email accounts
+The Government has today (18 July) exposed Russian military intelligence actors for using previously unknown malicious software to enable espionage against victim email accounts, in a move that will keep the UK and its allies safer.
+
+The National Cyber Security Centre – a part of GCHQ – has revealed for the first time that the cyber threat group APT 28 has been responsible for deploying a sophisticated malware dubbed AUTHENTIC ANTICS as part of its operations.
+
+The UK has previously said APT 28 is part of Russia’s GRU 85th Main Special Service Centre, Military Unit 26165. 
+
+The attribution comes as the UK Government has today sanctioned three GRU Units: 26165, 29155 and 74455 and 18 GRU officers and agents for their part in cyber and information interference operations across the globe in support of wider Russian geopolitical and military objectives. The Strategic Defence Review identified the most acute threat as that posed by Russia.
+
+An analysis of AUTHENTIC ANTICS by the NCSC shows how it has been specifically designed to enable persistent endpoint access to Microsoft cloud accounts by blending in with legitimate activity. 
+
+It periodically displays a login window prompting the user to share their credentials which are then intercepted by the malware, along with OAuth authentication tokens which allow access to Microsoft services.
+
+The malware also exfiltrates victims’ data by sending emails from the victim’s account to an actor-controlled email address without the emails showing in the ‘sent’ folder.
+
+Helping UK organisations build resilience against cyber threats and protecting the UK’s national security is a vital step to secure the foundations for the government’s Plan for Change. 
+
+That is why the UK has announced the largest sustained boost in defence spending since the Cold War - increasing to 2.6% of GDP by 2027. As outlined in the National Security Strategy, this marks a bold step forward making the UK stronger and more secure by countering cyber and hybrid threats, in a world that is characterised by radical uncertainty.
+
+Foreign Secretary, David Lammy said:
+
+“GRU spies are running a campaign to destabilise Europe, undermine Ukraine’s sovereignty and threaten the safety of British citizens.
+
+“The Kremlin should be in no doubt: we see what they are trying to do in the shadows and we won’t tolerate it. That’s why we’re taking decisive action with sanctions against Russian spies. Protecting the UK from harm is fundamental to this government’s Plan for Change.
+
+“Putin’s hybrid threats and aggression will never break our resolve. The UK and our Allies support for Ukraine and Europe’s security is ironclad.”
+
+Paul Chichester, NCSC Director of Operations said: 
+
+“The use of AUTHENTIC ANTICS malware demonstrates the persistence and sophistication of the cyber threat posed by Russia’s GRU.
+
+“NCSC investigations of GRU activities over many years show that network defenders should not take this threat for granted and that monitoring and protective action is essential for defending systems.
+
+“We will continue to call out Russian malicious cyber activity and strongly encourage network defenders to follow advice available on the NCSC website.”
+
+The AUTHENTIC ANTICS malware was discovered in the aftermath of a cyber incident which was investigated by Microsoft and the NCSC-assured cyber incident response provider NCC Group in 2023. 
+
+The NCSC has previously called out APT 28 / Unit 26165, also known in open source as Fancy Bear, Forest Blizard and Blue Delta, for targeting western logistics entities and technology companies.
+
+The UK has also exposed Unit 29155 for carrying out digital sabotage attacks and Unit 74455, also known in open source as Sandworm, for use of the malware Cyclops Blink and the attempted attack on the Organisation for the Prohibition of Chemical Weapons in 2018.
+
+The full report on AUTHENTIC ANTICS can be found on the NCSC’s website. Associated files relating to this report can also be found via the NCSC’s Malware Analysis Reports page. 
+
+Today’s technical attribution and wider activity has been carried out in coordination with international partners.
+
+The National Security Strategy 2025 called for organisations across the UK to adopt cyber security practices in line with strengthened national security. "
+        },
+
+       {
+        "url": "https://www.ncsc.gov.uk/news/cyber-agencies-unveil-new-guidelines-to-secure-edge-devices-from-increasing-threat",
+        "title": "Cyber agencies unveil new guidelines to secure edge devices from increasing threat",
+        "scraped_date": "2025-08-18",
+        "content": "New guidelines encourage device manufacturers to include and enable standard logging and forensic features that are robust and secure by default.
+VectorMine via Getty Images
+UK and international cyber security agencies issue new guidelines to counter increasing number and sophistication of malicious actors targeting edge devices.
+New guidance sets minimum standards for forensic visibility and urges manufacturers to enable secure logging by default.
+Publication is part of a coordinated effort by agencies in the UK, Australia, Canada, New Zealand, and the US to highlight the importance of securing edge devices.
+Cyber security chiefs in the UK and their international allies have today issued a new set of guidelines to help manufacturers of edge devices make their products more secure and easier to investigate if a compromise occurs.
+
+Published by GCHQ’s National Cyber Security Centre (NCSC) and cyber security agencies in Australia, Canada, New Zealand, and the US, the new guidance highlights an increasing number of sophisticated malicious actors targeting vulnerabilities in edge devices.
+
+Edge devices are internet-connected devices that sit at the ‘edge’ of a network, acting as entry points for data between local networks and the wider internet. Examples include routers, smart appliances, IoT devices, sensors and cameras, which can be particularly vulnerable to hackers as they often handle important data and connect directly to external networks.
+
+The new guidelines encourage device manufacturers to include and enable standard logging and forensic features that are robust and secure by default, so that network defenders can more easily detect malicious activity and investigate following an intrusion.
+
+They also set out the minimum standards for forensic visibility to help network defenders in securing organisational networks, both proactively and in response to a compromise."
+        },
+
+       {
+        "url": "https://www.facebook.com/help/325807937506242/",
+        "title": "Basic privacy settings and tools for Facebook",
+        "scraped_date": "2025-08-18",
+        "content": "Selecting an audience for things that you share
+Default audience settings for Page posts are different from settings for profile posts. Learn how to create and manage a post for your Page.
+When you're on your Facebook profile, you can choose who can see your post on Facebook, by using the audience selector.
+The audience selector can be found in most places where you share content on Facebook, such as posts, photos and for some information on your profile.
+Note: If you have additional Facebook profiles, the audience that you choose to share content with from one profile doesn't carry over to your other profiles.
+Choose who you share content with
+
+You can also use the audience selector to choose who you share content with:
+At the top of your Feed or profile, click the text box next to your profile picture. From here, you can do things such as post a status update, photo, video or check in to an event.
+Below your name, click the audience selector (e.g. Friends).
+Click the audience you'd like to see your content (e.g. Friends, Public or Only me). Learn more about the audiences you can choose on Facebook.
+The audience selector will also appear on things you've already shared, so you can see who you've shared each post with. After you've shared a post, you have the option to change who it's shared with.
+When sharing on Facebook, bear in mind
+If you choose a new audience for your post, you'll only change the audience for that specific post. The next time you post, the audience will go back to the default audience that you selected in your privacy settings. Learn how to set a default audience.
+When you change the audience on one device, the audience will update on all devices. For example, if you change the audience of your post on your computer, it will also change the audience of your post in your app.
+Some things that you share on Facebook will always be public. For example, when you post or comment in a public group, your post or comment will be public and can be seen by anyone. Learn more about public information on Facebook.
+When you create a reel, or add to your story, different audience selections apply. Learn more about changing the audience of your reel or your story privacy.
+Your post will appear in Feed, on your profile and in search results.
+When you post to another person's profile, that person controls who can see the post.
+When you post, people in the audience may be able to see it across the Meta Products.
+If you tag someone in a post, the tagged person's friends may also see the post.
+If you've chosen to lock your profile, your sharing choices are more restricted.
+Other ways to manage who can see your content
+Review and update your privacy settings for your profile.
+Limit who can see your past posts.
+Go to your activity log to review your posts and things you've been tagged in.
+Visit your Profile and tagging settings to manage things such as who can see what other people post on your profile and review who can see content you're tagged in.
+Edit basic info on your Facebook profile and choose who can see it.
+Learn more about who can see your posts in groups or on a Page, and how to choose who can see your story.
+Lists give you a way to share with a specific audience. You can use the audience selector to choose the list that you want to share a post with.
+From the top of your Feed, click What's on your mind, [name]?
+Click the audience selector.
+Click the name of the list you want to share with.
+Click Post.
+You can use the audience selector to change who can see things (e.g. posts and photos) that you share on your timeline after you've shared it. Bear in mind that when you share something on someone else's timeline, they control the audience for the post.
+Change the audience of things that you've shared on your timeline
+Click your profile picture in the top right of Facebook, then click your name to go to your profile.
+Scroll down to the post that you want to edit.
+Click the audience selector next to the date or time on the post. The icon will be different depending on its current audience settings.
+Select a new audience from the options that appear (e.g. Public, Friends, Only me).
+Learn more about how to control what people can see on your profile and timeline.
+Here's an overview of who can see what's on your profile and tools that you can use to control what you share on your profile.
+Tools
+To edit things such as places you've lived or your family and relationships, click About below your cover photo, then click Options next to the info that you'd like to change and click Edit. Use the audience selector next to this info to choose who you're sharing it with.
+As you edit your info, you can control who sees what by using the audience selector.
+Before photos, posts and app activities that you're tagged in appear on your timeline, you can approve or dismiss them by turning on timeline review. Bear in mind that you can still be tagged, and the tagged content (e.g. photo, post) is shared with the audience that the person who posted it selected other places on Facebook (e.g. Feed and search).
+Set an audience for who can see posts that you've been tagged in on your profile.
+To see what your profile looks like to other people, use the View As tool.
+You can also view and adjust your privacy settings:
+Click your profile picture in the top right of Facebook.
+Select  Settings and privacy, then click  Settings.
+In the left column, scroll down to Audience and visibility, then click an option (e.g. posts or stories) to view or adjust its privacy settings.
+Bear in mind
+Anyone can see your public information, which includes your name, profile picture, cover photo, gender, username, user ID (account number) and networks (learn why).
+Only you and your friends can post to your profile. When you post something, you can control who sees it by using the audience selector. When other people post on your timeline, you can control who sees it by choosing the audience of the Who can see what others post on your profile? setting.
+When you share something on your profile, you can use the audience selector to choose who it's shared with. If you want to change who can see things you've already posted, you can:
+Choose a new audience for one of your past posts.
+Change who can see all of your past posts to Friends at one time with Limit past posts.
+Choose a new audience for one of your past posts
+Click your profile picture in the top right of Facebook, then click your name to go to your profile.
+Scroll down to the post that you want to edit.
+Click the audience selector next to the date or time on the post. The icon will be different depending on its current audience settings.
+Select who can see the post from the options that appear (e.g. Public, Friends, Only me).
+Change who can see all of your past posts at one time
+If you'd like to limit who can see all of your past posts at one time, you can limit past posts in your account settings. This will change all of your past posts that are visible to more people than just your friends (e.g. posts shared with Public) to be visible to only your Friends.
+Click your profile picture in the top right of Facebook.
+Select  Settings and privacy, then click  Settings.
+On the left, click Posts.
+Next to Limit who can see past posts, click Limit past posts.
+Click Limit past posts to confirm.
+When you use Limit past posts to change the audience of all your past posts
+When you limit past posts, you'll change the audience of all of your past posts to Friends. If you want to change the audience of your posts back to what they were, you'll need to change the audience of each individual post. Limiting the audience of your previous posts cannot be reversed in one click.
+If you have shared a previous post with a custom audience, such as Friends except Acquaintances or Close friends, limit past posts won't change the audience for those past posts.
+If you tagged someone in the post, the audience of the post will still include the person you tagged and people they include in posts they're tagged in. Learn more about how to change the audience of a post to just your friends when you tag someone. You can also remove the tag.
+Limit past posts only controls the audience for posts you've shared. If you've been tagged in someone else's post, they control the audience for their posts.
+When you share something on someone else's profile, that person controls the audience for the post.
+Learn more about how to control what people can see on your profile.
+Manage settings for how you connect
+In some regions, your Facebook privacy settings will be defaulted to more private options if you're under 18.
+If you sign up for a Facebook account and are under 16, you will be opted in to our suggested privacy settings for a more private experience.
+You can view and adjust your privacy settings at any time from the Audience and visibility section of Settings and privacy. These are some of the settings that you can adjust:
+Profile details
+How people find and contact you
+Posts
+Stories
+Pages
+Reels
+Followers and public content
+Profile and tagging
+Blocking
+Note: Some of these settings may change based on your profile type.
+View and adjust your privacy settings
+Click your profile picture in the top right of Facebook.
+Select  Settings and privacy, then click  Settings.
+Under Audience and visibility, click the option that you want to change for privacy.
+For other things that you share on Facebook, you can select the audience before you share. Review Facebook Privacy Policies and manage your privacy settings in the Privacy Centre.
+Review and manage your information on Facebook
+Update your Feed preferences to see more content that you're interested in.
+You can also hide an ad that isn't interesting or useful to you or review why you're seeing a particular ad.
+Walk through Privacy Checkup to make sure that you're sharing your information with who you want.
+Visit Access your information to see your Activity log, Facebook settings and Privacy Centre. You can also export your information to a device or external service. Learn more about exporting your information.
+Manage some of the content you share on Facebook, such as posts, photos and videos, from the Manage activity section of your activity log.
+Learn how to manage what others can see about you.
+Some settings in Privacy Checkup can only be managed from your main profile, which is the first profile that you create when you sign up for Facebook. Please switch to your main profile to use Privacy Checkup.
+Privacy Checkup guides you through some of your privacy and security settings, so you can review your choices to help make sure that you're sharing with who you want.
+Go to Privacy Checkup
+Click your profile picture in the top right of Facebook.
+Click Settings and privacy, then click Privacy Checkup.
+Things that you can review in Privacy Checkup
+Who can see what you share. This section guides you through things such as:
+Choosing who can see certain information on your profile, such as your phone number, email address, date of birth and relationship status.
+Updating who can see your future and past posts.
+Reviewing who you've blocked on Facebook. For example, you can add people to your blocked list. Learn more about what happens when you block someone on Facebook.
+How to keep your account secure. This section will guide you through things such as:
+Updating your password. Learn more about creating a strong password.
+Turning on alerts to help let you know if someone logs in to your account from a place that we don't recognise.
+How people can find you on Facebook. This section lets you choose who can:
+Send you friend requests.
+Look you up on Facebook by your phone number or email address.
+Your data settings on Facebook. This section guides you through things such as:
+Reviewing and removing recently used apps and websites from other companies that you've used Facebook to log in to.
+Your ad preferences on Facebook. This section guides you through things such as:
+Reviewing and choosing what information on your profile can be used by advertisers to reach you.
+Choosing who can see your social interactions (e.g. things you've liked or followed on Facebook) next to an ad.
+Other ways to manage your privacy
+Learn more about how to control who can see what you share. From here, you can learn how to:
+Select an audience for your posts.
+Change the audience for your past posts.
+Edit basic info on your profile and choose who can see it.
+You can also adjust privacy settings for apps and games.
+Change who can add you as a friend
+Click your profile picture in the top right of Facebook.
+Click Settings and privacy, then click Settings.
+In the left menu, scroll down to Audience and visibility, then click How people find and contact you.
+Click Who can send you friend requests?
+From the drop-down menu, click Everyone or Friends of friends.
+
+Make it easier for your friends to find you on Facebook
+Use the first and surname that you use in everyday life.
+If people know you by a different name (e.g. nickname, maiden name), add another name to your account.
+Add your basic info.
+Your current profile picture and cover photo are public, so they can be seen by anyone on or off Facebook. Learn more about adding or changing your profile picture or cover photo.
+When you add or change your profile picture or cover photo, they can appear in a few different places on Facebook:
+They'll be posted on your profile and may appear in your friends' Feeds.
+Your profile picture will appear in your Profile Pictures album. Your cover photo will appear in your Cover Photos album.
+A thumbnail version of your profile picture will appear next to your name in different places throughout Facebook. This helps friends identify your posts and comments on Facebook.
+You can adjust the privacy settings for a photo that you've used as a profile picture or cover photo in the past.
+Reviewing stuff others tag you in
+If you're having trouble finding the photo or post you'd like to hide, you can use your activity log to find it.
+Remove a tag from a post
+Go to the post.
+Click  Options in the top right.
+Click Remove tag.
+
+Remove a tag from a photo
+Go to the photo.
+Click  Options in the top right.
+Select Remove tag.
+Click OK to confirm.
+
+When you remove a tag, remember:
+When you remove a tag from someone else's story, the link to your profile will be removed. Photos from previously shared Stories may contain a sticker indicating that you were once tagged.
+That tag will no longer appear on the post or photo, but that post or photo is still visible to the audience it's shared with.
+People may be able to view the post or photo in places such as Feed or search results.
+To remove the post or photo from Facebook, you can ask the person who posted it to take it down.
+When a friend tags you in a post on Facebook, it automatically appears on your profile. If you want to review all posts (including friends' posts) before they appear on your profile, you need to turn on the setting Review posts that you're tagged in.
+Remember that if someone that you're not friends with tags you in a post, you'll be prompted to review it to appear on your profile, even if you don't have this setting turned on.
+Review posts that you're tagged in
+Click your profile picture in the top right of Facebook.
+Select  Settings and privacy, then click  Settings.
+In the left column, click Profile and tagging.
+Click Toggle next to Review posts you're tagged in before the post appears on your profile? to turn this setting on or off.
+Note: This setting only controls what's allowed on your profile. Posts that you're tagged in may still appear in search, Feed and other places on Facebook.
+Tagged posts and legacy contacts
+You can also choose to add a legacy contact to your account who looks after your account if it's memorialised. Your legacy contact will be able to turn off the setting Review posts that you're tagged in so that tagged posts can appear in the Tributes section. Learn more about what legacy contacts can do.
+View your Profile and tagging settings.
+You can use tag review to approve or dismiss tags that people add to your posts. When you turn on tag review, if someone tags something that you posted, the tag won't appear until you've approved it.
+Turn on tag review
+Click your profile picture in the top right of Facebook.
+Select  Settings and privacy, then click  Settings.
+Click Profile and tagging in the left menu.
+Click next to Review tags people add to your own posts before the tags appear on Facebook? below Reviewing.
+When tag review is on, you'll get a notification when you have a post to review. You can approve or ignore the tag request by going to the post.
+Note: When you approve a tag, the person tagged and their friends may see your post. If you don't want your post to be visible to the friends of the person tagged, you can adjust this setting. Learn more about tagging and how it works.
+View your Profile and tagging settings.
+Choose who can see posts that you've been tagged in after they've appeared on your profile
+Click your profile picture in the top right of Facebook.
+Select  Settings and privacy, then click  Settings.
+In the left column, click Profile and tagging.
+Click Who can see posts you're tagged in on your profile?.
+Select the audience of people (such as Friends) who you'd like to be able to see the posts you've been tagged in.
+You can also review photos and posts that you're tagged in before they appear in your profile using Review posts that you're tagged in before the post appears on your profile? in your Profile and tagging settings.
+Remember, photos and posts you hide from your profile are visible to the audience that they're shared with other places on Facebook, such as in Feed and Search."
+        },
+
+       {
+        "url": "https://help.instagram.com/196883487377501",
+        "title": "Instagram Privacy settings and information",
+        "scraped_date": "2025-08-18",
+        "content": "If you're under 18, your Instagram account is private by default. Teens under 16 will need their parent's or guardian's permission to switch their accounts to public. Teens aged 16-17 can change their accounts to public without permission, unless they have set up supervision with their parent or guardian.
+Learn more about the differences between public and private accounts.
+Make your account private
+Click More icon, represented by a hamburgerMore in the bottom left, then click Settings iconSettings.
+Click Account privacy below Who can see your content.
+Click  Toggle next to Private account to make your account private.
+Click Switch to private to confirm.
+Bear in mind that business profiles aren't able to make their accounts private. If you want to make your business account private, first switch back to a personal account.
+When you like a photo, it's visible to anyone who can see the post. Your followers may also see your username below a photo you've liked, no matter how many likes it has (e.g. [your username] and 12 others).
+After 4 likes, photos show the number of likes, along with usernames of some people you follow who have liked it.
+If your account is set to private:
+Only your approved followers can see your posts, including any likes and comments.
+When you like a public post, your like will be visible to everyone and your username will be clickable below the post, but only approved followers can see your posts.
+If your account is public: Anyone can like or comment on your photos and videos. If you want to prevent specific people from liking or commenting on your posts, you can block them.
+If your account is private: Only the people you've approved as followers will be able to like or comment on your photos and videos.
+If your Instagram account is set to private and you add a hashtag to your post, the post won't appear on the corresponding hashtag page.
+Only your approved followers who are in a chat can see private posts that include a hashtag when they're shared as a direct message.
+Learn more about using hashtags and adding locations to your Instagram posts.
+This feature is only available on desktop and mobile browser.
+When someone taps Follow on your Instagram profile, they'll see suggestions of similar profiles that they might also want to follow, such as mutual friends or other people they might know. If you don't want these suggestions to appear on your profile, you can turn it off:
+Click your profile picture on the left to go to your profile.
+Click Edit profile.
+Click  Toggle off next to Show account suggestions on profiles, then click Submit.
+Bear in mind that when you turn off account suggestions for your profile, you won't appear as a suggestion on someone else's profile either.
+When your Activity Status is on, people you follow and anyone you message will see when you were last active or currently active on Instagram.
+You can turn your Activity Status on or off at any time.
+Manage your Activity Status
+Click More icon, represented by a hamburgerMore in the bottom left, then click Settings iconSettings.
+Below How others can interact with you, click Messages and story replies.
+Click Show Activity Status.
+Click Toggle next to Show Activity Status to turn on or off your Activity Status.
+
+If your Activity Status is on, a  or a timestamp that shows when you were last active will be visible next to your profile picture in messaging on Instagram.
+Bear in mind that when you turn off your Activity Status, you won't see when accounts who follow you or accounts that you have direct conversations with are active, were recently active or currently active in the same chat as you. You also won't be able to see anyone else's Activity Status.
+Learn more about how to see who's active on Instagram.
+Apps and websites that you log in to with Instagram or connect to your Instagram account can be active, removed or expired from your account based on the state that they're in and how often you use them.
+Remove an app or website from Instagram
+Click More icon, represented by a hamburgerMore in the bottom left, then click Settings iconSettings.
+Below Your app and media, click Website permissions.
+Click Apps and websites, then click Active.
+Click Remove next to the app that you'd like to remove.
+What information an app or website can access on Instagram
+Some information about you is part of your public profile or is information that you've made public. An app or website can access this public information at any time. Other information is not public and an app or website can only access it if you choose to share it with the app or website when you log in with your Instagram account.
+An app or website can be:
+Active: If it appears that you've used a third-party app or website within the last 90 days, it can access any information on Instagram that you've shared with it at any time.
+Expired: For personal Instagram accounts set to private, if it appears that you haven't logged in to an app or website with your Instagram account in the last 90 days, its access to your non-public information will automatically expire. It may still have non-public information that you've previously shared with it while it was active, such as your photos or videos. There are a couple of exceptions:
+We only expire access to information that you can make non-public on your Instagram account. Certain information that is always public on Instagram, such as your username, bio and profile picture, can still be accessed after 90 days of inactivity. This information is publicly accessible to everyone, and an app or website can access this information even if you're not an active user.
+Some apps and websites have permissions that are used to monitor or manage information from business and creator accounts on Instagram. We do not expire these apps and websites after 90 days of inactivity because they may need to access these products continuously (even if you haven't logged in to the app or website recently).
+Removed: When you remove an app or website, or the app developer has made an app unavailable for you, it can only access public information on your Instagram account. Bear in mind that:
+The app or website may have stored information from when you were using it.
+Removing the app or website only prevents it from continuing to access your non-public information through Instagram.
+Bear in mind
+If you start using an app or website again after 90 days of inactivity, it may become active again and can access the non-public information that you previously chose to share with it.
+An app or website may ask you for permission to continue accessing your non-public information after its access has expired. You can approve or deny its request directly or by updating your Instagram settings at any time.
+We aren't always able to tell when you haven't used an app or website for 90 days, so we may sometimes stop an app or website from accessing your non-public information, even if you've used it in the past 90 days.
+Visit the Facebook Help Centre to learn more about how long apps and websites that you've added have access to your information on Facebook.
+You can choose to delete content from your Instagram account. This includes content such as:
+Photos and videos from your profile
+Photos and videos from your Instagram story
+Instagram stories from highlights and your story archive
+Reels
+Direct messages
+Notes
+Note that your data download file doesn't include messages that you've unsent from your Instagram account.
+Content that you choose to delete is removed from your account immediately and moved to Recently deleted.
+Content in Recently deleted will be automatically deleted 30 days later, or up to 24 hours for stories that aren't in your stories archive. During those 30 days, you can access deleted content from your account in "Recently deleted" on the Instagram app for Android and iPhone, and either restore it or permanently delete it.
+During those 30 days, the content remains subject to Instagram's Terms of Use and Privacy Policy and is not accessible to other people using Instagram.
+It may take up to 90 days to complete the deletion process after it begins. Copies of your content may remain after the 90 days in backup storage that we use to recover in the event of a disaster, software error or other data loss event. We may also keep your information for things such as legal issues, terms violations or harm prevention efforts. "
+        },
+
+       {
+        "url": "https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely",
+        "title": "Social Media: how to use it safely",
+        "scraped_date": "2025-08-18",
+        "content": "Use privacy settings across social media platforms to manage your digital footprint.
+iStock.com/Kenneth Cheung
+Social media is a great way to stay in touch with family, friends and keep up to date on the latest news. However, it’s important to know how to manage the security and privacy settings on your accounts, so that your personal information remains inaccessible to anyone but you. 
+
+This page:
+
+collects advice provided by the major social media platforms on how to set up privacy controls 
+suggests some tips on how to use social media safely
+Advice from social media platforms
+The following guidance is provided by each of the major social media platforms. Click to read detailed information.
+
+
+Facebook
+Basic privacy settings and tools: https://www.facebook.com/help/325807937506242/ 
+
+
+X (formerly Twitter)
+How to protect and unprotect your Tweets: https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public
+
+
+YouTube
+Privacy and safety: https://support.google.com/youtube/topic/2803240?hl=en&ref_topic=6151248
+
+
+Instagram
+Privacy settings and information: https://help.instagram.com/196883487377501 
+
+
+LinkedIn
+Account and privacy settings overview: https://www.linkedin.com/help/linkedin/answer/66?lang=en 
+
+
+Snapchat
+Privacy settings: https://support.snapchat.com/en-GB/a/privacy-settings2
+
+
+Tiktok
+Privacy and security settings : https://www.tiktok.com/safety/resources/privacy-and-security?lang=en
+
+Use 2-step verification (2SV) to protect your accounts
+2-step verification (often shortened to 2SV and sometimes called two-factor authentication) provides a way of 'double checking' that you really are the person you are claiming to be when you're using online services, such as social media, banking or email. Even if a criminal (or someone simply looking to cause mischief) knows your password, they won't be able to access any of your accounts that are protected using 2SV.
+
+The Cyber Aware website contains links on how to set up 2SV across popular online services such as Instagram, Snapchat, X and Facebook.  
+For more information on why you should use 2SV wherever you can, read the NCSC's official guidance on 2-step verification.
+Understanding your digital footprint
+It's worth exercising some caution when using social media. Not everyone using social media is necessarily who they say they are. Take a moment to check if you know the person, and if the friend/link/follow is genuine. 
+
+Less obviously, you should think about your digital footprint, a term that describes the information about you that is available online. Criminals can use this to steal your identity, or make phishing messages more convincing. You should:
+
+Think about what you're posting, and who has access to it. Have you configured the privacy options so that it's only accessible to the people you want to see it?
+Consider what your followers and friends need to know, and what detail is unnecessary (but could be useful for criminals).
+Have an idea about what your friends, colleagues or other contacts say about you online.
+Although aimed at businesses, CPNI’s Digital Footprint Campaign, contains a range of useful materials (including posters and booklets) to help understand the impact of your digital footprint.
+
+Spotting and reporting fake accounts
+Scammers will make fake accounts and/or hack real accounts to use them to commit a range of fraudulent activities. Many sites have a process to verify accounts, such as verified badges for Instagram and Facebook. This can help to identify real accounts against fake accounts pretending to be a well-known person. Other things to look out for include
+
+where an account has a date indicating when it was set up
+nonsensical names (appears to be random letters and numbers)
+the number of followers (although note that followers can be bought)
+It is not just celebrities accounts that are targeted by scammers. If a family member or friend posts something that appears suspicious or out of character, contact them by another method (in case their account has been hacked). If it transpires their account has been taken over, they should follow the NCSC's guidance on recovering hacked accounts (https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account).
+
+You can also report fake posts or accounts directly with the provider.
+
+Report a fake Facebook profile or page: https://en-gb.facebook.com/help/174210519303259/?helpref=related_articles,
+Report a post or profile on Instagram: https://help.instagram.com/192435014247952,
+Report impersonation accounts on X: https://help.twitter.com/en/safety-and-security/report-twitter-impersonation,
+Report someone on TikTok: https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user,
+Report fake LinkedIn profiles: https://www.linkedin.com/help/linkedin/answer/61664/report-fake-profiles?lang=en,
+Report a Safety Concern on Snapchat: https://www.snap.com/en-US/safety/safety-reporting,
+Reporting YouTube videos and channels: https://support.google.com/youtube/answer/2802027?hl=en-GB&ref_topic=9387085"
+        },
+
+       {
+        "url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+        "title": "Shopping and paying safely online",
+        "scraped_date": "2025-08-18",
+        "content": "Tips to help you purchase items safely and avoid fraudulent websites.
+
+On this page
+Check the shop is legitimate
+Use a credit card to pay
+Only provide required details on checkout
+Keep your accounts secure
+Watch out for suspicious links
+If things go wrong
+Further resources
+With so many of us now shopping online, it’s no surprise that criminals are increasingly turning to web-enabled fraud to steal our money and personal details. The following tips will help you stay safe when shopping online for goods and services.
+
+Check the shop is legitimate
+You can research online shops to check they're legitimate, particularly if it’s a store you’ve not used before. Use consumer websites, or reviews from people (or organisations) that you trust.
+
+You might receive suspicious emails or texts (known as phishing messages) that contain links to fake shops, with promotions that seem too good to be true. These days it’s easy for a criminal to duplicate the design of a legitimate website, which will often include logos, trademarks and products copied from a genuine store. Many will also use a deceptive website domain (for example, www.tescos-sales.com ), that can be easily mistaken for a genuine domain (www.tesco.com). 
+
+If you're unsure about a link you receive, don't click on it. Instead you can:
+
+type the official website address of the organisation (if you know it) directly into the browser’s address bar
+search for the organisation, and then take time to read the entries on the results page (don’t just click the top item) 
+Use a credit card to pay
+Use a credit card for payments (if you have one). Many of these protect online purchases as part of the Consumer Credit Act.
+Debit card payments offer less protection, but you might be able to make a claim for a refund under a voluntary scheme called ‘chargeback’.
+If you use payment services such as PayPal, Apple Pay or Google Pay, check their ‘terms & conditions’ to see what cover they provide.
+Never pay by direct bank transfer. 
+Only provide required details on checkout
+When making your payment, only fill in the mandatory details (often marked with an asterisk) such as your address. Unless you think you’ll become a regular customer, don't create an account for the store:
+
+there’s often an option to ‘check out as a guest’, which means you don’t need to create an account to complete the payment
+similarly, using an online payment platform (such as PayPal/Apple/Google) usually means you won’t need to create an account
+don't let your browser remember your payment details (if you’re prompted) 
+if you decide to create an account for the store, don’t allow them to store your bank details for future purchases   
+Keep your accounts secure
+
+
+iStock.com/PaperFox
+Make sure your shopping, online banking and payment accounts are protected by strong passwords that you don't use for any other account. If you're using the same password for lots of accounts, criminals could steal your password from one account, and use it to access your other ones.
+
+For this reason, you should make sure that all your important online accounts (such as email, banking, and social media accounts) have unique, strong passwords. This NCSC infographic explains how you can create strong passwords and store them safely (so you don't need to remember them).
+
+Download the NCSC's password infographic (pdf)
+
+You should also turn on 2-step verification (2SV) for all your important online accounts. This can stop hackers from accessing your accounts  - even if they know your password - by asking you to confirm your identity using a second method, for example by sending a confirmation code to your phone. Note that 2SV is sometimes called 'two-factor authentication' (or 2FA). 
+
+Watch out for suspicious links
+Cyber criminals insert malicious links into SMS text messages, emails, and increasingly on social media posts. These can be difficult to spot, and will often include unbelievable offers for goods and services with links to websites designed to look like legitimate online stores.
+
+These websites are managed by criminals, and are designed to trick people into making payments, or revealing their bank details, passwords, or other personal information.
+
+If a text message, email, website or social media post doesn’t feel right, follow the NCSC guidance on dealing with suspicious emails and text messages:
+
+If you have received an email which you’re not quite sure about, forward it to the Suspicious Email Reporting Service (SERS) at report@phishing.gov.uk
+If you've received a suspicious text message, forward it to 7726. It won't cost you anything, and allows your provider to investigate the text and take action (if found to be a scam).
+If you have visited a website you think is trying to scam you, report it to the NCSC and we'll investigate.
+If you come across an advert online that you think might be a scam, report it via the Advertising Standards Authority (ASA) website. This allows ASA to provide online service providers with the details they need to (if appropriate) remove these from websites.
+If things go wrong
+If you you’ve been tricked into making a payment, tell your bank and report it as a crime to Action Fraud (for England, Wales and Northern Ireland) or Police Scotland (for Scotland). 
+
+If you think your credit or debit card has been used by someone else, let your bank know straight away so they can block anyone using it. Always contact your bank directly using the official website or phone number. 
+
+If you don't receive an item you’ve purchased (or it doesn't match the description given), Citizens Advice has some useful information about getting your money back if you paid by credit card, debit card or PayPal."
+        },
+
+       {
+        "url": "",
+        "title": "",
+        "scraped_date": "2025-08-18",
+        "content": ""
+        },
+]
