@@ -1,0 +1,492 @@
+[
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you are being scammed, it is crucial to act quickly. Do not provide any more personal or financial information. If you have already shared your bank details, contact your bank immediately. You should report the incident to Action Fraud on 0300 123 2040 or online. Remember the Take Five to Stop Fraud advice: Stop, Challenge, Protect.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use high-pressure tactics to create a sense of urgency. Legitimate organizations will not rush you into making a decision. If you feel pressured, it is a major warning sign of a scam. Do not pay any money and report the incident to Action Fraud.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you have paid money to a scammer, you should contact your bank immediately. They may be able to stop the payment or get your money back. You should also report the scam to Action Fraud. The sooner you act, the better your chances of recovering your money.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you have shared personal information, you need to take steps to protect yourself from identity theft. Contact your bank and any other relevant financial institutions. You should also report the incident to Action Fraud. Check your credit report for any suspicious activity.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a call from my bank is genuine?",
+    "input": "",
+    "output": "Your bank will never ask you for your full PIN, password, or to transfer money to a \"safe account\". If you are unsure about a call, hang up and call your bank back on a number you know to be correct, such as the one on the back of your card.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam?",
+    "input": "",
+    "output": "You can report a scam to Action Fraud online or by calling 0300 123 2040. If you are in Scotland, you should report to Police Scotland on 101. If you are in immediate danger, always call 999.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It is very common to feel embarrassed after being scammed. Scammers are very clever and use sophisticated techniques. It is important to remember that you are not to blame. Reporting the scam is the best way to help prevent others from becoming victims. If you need emotional support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you are being scammed, it is crucial to act quickly. Do not provide any more personal or financial information. If you have already shared your bank details, contact your bank immediately. You should report the incident to Action Fraud on 0300 123 2040 or online. Remember the Take Five to Stop Fraud advice: Stop, Challenge, Protect.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use high-pressure tactics to create a sense of urgency. Legitimate organizations will not rush you into making a decision. If you feel pressured, it is a major warning sign of a scam. Do not pay any money and report the incident to Action Fraud.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you have paid money to a scammer, you should contact your bank immediately. They may be able to stop the payment or get your money back. You should also report the scam to Action Fraud. The sooner you act, the better your chances of recovering your money.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you have shared personal information, you need to take steps to protect yourself from identity theft. Contact your bank and any other relevant financial institutions. You should also report the incident to Action Fraud. Check your credit report for any suspicious activity.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a call from my bank is genuine?",
+    "input": "",
+    "output": "Your bank will never ask you for your full PIN, password, or to transfer money to a \"safe account\". If you are unsure about a call, hang up and call your bank back on a number you know to be correct, such as the one on the back of your card.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam?",
+    "input": "",
+    "output": "You can report a scam to Action Fraud online or by calling 0300 123 2040. If you are in Scotland, you should report to Police Scotland on 101. If you are in immediate danger, always call 999.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It is very common to feel embarrassed after being scammed. Scammers are very clever and use sophisticated techniques. It is important to remember that you are not to blame. Reporting the scam is the best way to help prevent others from becoming victims. If you need emotional support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you are being scammed, it is crucial to act quickly. Do not provide any more personal or financial information. If you have already shared your bank details, contact your bank immediately. You should report the incident to Action Fraud on 0300 123 2040 or online. Remember the Take Five to Stop Fraud advice: Stop, Challenge, Protect.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use high-pressure tactics to create a sense of urgency. Legitimate organizations will not rush you into making a decision. If you feel pressured, it is a major warning sign of a scam. Do not pay any money and report the incident to Action Fraud.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you have paid money to a scammer, you should contact your bank immediately. They may be able to stop the payment or get your money back. You should also report the scam to Action Fraud. The sooner you act, the better your chances of recovering your money.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you have shared personal information, you need to take steps to protect yourself from identity theft. Contact your bank and any other relevant financial institutions. You should also report the incident to Action Fraud. Check your credit report for any suspicious activity.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a call from my bank is genuine?",
+    "input": "",
+    "output": "Your bank will never ask you for your full PIN, password, or to transfer money to a \"safe account\". If you are unsure about a call, hang up and call your bank back on a number you know to be correct, such as the one on the back of your card.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam?",
+    "input": "",
+    "output": "You can report a scam to Action Fraud online or by calling 0300 123 2040. If you are in Scotland, you should report to Police Scotland on 101. If you are in immediate danger, always call 999.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It is very common to feel embarrassed after being scammed. Scammers are very clever and use sophisticated techniques. It is important to remember that you are not to blame. Reporting the scam is the best way to help prevent others from becoming victims. If you need emotional support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you are being scammed, it is crucial to act quickly. Do not provide any more personal or financial information. If you have already shared your bank details, contact your bank immediately. You should report the incident to Action Fraud on 0300 123 2040 or online. Remember the Take Five to Stop Fraud advice: Stop, Challenge, Protect.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use high-pressure tactics to create a sense of urgency. Legitimate organizations will not rush you into making a decision. If you feel pressured, it is a major warning sign of a scam. Do not pay any money and report the incident to Action Fraud.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you have paid money to a scammer, you should contact your bank immediately. They may be able to stop the payment or get your money back. You should also report the scam to Action Fraud. The sooner you act, the better your chances of recovering your money.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you have shared personal information, you need to take steps to protect yourself from identity theft. Contact your bank and any other relevant financial institutions. You should also report the incident to Action Fraud. Check your credit report for any suspicious activity.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a call from my bank is genuine?",
+    "input": "",
+    "output": "Your bank will never ask you for your full PIN, password, or to transfer money to a \"safe account\". If you are unsure about a call, hang up and call your bank back on a number you know to be correct, such as the one on the back of your card.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam?",
+    "input": "",
+    "output": "You can report a scam to Action Fraud online or by calling 0300 123 2040. If you are in Scotland, you should report to Police Scotland on 101. If you are in immediate danger, always call 999.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It is very common to feel embarrassed after being scammed. Scammers are very clever and use sophisticated techniques. It is important to remember that you are not to blame. Reporting the scam is the best way to help prevent others from becoming victims. If you need emotional support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you are being scammed, it is crucial to act quickly. Do not provide any more personal or financial information. If you have already shared your bank details, contact your bank immediately. You should report the incident to Action Fraud on 0300 123 2040 or online. Remember the Take Five to Stop Fraud advice: Stop, Challenge, Protect.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use high-pressure tactics to create a sense of urgency. Legitimate organizations will not rush you into making a decision. If you feel pressured, it is a major warning sign of a scam. Do not pay any money and report the incident to Action Fraud.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you have paid money to a scammer, you should contact your bank immediately. They may be able to stop the payment or get your money back. You should also report the scam to Action Fraud. The sooner you act, the better your chances of recovering your money.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you have shared personal information, you need to take steps to protect yourself from identity theft. Contact your bank and any other relevant financial institutions. You should also report the incident to Action Fraud. Check your credit report for any suspicious activity.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a call from my bank is genuine?",
+    "input": "",
+    "output": "Your bank will never ask you for your full PIN, password, or to transfer money to a \"safe account\". If you are unsure about a call, hang up and call your bank back on a number you know to be correct, such as the one on the back of your card.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam?",
+    "input": "",
+    "output": "You can report a scam to Action Fraud online or by calling 0300 123 2040. If you are in Scotland, you should report to Police Scotland on 101. If you are in immediate danger, always call 999.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It is very common to feel embarrassed after being scammed. Scammers are very clever and use sophisticated techniques. It is important to remember that you are not to blame. Reporting the scam is the best way to help prevent others from becoming victims. If you need emotional support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you are being scammed, it is crucial to act quickly. Do not provide any more personal or financial information. If you have already shared your bank details, contact your bank immediately. You should report the incident to Action Fraud on 0300 123 2040 or online. Remember the Take Five to Stop Fraud advice: Stop, Challenge, Protect.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use high-pressure tactics to create a sense of urgency. Legitimate organizations will not rush you into making a decision. If you feel pressured, it is a major warning sign of a scam. Do not pay any money and report the incident to Action Fraud.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you have paid money to a scammer, you should contact your bank immediately. They may be able to stop the payment or get your money back. You should also report the scam to Action Fraud. The sooner you act, the better your chances of recovering your money.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you have shared personal information, you need to take steps to protect yourself from identity theft. Contact your bank and any other relevant financial institutions. You should also report the incident to Action Fraud. Check your credit report for any suspicious activity.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a call from my bank is genuine?",
+    "input": "",
+    "output": "Your bank will never ask you for your full PIN, password, or to transfer money to a \"safe account\". If you are unsure about a call, hang up and call your bank back on a number you know to be correct, such as the one on the back of your card.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam?",
+    "input": "",
+    "output": "You can report a scam to Action Fraud online or by calling 0300 123 2040. If you are in Scotland, you should report to Police Scotland on 101. If you are in immediate danger, always call 999.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It is very common to feel embarrassed after being scammed. Scammers are very clever and use sophisticated techniques. It is important to remember that you are not to blame. Reporting the scam is the best way to help prevent others from becoming victims. If you need emotional support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you are being scammed, it is crucial to act quickly. Do not provide any more personal or financial information. If you have already shared your bank details, contact your bank immediately. You should report the incident to Action Fraud on 0300 123 2040 or online. Remember the Take Five to Stop Fraud advice: Stop, Challenge, Protect.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use high-pressure tactics to create a sense of urgency. Legitimate organizations will not rush you into making a decision. If you feel pressured, it is a major warning sign of a scam. Do not pay any money and report the incident to Action Fraud.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you have paid money to a scammer, you should contact your bank immediately. They may be able to stop the payment or get your money back. You should also report the scam to Action Fraud. The sooner you act, the better your chances of recovering your money.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you have shared personal information, you need to take steps to protect yourself from identity theft. Contact your bank and any other relevant financial institutions. You should also report the incident to Action Fraud. Check your credit report for any suspicious activity.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a call from my bank is genuine?",
+    "input": "",
+    "output": "Your bank will never ask you for your full PIN, password, or to transfer money to a \"safe account\". If you are unsure about a call, hang up and call your bank back on a number you know to be correct, such as the one on the back of your card.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam?",
+    "input": "",
+    "output": "You can report a scam to Action Fraud online or by calling 0300 123 2040. If you are in Scotland, you should report to Police Scotland on 101. If you are in immediate danger, always call 999.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It is very common to feel embarrassed after being scammed. Scammers are very clever and use sophisticated techniques. It is important to remember that you are not to blame. Reporting the scam is the best way to help prevent others from becoming victims. If you need emotional support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  }
+]

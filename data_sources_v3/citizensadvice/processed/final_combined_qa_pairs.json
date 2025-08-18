@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you're currently being scammed, it's important to act quickly but calmly. First, stop any immediate transactions or sharing of personal information. If you're on the phone with someone suspicious, hang up immediately. If you've already shared financial details, contact your bank or card provider right away using the number on the back of your card or from your bank statements - never use contact details provided by the person you suspect is scamming you. Report the incident to Action Fraud online at actionfraud.police.uk or by calling 0300 123 2040. If you've lost money, your bank may be able to help recover it if you act quickly. Remember, legitimate organizations will never pressure you to act immediately or ask for your PIN, full password, or ask you to transfer money to 'secure accounts'. Trust your instincts - if something feels wrong, it probably is.",
+    "source_document": "Action Fraud reporting guidance and fraud prevention advice",
+    "source_url": "https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "No, legitimate organizations will never pressure you to pay money urgently. This is a classic red flag of fraud. Scammers create false urgency to prevent you from thinking clearly and doing proper checks. Your bank, the police, government departments, or legitimate companies will never demand immediate payment or threaten you with arrest or legal action if you don't pay straight away. If someone is pressuring you to act quickly, this is almost certainly a scam. Hang up the phone, delete suspicious emails, and don't respond to threatening messages. If you're unsure, contact the organization directly using contact details from their official website (never from the suspicious communication). Remember the Take Five to Stop Fraud advice: STOP, CHALLENGE, PROTECT. Take a moment to stop and think before parting with your money or information.",
+    "source_document": "Action Fraud courier fraud and mandate fraud prevention guidance",
+    "source_url": "https://www.actionfraud.police.uk/alert/action-fraud-warns-of-new-courier-fraud-tactic-after-receiving-120-reports-in-24-hours",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've just realized I might have been tricked, what are my next steps?",
+    "input": "",
+    "output": "Don't panic - many people fall victim to fraud and there are steps you can take to minimize the damage. First, if you've shared any financial information, contact your bank or card provider immediately using the number on the back of your card. They can freeze your accounts and prevent further losses. If you've made any payments, your bank may be able to help recover the money if you act quickly. Report the incident to Action Fraud online at actionfraud.police.uk or by calling 0300 123 2040. If you've shared personal information, consider contacting CIFAS to apply for protective registration, which will add extra checks when financial services are applied for using your details. Change any passwords you may have shared, especially for online banking. Keep records of all communications and transactions related to the incident. Remember, you're not alone - fraud affects thousands of people every year, and there's no shame in seeking help.",
+    "source_document": "Action Fraud victim support and reporting procedures",
+    "source_url": "https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "There's a chance you can recover your money, but you need to act quickly. Contact your bank or payment provider immediately - the sooner you report it, the better your chances of recovery. If you paid by card, your bank may be able to reverse the transaction or help you claim under chargeback or Section 75 protection. If you transferred money, contact your bank straight away as they may be able to trace and recover the funds. Report the fraud to Action Fraud online or by calling 0300 123 2040. Keep all evidence including emails, text messages, bank statements, and any other communications. Be aware that scammers often target victims again with offers to help recover lost money - these are usually additional scams. Never pay any 'fees' to someone claiming they can get your money back. Your bank and Action Fraud will never ask you to pay to recover funds. If you're struggling emotionally, Victim Support can provide free, confidential help on 0808 168 9111.",
+    "source_document": "Action Fraud victim support and financial recovery guidance",
+    "source_url": "https://www.actionfraud.police.uk/vulnerable-victims-and-the-victims-code",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "Don't panic, but act quickly to protect yourself. If you've shared financial information like bank details or card numbers, contact your bank immediately using the number on the back of your card. They can monitor your accounts for suspicious activity and may be able to prevent fraud. If you've shared passwords, change them immediately, especially for online banking and email accounts. Consider contacting CIFAS to apply for protective registration, which adds extra checks when financial services are applied for using your details. Monitor your bank statements and credit reports regularly for any unusual activity. Report the incident to Action Fraud online or by calling 0300 123 2040. Be extra vigilant for follow-up scams - fraudsters often target victims again with offers to help or additional demands. Remember, legitimate organizations will never ask for your full password, PIN, or pressure you to share personal information. If you're concerned about identity theft, you can get a copy of your credit report from agencies like Experian, Equifax, or TransUnion.",
+    "source_document": "Action Fraud identity theft and personal data protection guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/identity-fraud-and-identity-theft",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been a victim of phishing, how do I report it?",
+    "input": "",
+    "output": "If you've been targeted by phishing but haven't lost money or been hacked, you can help protect others by reporting it. Forward suspicious emails to the Suspicious Email Reporting Service (SERS) at report@phishing.gov.uk. For suspicious text messages, forward them to 7726 (this works with most UK mobile providers). If you've lost money or been hacked as a result of responding to a phishing message, report it to Action Fraud online at actionfraud.police.uk or by calling 0300 123 2040. If you're in Scotland, report to Police Scotland by calling 101. For suspicious websites, you can report them to the National Cyber Security Centre (NCSC) through Action Fraud's website. The NCSC will analyze reported emails and websites and may block malicious addresses or remove scam websites. While they can't tell you the outcome of their review, they do act on every message received. Remember to delete the suspicious email after reporting it, and never click on links or download attachments from suspicious messages.",
+    "source_document": "Action Fraud phishing reporting and prevention guidance",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an email from my bank is legitimate?",
+    "input": "",
+    "output": "Your bank will never ask you to click on links in emails to log into your account or provide personal information. Legitimate banks won't ask for your PIN, full password, or card details via email. Check the sender's email address carefully - scammers often use addresses that look similar to real ones but have slight differences. Look for spelling mistakes, poor grammar, or urgent demands for action. If you're unsure, don't click any links. Instead, contact your bank directly using the phone number on the back of your card or from your bank statements. You can also log into your online banking by typing the bank's website address directly into your browser. If the email asks you to verify your account or claims there's been suspicious activity, contact your bank using their official contact details. Remember, it's always better to be cautious - if something seems suspicious, trust your instincts and contact your bank directly.",
+    "source_document": "Action Fraud phishing and banking security guidance",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs of a courier fraud scam?",
+    "input": "",
+    "output": "Courier fraud has several clear warning signs. The scammer will call you claiming to be from your bank or the police, often using a fake name and badge number to appear trustworthy. They'll tell you about fraudulent activity on your account and ask you to help catch the criminals. They may ask you to withdraw money or provide your bank cards to a courier who will collect them from your home. They might also ask you to transfer money to a 'secure account' or provide your PIN. Key red flags include: someone claiming to be from your bank or police asking for your PIN or card details, offers to send a courier to collect your cards, requests to transfer money to 'secure accounts', and high-pressure tactics with urgent demands. Remember, your bank and the police will never call you to ask for your PIN, ask you to withdraw money, or send someone to collect your cards. If you receive such a call, hang up immediately and contact your bank using the number on the back of your card.",
+    "source_document": "Action Fraud courier fraud prevention and warning signs",
+    "source_url": "https://www.actionfraud.police.uk/alert/action-fraud-warns-of-new-courier-fraud-tactic-after-receiving-120-reports-in-24-hours",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I protect myself from sextortion scams?",
+    "input": "",
+    "output": "Sextortion scams involve criminals threatening to share compromising videos or images unless you pay them. These scammers often include your actual password in their emails to make the threat seem credible. Don't panic - these passwords are usually obtained from old data breaches, not from hacking your computer. Never respond to these emails or pay the ransom, as this will likely encourage more scams. Delete the email and report it to report@phishing.gov.uk. If the email contains a password you still use, change it immediately. Consider using a password manager and enabling two-factor authentication on your accounts. You can check if your email has been compromised at haveibeenpwned.com. Remember, the scammers don't actually have compromising videos of you - they're just trying to scare you into paying. If you've already paid money, report it to your local police by calling 101. For emotional support, contact Victim Support on 0808 168 9111. These scams are designed to play on your emotions, so it's important to stay calm and not let fear drive your actions.",
+    "source_document": "Action Fraud sextortion scam prevention and response guidance",
+    "source_url": "https://www.actionfraud.police.uk/sextortion",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about pension scams?",
+    "input": "",
+    "output": "If you suspect you've been targeted by a pension scam, contact several organizations depending on your situation. Report the scam to Action Fraud online at actionfraud.police.uk or by calling 0300 123 2040. If the scam involves an unauthorised firm, report it to the Financial Conduct Authority (FCA) by calling their Consumer Helpline on 0800 111 6768. If you've agreed to transfer your pension and now suspect a scam, contact your pension provider immediately - they may be able to stop a transfer that hasn't taken place yet. For guidance on pension matters, contact The Pensions Advisory Service for free, independent advice. If you're over 50 and have a defined contribution pension, Pension Wise offers pre-booked appointments to discuss retirement options. For nuisance calls about pensions, report them to the Information Commissioner's Office (ICO) using their online reporting tool or by calling 0303 123 1113. Remember, legitimate pension advice is never free when offered out of the blue, and cold calls about pensions are illegal in the UK.",
+    "source_document": "Action Fraud pension scam reporting and prevention guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/pension-scams",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What information do I need when reporting fraud to Action Fraud?",
+    "input": "",
+    "output": "When reporting fraud to Action Fraud, have as much information as possible ready. This includes: your personal details (name, address, contact information), details about what happened (when, how, who contacted you), any financial losses (amounts, payment methods, account details), copies of relevant documents (emails, text messages, bank statements, receipts), contact details of the fraudster if you have them, and any reference numbers from your bank or other organizations. You can report online 24/7 at actionfraud.police.uk or call 0300 123 2040 Monday to Friday 8am-8pm. If you register online, you'll be able to track your report's progress and add information later. You can also report as a guest, but you'll only receive updates by email or post. Action Fraud will give you a reference number - keep this safe as you'll need it for any follow-up. Remember, Action Fraud doesn't investigate cases directly but passes information to the National Fraud Intelligence Bureau, which may forward cases to local police forces for investigation.",
+    "source_document": "Action Fraud reporting procedures and information requirements",
+    "source_url": "https://www.actionfraud.police.uk/report",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How long does it take to get a response from Action Fraud?",
+    "input": "",
+    "output": "Action Fraud aims to send you an update within 4-6 weeks after you make your report. However, this timeline can vary depending on the complexity of your case and current workload. If you registered online when making your report, you can track the progress through your account dashboard. You can also add information to your report or contact Action Fraud for updates. It's important to understand that Action Fraud is a reporting center, not an investigative body. They pass reports to the National Fraud Intelligence Bureau (NFIB), which assesses whether there are viable lines of enquiry for police forces to investigate. Not all reports result in police investigation, but all information helps build intelligence about fraud patterns and protect others. If you need immediate help with a live cyber attack affecting your business, call 0300 123 2040 immediately (available 24/7 for businesses). For urgent financial issues, always contact your bank first as they may be able to help recover funds or prevent further losses.",
+    "source_document": "Action Fraud response times and investigation process",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 1,
+    "document_index": 12,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "Absolutely - feeling embarrassed, ashamed, or even guilty after being scammed is completely normal and understandable. Many victims feel this way, but it's important to remember that you are not to blame. Scammers are skilled professionals who use sophisticated psychological techniques to manipulate people. They spend hours researching their targets and use tactics designed to override normal caution. Fraud affects people from all walks of life, including highly educated and financially savvy individuals. The emotional impact can be significant, affecting your confidence, sleep, and relationships. It's okay to seek support - Victim Support offers free, confidential help on 0808 168 9111, and they can provide emotional support as well as practical guidance. Talking to friends and family can also help, though some victims prefer to keep it private initially. Remember, reporting the fraud helps protect others and contributes to catching the criminals. You're not alone - Action Fraud receives hundreds of thousands of reports each year, and many more incidents go unreported due to embarrassment.",
+    "source_document": "Action Fraud victim support and emotional guidance",
+    "source_url": "https://www.actionfraud.police.uk/vulnerable-victims-and-the-victims-code",
+    "chunk_number": 1,
+    "document_index": 13,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I cope with the stress of being a cyber fraud victim?",
+    "input": "",
+    "output": "Being a victim of cyber fraud can be extremely stressful and emotionally challenging. It's important to acknowledge your feelings and seek support. Contact Victim Support on 0808 168 9111 for free, confidential emotional support and practical guidance. They can help you process what happened and develop coping strategies. Talk to trusted friends or family members - sharing your experience can help reduce feelings of isolation and shame. Focus on taking practical steps to protect yourself, which can help you feel more in control. This might include changing passwords, monitoring your accounts, or setting up additional security measures. Practice self-care: maintain regular routines, get enough sleep, exercise, and engage in activities you enjoy. Be patient with yourself - recovery from fraud can take time, and it's normal to feel anxious or suspicious for a while. Consider speaking to your GP if you're struggling with anxiety, depression, or sleep problems. Remember that stress responses are normal after a traumatic experience, and seeking help is a sign of strength, not weakness.",
+    "source_document": "Action Fraud victim support and mental health guidance",
+    "source_url": "https://www.actionfraud.police.uk/vulnerable-victims-and-the-victims-code",
+    "chunk_number": 1,
+    "document_index": 14,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Will people judge me for falling for this online scam?",
+    "input": "",
+    "output": "It's natural to worry about being judged, but most people are understanding and supportive when they learn someone has been scammed. Scammers are becoming increasingly sophisticated, using psychological manipulation and often targeting people when they're vulnerable or distracted. Many victims are highly intelligent, financially literate people who were caught off guard. The reality is that fraud affects people from all backgrounds and education levels. If you choose to tell people, you might be surprised by how many have had similar experiences or know someone who has. Some people prefer to keep it private initially, which is completely understandable. When you do share, focus on the facts and what you've learned - this can actually help others avoid similar scams. Remember that reporting fraud helps protect the community and contributes to catching criminals. If you're concerned about telling specific people, you can always start with a trusted friend or family member, or speak to Victim Support on 0808 168 9111 for confidential support. The most important thing is your wellbeing and recovery.",
+    "source_document": "Action Fraud victim support and social stigma guidance",
+    "source_url": "https://www.actionfraud.police.uk/vulnerable-victims-and-the-victims-code",
+    "chunk_number": 1,
+    "document_index": 15,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I receive a suspicious phone call?",
+    "input": "",
+    "output": "If you receive a suspicious phone call, the safest thing to do is hang up immediately. Don't engage with the caller or try to argue with them. If they claim to be from your bank, the police, or another organization, don't trust them - hang up and call the organization back using a number you know is genuine (like the number on the back of your bank card or from their official website). Wait at least 5 minutes before calling back, as fraudsters can stay on the line after you hang up. If you're unsure about a call, you can report scam call numbers by texting 7726 with the word 'Call' followed by the scam caller's number. Your phone provider can investigate and block malicious numbers. If you've lost money or been hacked as a result of responding to a call, report it to Action Fraud online or by calling 0300 123 2040. In Scotland, report to Police Scotland by calling 101. Remember, legitimate organizations will never pressure you to act immediately, ask for your PIN or full password, or demand you transfer money to 'secure accounts'. Trust your instincts - if something feels wrong, it probably is.",
+    "source_document": "Action Fraud phone scam prevention and reporting guidance",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 16,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from malware and computer viruses?",
+    "input": "",
+    "output": "To protect yourself from malware and computer viruses, start with basic security measures. Install reputable antivirus software and keep it updated, along with a firewall. Regularly update your operating system and software to patch security vulnerabilities. Be extremely careful when downloading files - only download from trusted sources and never open attachments from unknown senders. Be cautious when browsing the web and don't click on suspicious links or pop-ups. Use strong, unique passwords for your accounts and consider using a password manager. Enable two-factor authentication where possible. Be wary of emails or websites that pressure you to download something urgently or offer free software that seems too good to be true. If your computer starts behaving strangely (slow performance, unexpected pop-ups, inability to access files), it may be infected. If you suspect malware, don't use the infected computer for online banking or shopping. You can report malware incidents to Action Fraud online or by calling 0300 123 2040. Consider seeking professional help to clean your computer if you're unsure how to do it safely.",
+    "source_document": "Action Fraud malware prevention and computer security guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/malware",
+    "chunk_number": 1,
+    "document_index": 17,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I see unusual transactions on my bank statement?",
+    "input": "",
+    "output": "If you see unusual transactions on your bank statement, act immediately. Contact your bank or card provider straight away using the number on the back of your card or from your bank statements. Don't use contact details from any suspicious communications you may have received. Your bank can freeze your account to prevent further losses and may be able to reverse fraudulent transactions if you report them quickly. Check your other accounts and cards for any suspicious activity. Report the fraud to Action Fraud online at actionfraud.police.uk or by calling 0300 123 2040. Keep copies of your bank statements and any other evidence. If you suspect your card details have been compromised, your bank will likely cancel your card and issue a replacement. Monitor your accounts regularly for any further suspicious activity. Consider signing up for transaction alerts if your bank offers them. If you've shared any personal information with fraudsters, consider contacting CIFAS for protective registration. Remember, the sooner you report suspicious activity, the better your chances of recovering any lost money and preventing further fraud.",
+    "source_document": "Action Fraud bank account fraud and transaction monitoring guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/bank-account-fraud",
+    "chunk_number": 1,
+    "document_index": 18,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a website is a scam?",
+    "input": "",
+    "output": "There are several warning signs that a website might be a scam. Check the website address carefully - scammers often use addresses that look similar to legitimate sites but have slight differences. Look for the padlock symbol and 'https' in the address bar, though these aren't guarantees of legitimacy. Be suspicious of websites with poor design, spelling mistakes, or grammatical errors. Check for contact information and physical addresses - legitimate businesses usually provide these. Be wary of websites offering products at prices that seem too good to be true. Check online reviews and search for complaints about the website. If you're unsure about a website, you can report it to the National Cyber Security Centre (NCSC) through Action Fraud's website. The NCSC has the power to investigate and remove scam websites. Never enter personal or financial information on a website you're unsure about. If you think you've shared information with a scam website, contact your bank immediately and report it to Action Fraud. Remember, if something seems too good to be true, it probably is.",
+    "source_document": "Action Fraud website scam identification and reporting guidance",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 19,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I receive a suspicious text message?",
+    "input": "",
+    "output": "If you receive a suspicious text message, don't reply to it or click on any links. Most UK mobile providers are part of a scheme that allows you to report suspicious texts by forwarding them to 7726 (this spells 'SPAM' on most phones). Your provider can investigate the origin of the text and block malicious senders. If you've lost money or been hacked as a result of responding to a suspicious text, report it to Action Fraud online at actionfraud.police.uk or by calling 0300 123 2040. In Scotland, report to Police Scotland by calling 101. Be aware of common scam text patterns: messages claiming you've won prizes, urgent demands for payment, requests to click links to verify accounts, or messages from unknown numbers asking for personal information. Legitimate organizations won't ask for personal or financial information via text message. If you're unsure about a text claiming to be from your bank or another organization, contact them directly using their official contact details. Delete suspicious texts after reporting them, and never share personal information in response to unsolicited messages.",
+    "source_document": "Action Fraud text message scam reporting and prevention guidance",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 20,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from identity theft?",
+    "input": "",
+    "output": "To protect yourself from identity theft, start with basic security practices. Shred any documents containing personal information before disposing of them. Be careful with your personal information online and only share it with trusted organizations. Use strong, unique passwords for your accounts and enable two-factor authentication where possible. Check your bank statements and credit reports regularly for any unusual activity. If you move house, set up mail redirection with Royal Mail to prevent your post from falling into the wrong hands. Be wary of unsolicited requests for personal information via phone, email, or text. If you're expecting important documents like bank statements and they don't arrive, contact the sender immediately. Consider signing up for CIFAS protective registration, which adds extra checks when financial services are applied for using your details. If you suspect your identity has been stolen, report it to Action Fraud and contact relevant organizations like your bank, credit card companies, and utility providers. You can get free copies of your credit report from agencies like Experian, Equifax, and TransUnion to check for any suspicious activity.",
+    "source_document": "Action Fraud identity theft prevention and protection guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/identity-fraud-and-identity-theft",
+    "chunk_number": 1,
+    "document_index": 21,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if my bank card is lost or stolen?",
+    "input": "",
+    "output": "If your bank card is lost or stolen, contact your card provider immediately using their 24-hour emergency number (usually printed on your bank statements or available on their website). The sooner you report it, the better protected you'll be. Your bank will cancel the card and issue a replacement. Check your recent transactions for any suspicious activity and report anything you don't recognize. If you suspect the card was stolen rather than just lost, consider reporting it to the police, especially if other items were taken. Monitor your bank statements and credit reports for any unusual activity in the coming weeks. If you had your PIN written down with the card, change your PIN immediately once you get your replacement card. Consider setting up transaction alerts if your bank offers them. If you're abroad when your card is lost or stolen, contact your card provider immediately and they can usually arrange emergency cash or a replacement card. Remember to keep your card provider's emergency number stored safely, separate from your cards.",
+    "source_document": "Action Fraud bank card security and loss prevention guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/bank-card-and-cheque-fraud",
+    "chunk_number": 1,
+    "document_index": 22,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is legitimate?",
+    "input": "",
+    "output": "Be extremely cautious of investment opportunities, especially those offered out of the blue. Check if the firm is authorized by the Financial Conduct Authority (FCA) by searching the FCA Register. Be suspicious of promises of high returns with low risk - if it sounds too good to be true, it probably is. Legitimate investment firms won't pressure you to act quickly or make you feel like you're missing out on a limited-time opportunity. Be wary of investments in unusual assets like overseas property, renewable energy bonds, or storage units, especially if they're unregulated. Check the FCA Warning List to see if the firm is known to be operating without authorization. Be cautious of complex investment structures where it's unclear where your money will end up. If you're unsure, seek independent financial advice from an FCA-authorized adviser. Remember, if you invest with an unauthorized firm, you won't have access to the Financial Ombudsman Service or Financial Services Compensation Scheme if things go wrong. If you suspect an investment scam, report it to Action Fraud and the FCA Consumer Helpline on 0800 111 6768.",
+    "source_document": "Action Fraud investment scam prevention and FCA guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/pension-scams",
+    "chunk_number": 1,
+    "document_index": 23,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I receive counterfeit currency?",
+    "input": "",
+    "output": "If you receive counterfeit currency, don't try to pass it on to someone else - this is illegal. If the person who gave you the counterfeit notes is still present or nearby, consider calling the police on 999. If they're not present, report it to your local police by calling 101, attending your local police station, or reporting online depending on your force area. Keep the counterfeit notes as evidence, ideally in a plastic wallet or paper envelope to preserve any fingerprints. If you have CCTV footage of the person who gave you the counterfeit currency, download it and provide it to the police along with the notes. Don't handle the notes more than necessary to preserve evidence. You can check if notes are genuine by looking for security features - the Bank of England website has detailed guidance on how to check banknotes. Remember, Action Fraud doesn't deal with counterfeit currency - this should be reported directly to the police. If you have information about people making, supplying, or passing counterfeit currency, you can report it anonymously to CrimeStoppers on 0800 555 111.",
+    "source_document": "Action Fraud counterfeit currency reporting and handling guidance",
+    "source_url": "https://www.actionfraud.police.uk/blog/counterfeit-currency-what-to-do-if-you-receive-counterfeit-notes-or-coins-and-where-to-report",
+    "chunk_number": 1,
+    "document_index": 24,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from ATM fraud?",
+    "input": "",
+    "output": "To protect yourself from ATM fraud, always cover your PIN when entering it using your free hand and body to shield the keypad. Be alert to your surroundings and if someone is crowding or watching you, cancel the transaction and use a different machine. Don't accept help from strangers at ATMs, even if they seem well-meaning. Check the ATM for any signs of tampering or unusual devices before using it. If the machine looks suspicious or has been tampered with, don't use it and report it to the bank immediately. Put your personal safety first - if someone makes you feel uncomfortable, cancel the transaction and leave. Once you've completed a transaction, put your money and card away before leaving the ATM. Destroy or shred your ATM receipts when you're done with them. If the ATM doesn't return your card, report it immediately to your card company, ideally using your mobile while still at the machine. Keep your card company's 24-hour contact number stored in your phone. Be extra careful when using ATMs abroad and consider using ATMs inside banks when possible.",
+    "source_document": "Action Fraud ATM fraud prevention and security guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/cash-point-fraud",
+    "chunk_number": 1,
+    "document_index": 25,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I receive a suspicious email from the NCA or police?",
+    "input": "",
+    "output": "If you receive an email claiming to be from the National Crime Agency (NCA) or police, be very suspicious. The NCA and police will never send unsolicited emails requesting money, bank details, or threatening arrest. These emails are almost always scams. Common signs include: threats of arrest or legal action, demands for immediate payment, claims about illegal activity on your computer, and pressure to act quickly. The NCA will not send unsolicited correspondence requesting money or bank details. If you have doubts about an email claiming to be from the NCA, you can call them on 0370 496 7622 to verify. Don't reply to the email or click on any links. Instead, forward suspicious emails to report@phishing.gov.uk and then delete them. If you've lost money or been hacked as a result of responding to such an email, report it to Action Fraud online or by calling 0300 123 2040. Remember, legitimate law enforcement agencies don't threaten people via email or demand immediate payments to avoid arrest.",
+    "source_document": "Action Fraud NCA impersonation scam prevention guidance",
+    "source_url": "https://www.actionfraud.police.uk/news/fake-nca-emails",
+    "chunk_number": 1,
+    "document_index": 26,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from mandate fraud?",
+    "input": "",
+    "output": "Mandate fraud, also known as Payment Diversion Fraud, involves criminals impersonating legitimate businesses to redirect payments. To protect yourself, be extremely cautious of emails requesting changes to payment details or bank account information. Always verify payment requests directly with the company using known contact details - never use contact details provided in the suspicious email. Be suspicious of urgent payment requests or pressure to act quickly. Check email addresses carefully - scammers often use addresses that look similar to genuine ones but have slight differences. If you're a business, implement procedures requiring verbal confirmation of payment changes. Be wary of emails claiming to be from suppliers with new bank account details. If you receive such a request, contact the supplier directly using their known phone number to verify the change. Never make payments based solely on email requests without verification. If you suspect mandate fraud, contact your bank immediately and report it to Action Fraud. Remember the Take Five to Stop Fraud advice: STOP, CHALLENGE, PROTECT. Take a moment to stop and think before making any payments.",
+    "source_document": "Action Fraud mandate fraud prevention and business security guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/mandate-fraud",
+    "chunk_number": 1,
+    "document_index": 27,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I receive a suspicious cheque?",
+    "input": "",
+    "output": "If you receive a suspicious cheque, be very careful. Common red flags include: cheques for more than the agreed amount with requests to send back the difference, cheques from unknown sources, and pressure to cash the cheque quickly. Be suspicious if someone asks you to cash a cheque and send them money back - this is a common scam. Cheques should clear with money in your account after the sixth working day, but nothing is guaranteed before that. If you're unsure about a cheque, don't cash it until you're certain it's legitimate. Be wary of cheques that look unusual, have poor quality printing, or contain spelling mistakes. If you receive a cheque that seems suspicious, contact your bank for advice. Never send goods or money based on a cheque that hasn't fully cleared. If you've been given a counterfeit or fraudulent cheque, report it to Action Fraud online or by calling 0300 123 2040. Remember, legitimate businesses and individuals won't pressure you to act quickly or ask you to send money back after overpaying by cheque.",
+    "source_document": "Action Fraud cheque fraud prevention and identification guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/cheque-fraud",
+    "chunk_number": 1,
+    "document_index": 28,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from online shopping fraud?",
+    "input": "",
+    "output": "To protect yourself from online shopping fraud, only shop on secure websites - look for the padlock symbol and 'https' in the address bar. Be suspicious of websites offering products at prices that seem too good to be true. Check for contact information and physical addresses on the website. Read online reviews and search for complaints about the seller. Use secure payment methods like credit cards when possible, as they offer better protection than debit cards. Sign up for Verified by Visa or MasterCard SecureCode when given the option. Never send your PIN over the internet. Print out your order and keep copies of the retailer's terms and conditions, returns policy, and contact details. Be wary of sellers who only accept bank transfers or cryptocurrency payments. If you're buying from classified ads or auction sites, be especially cautious of overseas buyers who agree to prices without seeing items. Use secure payment platforms like PayPal when possible. If you suspect you've been scammed, contact your bank immediately and report it to Action Fraud. Remember, if a deal seems too good to be true, it probably is.",
+    "source_document": "Action Fraud online shopping security and fraud prevention guidance",
+    "source_url": "https://www.actionfraud.police.uk/a-z-of-fraud/bank-card-and-cheque-fraud",
+    "chunk_number": 1,
+    "document_index": 29,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I receive a suspicious advert online?",
+    "input": "",
+    "output": "If you see a suspicious online advert, don't click on it or provide any personal information. Common red flags include: adverts offering products at unrealistically low prices, false celebrity endorsements, pressure to act quickly, and requests for personal or financial information. Be suspicious of adverts that seem too good to be true or use high-pressure sales tactics. If you think an advert is trying to scam you, you can report it to the National Cyber Security Centre (NCSC) through Action Fraud's website. The NCSC has the power to investigate and remove scam adverts. Be especially careful with adverts on social media, as scammers often target these platforms. If you've already responded to a suspicious advert and lost money, report it to Action Fraud online or by calling 0300 123 2040. Contact your bank immediately if you've shared financial information. Remember, legitimate businesses won't pressure you to act immediately or ask for personal information through adverts. If you're unsure about an advert, research the company online and look for reviews or complaints before responding.",
+    "source_document": "Action Fraud scam advert identification and reporting guidance",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 30,
+    "generated_by": "gemini"
+  }
+] 

@@ -1,0 +1,312 @@
+[
+  {
+    "instruction": "I just received an email saying my account has been compromised due to a data breach. They're asking me to click a link to verify my details. Should I do this?",
+    "input": "",
+    "output": "No, you should never click on links in emails claiming to be about data breaches. This is a common scam tactic where criminals exploit real data breaches to trick people. Legitimate organisations will never ask you to click links to verify your details. Instead, contact the organisation directly using their official website or phone number (not from the email). If you're concerned about a data breach, visit the organisation's official website and look for their official statement. You can also check if your details have been compromised using services like haveibeenpwned.com. If you receive suspicious emails, forward them to report@phishing.gov.uk to help stop these scams.",
+    "source_document": "Data breaches: guidance for individuals and families",
+    "source_url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I've been affected by a data breach. What should I do first?",
+    "input": "",
+    "output": "If you think you've been affected by a data breach, your first step should be to contact the organisation directly using their official website or social media channels. Don't use any links or contact details from messages you've received, as these could be scams. The organisation should be able to confirm if a breach actually occurred, how you're affected, and what you need to do next. You can also phone them directly, but be aware that during major breaches they may have limited capacity to respond to all calls. Once you've confirmed you're affected, be extra alert to suspicious messages that may appear in the coming weeks or months, as criminals often target breach victims with phishing attempts.",
+    "source_document": "Data breaches: guidance for individuals and families",
+    "source_url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received an email with one of my old passwords in it, threatening to share embarrassing videos unless I pay. What should I do?",
+    "input": "",
+    "output": "This is a sextortion scam - don't panic and don't pay anything. The password they're showing you was likely obtained from a previous data breach, not from accessing your devices. These scammers send thousands of these emails hoping some people will pay. They don't actually have any videos of you. You should forward the email to report@phishing.gov.uk (the NCSC's Suspicious Email Reporting Service) and then delete it. If the password they mentioned is one you still use, change it immediately and make sure you're not using it on other accounts. If you've already paid money to these scammers, report it to your local police by calling 101. For emotional support, you can contact Victim Support on 0808 168 9111.",
+    "source_document": "Sextortion emails: how to protect yourself",
+    "source_url": "https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm shopping online and found a great deal that seems too good to be true. How can I tell if it's a scam?",
+    "input": "",
+    "output": "If a deal seems too good to be true, it probably is. Before making any purchase, research the online shop to check if it's legitimate. Look for reviews from trusted sources and check consumer websites. Be especially wary of links in suspicious emails or texts that lead to fake shops. Criminals can easily duplicate legitimate website designs, including logos and products. Watch out for deceptive website domains (like www.tescos-sales.com instead of www.tesco.com). If you're unsure about a link, don't click it. Instead, type the official website address directly into your browser or search for the organisation and read the search results carefully. Always use a credit card for online payments when possible, as they offer better protection under the Consumer Credit Act.",
+    "source_document": "Shopping and paying safely online",
+    "source_url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone called me claiming to be from my bank and asked for my PIN number. They knew some of my account details. Should I have given it to them?",
+    "input": "",
+    "output": "No, you should never give your PIN to anyone, even if they claim to be from your bank and know some of your details. Legitimate banks will never ask for your PIN, full password, or card details over the phone. The fact that they knew some of your details doesn't make them genuine - scammers often have access to leaked data or use social engineering to gather information. You did the right thing by being cautious. Contact your bank directly using the number on the back of your card to report this incident. You should also report it to Action Fraud on 0300 123 2040. If you did share any information, contact your bank immediately to secure your account. Remember, it's always better to hang up and call back on a verified number if you're unsure about any call.",
+    "source_document": "Shopping and paying safely online",
+    "source_url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think my social media account has been hacked. What should I do?",
+    "input": "",
+    "output": "If you suspect your social media account has been hacked, act quickly. First, try to log in and change your password immediately. If you can't access your account, contact the platform's support team. Check your account for any suspicious activity like posts you didn't make, messages sent to people you don't know, or changes to your profile. Review your privacy settings and make sure they're set to your preferences. If you use the same password on other accounts, change those too. Enable 2-step verification (2SV) on your account if you haven't already - this provides an extra layer of protection. You should also check your email account for any suspicious activity, as hackers often target email accounts to gain access to other online services. If you've lost money or been the victim of fraud, report it to Action Fraud.",
+    "source_document": "Social Media: how to use it safely",
+    "source_url": "https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a suspicious email that I think might be a scam. How do I report it?",
+    "input": "",
+    "output": "If you receive a suspicious email, forward it to the NCSC's Suspicious Email Reporting Service at report@phishing.gov.uk. This service helps identify and stop phishing attacks. If you receive a suspicious text message, forward it to 7726 (this is a free service that allows your provider to investigate the text). For nuisance, suspicious or unwanted calls, hang up and contact your phone provider. If you've lost money due to a scam, tell your bank and report it as a crime to Action Fraud (for England, Wales and Northern Ireland) or Police Scotland (for Scotland). By reporting these incidents, you're helping law enforcement reduce criminal activity and prevent others from becoming victims.",
+    "source_document": "Data breaches: guidance for individuals and families",
+    "source_url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about my smart home devices being hacked. How can I protect them?",
+    "input": "",
+    "output": "To protect your smart home devices from being hacked, start by changing any default passwords when you first set up the device. Create a secure password by combining three random words that you'll remember. Enable 2-step verification (2SV) if the device offers it, as this provides an extra layer of protection. Keep your devices updated by switching on automatic updates if available, and install any manual updates when prompted. If you don't need remote access to your device when you're away from home, disable this feature to reduce the risk. Check your router settings and consider disabling UPnP and port forwarding, as these can be exploited by cyber criminals. Always buy devices from reputable manufacturers and avoid devices that are no longer supported, as they won't receive security updates.",
+    "source_document": "Smart devices: using them safely in your home",
+    "source_url": "https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm selling my old phone. How do I make sure all my personal data is removed?",
+    "input": "",
+    "output": "Before selling your phone, make sure you have a backup of all the personal data you want to keep. Then perform a factory reset (or 'Erase all Content and Settings' on Apple devices) to completely remove all your personal data. This will delete your messages, contacts, photographs, browsing history, Wi-Fi codes, passwords, and any apps you've installed. Make sure you don't choose the option to keep personal files if you're selling the device. If you use your phone to access online services, make sure you know which accounts you access and have the logins and passwords for each. If you use your phone to control smart devices or for 2-step verification, make sure you can manage these using a different device before erasing your data. The exact steps vary between different phone models, so check the manufacturer's website for specific instructions.",
+    "source_document": "Buying and selling second-hand devices",
+    "source_url": "https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Do I need antivirus software on my smartphone?",
+    "input": "",
+    "output": "No, you don't need antivirus software on your smartphone, provided that you only install apps from official stores such as Google Play and the Apple App Store. These stores have security measures in place to prevent malicious apps from being distributed. However, you should make sure your apps and the smartphone itself are set to update automatically. Regular updates help protect your device from security vulnerabilities. If you're downloading apps from other sources or have a device that allows installation from unknown sources, then you might want to consider antivirus software, but the best protection is to stick to official app stores and keep your device updated.",
+    "source_document": "What is an antivirus product? Do I need one?",
+    "source_url": "https://www.ncsc.gov.uk/guidance/what-is-an-antivirus-product",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about my smart security camera being hacked. How can I make it more secure?",
+    "input": "",
+    "output": "To secure your smart security camera, start by changing any default password that came with the device. Create a secure password by combining three random words. Keep your camera updated by regularly installing software updates, and switch on automatic updates if available. If you don't need the feature that lets you remotely view camera footage via the internet, disable it to reduce the risk of unauthorised access. Check your router settings and consider disabling UPnP and port forwarding, as these technologies can be exploited by cyber criminals to access devices on your network. Be aware that disabling these features may prevent certain applications from working. For older cameras, you may need to access the camera's settings through your browser using its IP address. Always refer to the manufacturer's documentation for specific instructions for your model.",
+    "source_document": "'Smart' security cameras: Using them safely in your home",
+    "source_url": "https://www.ncsc.gov.uk/guidance/smart-security-cameras-using-them-safely-in-your-home",
+    "chunk_number": 1,
+    "document_index": 12,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is 2-step verification and why should I use it?",
+    "input": "",
+    "output": "2-step verification (2SV) is a security feature that provides an extra layer of protection for your online accounts. It works by asking for additional information to prove your identity when you log in, such as a code sent to your phone or generated by an app. Even if a cyber criminal knows your password, they won't be able to access your account without the second step. You should use 2SV on your important accounts, especially your email (as criminals can use email access to reset passwords on other accounts), banking, social media, and cloud storage. Most major online services offer 2SV, and you can usually find the option to turn it on in your account's security settings. The NCSC recommends using 2SV wherever possible to protect your personal information and prevent unauthorised access to your accounts.",
+    "source_document": "Setting up 2-Step Verification (2SV)",
+    "source_url": "https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm using video conferencing for the first time. How can I stay safe?",
+    "input": "",
+    "output": "To stay safe when using video conferencing, start by downloading software only from trusted sources like official app stores or the service provider's official website. Be wary of advertised links at the top of search results, as these may lead to fake sites. When setting up your account, use a strong, unique password and enable 2-step verification if available. Test the service before your first call to ensure your microphone and camera work correctly. Learn how to mute your microphone and turn off your camera for better control. Don't make calls public - use private links and consider setting up password protection for your meetings. Always verify who is joining your call, and consider using the lobby feature to screen participants. Be mindful of your surroundings and what your camera shows. Finally, keep all your devices and applications updated to protect against security vulnerabilities.",
+    "source_document": "Video conferencing services: using them securely",
+    "source_url": "https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I create a strong password that I can remember?",
+    "input": "",
+    "output": "The best way to create a strong password is to combine three random words that mean something to you. For example, 'HippoPizzaRocket' or 'BlueCarrotMountain'. You can include numbers and symbols if needed, like 'Hippo!PizzaRocket1'. Avoid using words that can be easily guessed, such as your pet's name, birth date, or common words. Make sure your password is different for each important account, especially your email, banking, and social media accounts. If you use the same password for multiple accounts, criminals who steal it from one account can access all your others. Consider using a password manager to help you create and store strong, unique passwords securely. Remember, your email password should be particularly strong since criminals can use access to your email to reset passwords on your other accounts.",
+    "source_document": "Cyber Aware",
+    "source_url": "https://www.ncsc.gov.uk/cyberaware/home",
+    "chunk_number": 1,
+    "document_index": 13,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about my child's safety when gaming online. What should I know?",
+    "input": "",
+    "output": "Online gaming can expose children to various risks including cyberbullying, excessive screen time, and unscrupulous games that encourage in-app purchases. To protect younger players, make sure their devices are secure and their accounts are protected with strong passwords. Help them understand the importance of not sharing personal information with other players. Monitor their gaming time and set appropriate limits. Be aware of the games they're playing and check if they have age-appropriate content. Look out for games that encourage children to pay for content or make purchases. You can find helpful resources from organisations like ThinkUKnow (www.thinkuknow.co.uk), Internet Matters (www.internetmatters.org), and the NSPCC (www.nspcc.org.uk) for more detailed guidance on protecting children online. Consider using parental controls and privacy settings to help manage their online experience.",
+    "source_document": "Online gaming for families and individuals",
+    "source_url": "https://www.ncsc.gov.uk/guidance/online-gaming-for-families-and-individuals",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I bought something online but never received it. What can I do?",
+    "input": "",
+    "output": "If you don't receive an item you've purchased online, first contact the seller to check the status of your order. If you paid by credit card, you have protection under the Consumer Credit Act. If you used a debit card, you might be able to make a claim for a refund under the voluntary 'chargeback' scheme. If you paid through services like PayPal, check their terms and conditions for buyer protection. If the seller is unresponsive or you suspect fraud, contact your bank immediately. You can also report the incident to Action Fraud (for England, Wales and Northern Ireland) or Police Scotland (for Scotland). Citizens Advice has useful information about getting your money back if you paid by credit card, debit card or PayPal. Always use a credit card for online purchases when possible, as they offer the best protection against fraud.",
+    "source_document": "Shopping and paying safely online",
+    "source_url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a social media account is fake?",
+    "input": "",
+    "output": "There are several signs that a social media account might be fake. Look for accounts with nonsensical names that appear to be random letters and numbers. Check when the account was created - very recent accounts might be suspicious. Be wary of accounts with very few followers, though note that followers can be bought. Many platforms have verification badges for real accounts of well-known people. If someone you know posts something suspicious or out of character, contact them through another method to check if their account has been hacked. You can report fake accounts directly to the platform - most social media sites have reporting functions for impersonation and fake profiles. If you suspect an account has been taken over, the owner should follow the NCSC's guidance on recovering hacked accounts. Always be cautious about accepting friend requests or following accounts that seem suspicious.",
+    "source_document": "Social Media: how to use it safely",
+    "source_url": "https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm buying a second-hand device. How can I make sure it's safe to use?",
+    "input": "",
+    "output": "When buying a second-hand device, avoid devices that are no longer supported by the manufacturer, as they won't receive security updates and are easier to hack. Check online to see if the specific model can still receive updates. Once you receive the device, perform a factory reset to remove all the previous owner's personal data, including messages, contacts, photographs, browsing history, Wi-Fi codes, passwords, and apps. This ensures the device is in the best possible state before you start using it. The exact reset process varies between different models, so check the manufacturer's website for specific instructions. When setting up the device, switch on automatic updates, set up a screen lock, password, fingerprint or PIN, and consider enabling automatic backups. These steps will help keep your device and data secure.",
+    "source_document": "Buying and selling second-hand devices",
+    "source_url": "https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Do I need antivirus software on my computer?",
+    "input": "",
+    "output": "Yes, you should always use antivirus software on your computer. Antivirus products detect and remove viruses and other malicious software that can harm your computer and steal your data. Modern operating systems often include built-in antivirus software - make sure this is switched on for instant protection. New computers may come with trial versions of separate antivirus products, but be aware that when the trial expires, you'll need to pay to continue using it. Separate antivirus products might not work alongside built-in antivirus software and could even stop it from working. When you first install or switch on your antivirus, run a full scan to check for malware. Make sure it's set to automatically scan new files and receive updates automatically. Keep your antivirus software updated to protect against the latest threats.",
+    "source_document": "What is an antivirus product? Do I need one?",
+    "source_url": "https://www.ncsc.gov.uk/guidance/what-is-an-antivirus-product",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect my privacy on social media?",
+    "input": "",
+    "output": "To protect your privacy on social media, use privacy settings to control who can see your posts and personal information. Think carefully about what you're posting and who has access to it. Consider what your followers and friends need to know versus what could be useful to criminals. Be aware of your digital footprint - the information about you that's available online. Criminals can use this information to steal your identity or make phishing messages more convincing. Check what your friends, colleagues or other contacts say about you online. Use 2-step verification (2SV) on your social media accounts for extra protection. Be cautious about accepting friend requests from people you don't know, and verify that requests from people you do know are genuine. Regularly review and update your privacy settings as platforms often change their features and settings.",
+    "source_document": "Social Media: how to use it safely",
+    "source_url": "https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I suspect my account has been accessed by someone else?",
+    "input": "",
+    "output": "If you suspect your account has been accessed by someone else, act immediately. First, try to log into your account and change your password right away. If you can't access your account, contact the service provider's support team. Check for any suspicious activity like changes to your security settings, messages or notifications sent from your account that you don't recognise, or logins from strange locations or at unusual times. If you use the same password on other accounts, change those too. Enable 2-step verification (2SV) if you haven't already. Check your email account for suspicious activity, as hackers often target email to gain access to other services. If you've lost money or been the victim of fraud, report it to Action Fraud (for England, Wales and Northern Ireland) or Police Scotland (for Scotland). You can also check if your details have appeared in data breaches using services like haveibeenpwned.com.",
+    "source_document": "Data breaches: guidance for individuals and families",
+    "source_url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about falling for a scam. Is this normal?",
+    "input": "",
+    "output": "Yes, it's completely normal to feel embarrassed, ashamed, or even angry about being scammed. These feelings are very common among fraud victims. Scammers are becoming increasingly sophisticated and target thousands of people, so falling victim doesn't mean you're foolish or gullible. Many intelligent people become victims of fraud every day. The important thing is not to let these feelings prevent you from taking action. Report the incident to Action Fraud (0300 123 2040) or Police Scotland (101) if you're in Scotland. Contact your bank immediately if you've lost money. Remember that by reporting scams, you're helping to protect others from becoming victims. For emotional support, you can contact Victim Support on 0808 168 9111. Don't be too hard on yourself - focus on what you can do now to protect yourself and help prevent future scams.",
+    "source_document": "General cyber fraud victim support",
+    "source_url": "https://www.ncsc.gov.uk/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from phishing emails?",
+    "input": "",
+    "output": "To protect yourself from phishing emails, be suspicious of any email that asks for personal information, passwords, or payment details. Legitimate organisations will never ask you to supply sensitive information via email. Look out for official-sounding messages about 'resetting passwords', 'receiving compensation', 'scanning devices' or 'missed deliveries'. Be wary of emails full of technical jargon designed to sound convincing, or messages that urge you to act immediately or within a limited timeframe. Don't click on links in suspicious emails - instead, type the official website address directly into your browser. If you receive a suspicious email, forward it to report@phishing.gov.uk to help stop these scams. Remember that scammers often exploit real events like data breaches to make their messages seem more credible.",
+    "source_document": "Data breaches: guidance for individuals and families",
+    "source_url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I've lost money to a scam?",
+    "input": "",
+    "output": "If you've lost money to a scam, act quickly. First, contact your bank immediately to report the fraud and see if they can help recover your money. If you paid by credit card, you may have protection under the Consumer Credit Act. For debit card payments, you might be able to make a claim under the voluntary 'chargeback' scheme. Report the crime to Action Fraud (for England, Wales and Northern Ireland) on 0300 123 2040, or Police Scotland (for Scotland) by calling 101. If you paid through services like PayPal, check their terms and conditions for buyer protection. Keep all evidence of the scam, including emails, text messages, and any correspondence. By reporting the incident, you're helping law enforcement reduce criminal activity and prevent others from becoming victims. Don't be embarrassed - scammers target thousands of people and are becoming increasingly sophisticated.",
+    "source_document": "Shopping and paying safely online",
+    "source_url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I secure my devices against cyber attacks?",
+    "input": "",
+    "output": "To secure your devices against cyber attacks, start by keeping all your software and operating systems updated. Apply updates whenever you're prompted, as they often contain security fixes. Use strong, unique passwords for all your accounts and enable 2-step verification (2SV) wherever possible. Install and keep antivirus software updated on your computers. Only download apps from official stores like Google Play and the Apple App Store. Be cautious about clicking on links in emails or text messages, and don't download attachments from unknown sources. Use a firewall and consider using a VPN for additional protection when connecting to public Wi-Fi. Regularly backup your important data. For smart devices, change default passwords and keep them updated. If you're buying second-hand devices, perform a factory reset before using them. Remember that device security is an ongoing process, not a one-time setup.",
+    "source_document": "Securing your devices",
+    "source_url": "https://www.ncsc.gov.uk/guidance/securing-your-devices",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a suspicious text message. How do I report it?",
+    "input": "",
+    "output": "If you receive a suspicious text message, forward it to 7726. This is a free service that allows your mobile provider to investigate the text and take action if it's found to be a scam. You can forward the message by copying the text and sending it to 7726, or by forwarding the original message if your phone allows it. This helps mobile networks identify and block scam messages. If you've lost money due to the scam, contact your bank immediately and report it to Action Fraud (for England, Wales and Northern Ireland) or Police Scotland (for Scotland). For nuisance, suspicious or unwanted calls, hang up and contact your phone provider. By reporting suspicious messages, you're helping to protect others from becoming victims of similar scams.",
+    "source_document": "Data breaches: guidance for individuals and families",
+    "source_url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs of an online scam?",
+    "input": "",
+    "output": "Common warning signs of online scams include deals that seem too good to be true, urgent requests for immediate action, requests for personal information like passwords or PIN numbers, and pressure to pay money quickly. Be suspicious of official-sounding messages about 'resetting passwords', 'receiving compensation', 'scanning devices' or 'missed deliveries'. Watch out for emails full of technical jargon designed to sound convincing, or messages that create a sense of urgency. Be wary of links in unexpected emails or text messages, especially if they ask you to verify your details. Legitimate organisations will never ask you to supply sensitive information via email or text. If something doesn't feel right, trust your instincts and don't click on links or provide information. When in doubt, contact the organisation directly using their official website or phone number.",
+    "source_document": "Data breaches: guidance for individuals and families",
+    "source_url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect my children from online scams?",
+    "input": "",
+    "output": "To protect your children from online scams, start by educating them about online safety and the importance of not sharing personal information. Help them understand that not everyone online is who they claim to be. Monitor their online activities and set appropriate privacy settings on their devices and accounts. Be aware of the games and apps they're using, and look out for those that encourage in-app purchases or payments. Set up parental controls and consider using monitoring software. Teach them to be suspicious of offers that seem too good to be true and to never click on suspicious links. Help them understand the importance of strong passwords and not sharing them with friends. Encourage them to come to you if they encounter anything suspicious online. You can find helpful resources from organisations like ThinkUKnow (www.thinkuknow.co.uk), Internet Matters (www.internetmatters.org), and the NSPCC (www.nspcc.org.uk) for more detailed guidance.",
+    "source_document": "Online gaming for families and individuals",
+    "source_url": "https://www.ncsc.gov.uk/guidance/online-gaming-for-families-and-individuals",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I think my smart device has been hacked?",
+    "input": "",
+    "output": "If you think your smart device has been hacked, first check the manufacturer's website for information about what steps to take. If you think someone has taken control of a device in your home, you should reset it using instructions from the manufacturer's website. The NCSC has also produced guidance to help you reset smart devices. Check for any unusual activity like the device behaving unexpectedly, unusual network traffic, or changes to settings you didn't make. If the device is connected to your home network, consider checking your router settings for any suspicious activity. Make sure all your smart devices are updated with the latest software, as updates often contain security fixes. If you're still concerned, you may need to replace the device. In the future, make sure to change default passwords, enable 2-step verification if available, and keep devices updated to prevent future incidents.",
+    "source_document": "Smart devices: using them safely in your home",
+    "source_url": "https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I check if my details have been compromised in a data breach?",
+    "input": "",
+    "output": "You can check if your details have appeared in data breaches using online tools like haveibeenpwned.com. This service allows you to enter your email address to see if it has been involved in any known data breaches. Similar services are often included in antivirus software or password manager tools that you may already be using. If you find that your details have been compromised, change any passwords that you still use, especially if you use the same password for multiple accounts. When changing passwords, refer to guidance on creating strong passwords. Be extra alert to suspicious messages in the following weeks and months, as criminals often target people whose details have been compromised in data breaches. Remember that even if your details haven't been compromised, you should still be vigilant about suspicious messages, as scammers often exploit high-profile breaches to target people.",
+    "source_document": "Data breaches: guidance for individuals and families",
+    "source_url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I accidentally clicked on a suspicious link?",
+    "input": "",
+    "output": "If you accidentally clicked on a suspicious link, don't panic but act quickly. First, close the browser tab or window immediately. If you entered any personal information like passwords or payment details, change those passwords right away, especially if you use the same password for other accounts. Run a full scan with your antivirus software to check for any malware that may have been downloaded. If you're concerned about your device being compromised, consider running additional security scans. Monitor your accounts for any suspicious activity like unauthorised transactions or changes to your settings. If you entered banking details, contact your bank immediately. If you're still concerned, you might want to consider resetting your device to factory settings, but make sure to backup your important data first. Remember that most suspicious links are designed to steal information rather than immediately harm your device, so changing passwords and monitoring accounts is usually the most important step.",
+    "source_document": "General cyber security guidance",
+    "source_url": "https://www.ncsc.gov.uk/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+]

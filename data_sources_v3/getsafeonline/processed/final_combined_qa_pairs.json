@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you believe you're being scammed, stop all communication immediately. Don't send any money, share personal details, or click on any links. Contact your bank directly using the number on the back of your card if financial information has been shared. Report the incident to Action Fraud on 0300 123 2040 or through their website. If you're in immediate danger, call 999. Remember, legitimate organisations will never pressure you to act urgently or ask for sensitive information like PINs or passwords over the phone. Trust your instincts - if something feels wrong, it probably is.",
+    "source_document": "Get Safe Online - Protecting Yourself guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "No, legitimate organisations will never pressure you to pay money urgently. This is a classic scam tactic. Scammers create false urgency to prevent you from thinking clearly and seeking advice. If someone is demanding immediate payment, threatening legal action, or claiming you'll miss out on a deal, this is almost certainly a scam. Hang up the phone, delete suspicious emails, and don't respond to threatening messages. Contact the organisation directly using official contact details if you're unsure. Remember, it's better to be safe than sorry - legitimate businesses will always give you time to verify their identity.",
+    "source_document": "Get Safe Online - Advance fee fraud guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've just realized I might have been tricked, what are my next steps?",
+    "input": "",
+    "output": "Don't panic, but act quickly. First, stop all communication with the scammer immediately. If you've shared banking details, contact your bank right away using the number on the back of your card. Change any passwords you may have shared. Report the incident to Action Fraud on 0300 123 2040 or visit actionfraud.police.uk. If you've lost money, contact your bank's fraud department. Keep all evidence including emails, text messages, and call records. Don't be embarrassed - scammers are very sophisticated and target thousands of people. You're not alone, and reporting helps protect others from similar scams.",
+    "source_document": "Get Safe Online - Victim Support guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "Contact your bank immediately - the sooner you act, the better your chances of recovering your money. Most UK banks offer protection against fraud, especially if you paid by card. If you paid by bank transfer, your bank may be able to help recover the funds if you act quickly. Report the scam to Action Fraud on 0300 123 2040 and get a crime reference number. Keep all evidence including payment receipts, emails, and call records. Be aware that recovery isn't always possible, especially with international scams, but it's important to try. Your bank will guide you through their fraud recovery process and may be able to prevent further losses.",
+    "source_document": "Get Safe Online - Banking fraud guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "Act quickly to minimise the damage. If you shared banking details, contact your bank immediately using the number on the back of your card. They can freeze your accounts and issue new cards if necessary. If you shared passwords, change them immediately on all accounts, especially email and banking. Enable two-factor authentication where possible. Contact credit reference agencies to check for suspicious activity. Report the incident to Action Fraud on 0300 123 2040. Monitor your bank statements and credit reports for unusual activity. Consider registering with CIFAS for protective registration if you're concerned about identity theft. Remember, the sooner you act, the better protected you'll be.",
+    "source_document": "Get Safe Online - Identity theft prevention",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been a victim of investment fraud, how do I report it?",
+    "input": "",
+    "output": "Report investment fraud to Action Fraud on 0300 123 2040 or through their website. You should also report to the Financial Conduct Authority (FCA) on 0800 111 6768 or through their website. If you invested through a regulated firm, contact the Financial Ombudsman Service. Contact your bank immediately if you made payments by card or bank transfer. Keep all evidence including emails, contracts, and payment records. Be aware that you may be targeted by 'recovery room' scams - fraudsters who claim they can help recover your money for a fee. Never pay upfront fees to recovery companies. The FCA maintains a warning list of unauthorised firms on their website.",
+    "source_document": "Get Safe Online - Investment scams guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an online dating profile is a scam?",
+    "input": "",
+    "output": "Be suspicious if someone moves the conversation off the dating site quickly, asks for money, or claims to be in the military or working abroad. Scammers often use fake photos and create elaborate stories. They may profess love very quickly and ask for financial help due to emergencies. Never send money to someone you've only met online. Use reverse image search to check if their photos appear elsewhere. Meet in person when possible, and always in a public place. Trust your instincts - if something seems too good to be true, it probably is. Report suspicious profiles to the dating site and to Action Fraud if you've been scammed.",
+    "source_document": "Get Safe Online - Online dating safety",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs of a phishing email?",
+    "input": "",
+    "output": "Phishing emails often have poor grammar and spelling, create urgency, or threaten consequences if you don't act immediately. They may claim to be from banks, government agencies, or well-known companies but use slightly different email addresses. Be suspicious of emails asking for personal information like passwords, PINs, or bank details. Check the sender's email address carefully - scammers often use similar-looking addresses. Don't click on links in suspicious emails. Instead, contact the organisation directly using official contact details. Remember, legitimate organisations will never ask for sensitive information via email. When in doubt, delete the email.",
+    "source_document": "Get Safe Online - Spam and scam email guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I protect myself from identity theft?",
+    "input": "",
+    "output": "Use strong, unique passwords for all accounts and enable two-factor authentication where possible. Never share personal information like passwords, PINs, or bank details with anyone. Shred documents containing personal information before disposing of them. Be careful what you share on social media - even seemingly innocent information can be used by fraudsters. Check your bank statements regularly and report any suspicious activity immediately. Consider registering with CIFAS for protective registration if you're concerned about identity theft. Use a firewall and keep your software updated. Be wary of unsolicited calls or emails asking for personal information.",
+    "source_document": "Get Safe Online - Identity theft prevention",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a property rental scam?",
+    "input": "",
+    "output": "If you've been scammed in a property rental, report it to Action Fraud on 0300 123 2040. If you've paid money, contact your bank immediately. Contact your local police if you've met the scammer in person. Report the fake listing to the website where you found it. If you're looking for a property, always view it in person before paying any money, and never pay cash. Use reputable letting agents and check they're registered with professional bodies. Be suspicious of properties offered at below-market rates or landlords who can't meet in person. Remember, legitimate landlords will never ask for money before you've seen the property.",
+    "source_document": "Get Safe Online - Safe property rental guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "Yes, feeling embarrassed is completely normal and understandable. Many victims of scams feel ashamed, but you shouldn't. Scammers are very sophisticated and target thousands of people every day using psychological manipulation techniques. They're experts at creating false urgency and exploiting human emotions. Remember, being scammed doesn't make you stupid or gullible - it makes you human. Focus on taking action to protect yourself and help prevent others from falling victim to similar scams. Many people don't report scams due to embarrassment, but reporting helps law enforcement and protects others. You're not alone, and there are support services available to help you through this difficult time.",
+    "source_document": "Get Safe Online - Victim Support guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I cope with the stress of being a cyber fraud victim?",
+    "input": "",
+    "output": "Being a victim of cyber fraud can be extremely stressful. It's important to acknowledge your feelings and give yourself time to process what happened. Talk to trusted friends or family members about your experience. Contact Victim Support on 0808 168 9111 for free, confidential help. Focus on taking practical steps to protect yourself, which can help you feel more in control. Don't blame yourself - scammers are professionals who target thousands of people. Consider speaking to your GP if you're struggling with anxiety or depression. Remember that most victims recover financially and emotionally with time and support. You've taken the first step by seeking help, which shows strength.",
+    "source_document": "Get Safe Online - Victim Support guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Will people judge me for falling for this online scam?",
+    "input": "",
+    "output": "Most people won't judge you, and if they do, that says more about them than you. Scammers are highly skilled at manipulation and target people from all walks of life - doctors, lawyers, teachers, and even cybersecurity experts have been scammed. The people who care about you will want to help and support you. Focus on surrounding yourself with understanding people and don't let fear of judgment prevent you from seeking help or reporting the crime. Remember, reporting scams helps protect others and contributes to catching the criminals. You're not alone - millions of people are targeted by scams every year. The important thing is that you're taking action to protect yourself and help others.",
+    "source_document": "Get Safe Online - Victim Support guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What information do I need when reporting a scam?",
+    "input": "",
+    "output": "When reporting a scam, gather as much information as possible. Include the scammer's contact details (phone numbers, email addresses, website URLs), any payment details or transaction references, copies of emails, text messages, or letters, and a timeline of events. Note down what the scammer claimed to be offering and how much money you lost. If you have bank statements showing the transactions, include those too. Take screenshots of any online conversations or fake websites. The more evidence you can provide, the better chance law enforcement has of investigating. Don't worry if you don't have everything - report what you can. Action Fraud will guide you through the reporting process.",
+    "source_document": "Get Safe Online - Reporting guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How long does it take to investigate a fraud case?",
+    "input": "",
+    "output": "Fraud investigations can take weeks, months, or even years depending on the complexity of the case and the resources available. Simple cases might be resolved quickly, while complex international scams can take much longer. The police and Action Fraud prioritise cases based on factors like the amount of money involved and the likelihood of recovery. While you wait, continue monitoring your accounts for suspicious activity and keep all evidence safe. Don't expect regular updates - fraud units are often understaffed and dealing with thousands of cases. Focus on protecting yourself from further scams and consider the money lost as a lesson learned. Unfortunately, many fraud cases are never solved, but reporting still helps build intelligence and protect others.",
+    "source_document": "Get Safe Online - Fraud investigation guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a call from someone claiming to be from my bank asking for my PIN number. They knew some of my details already. Should I have given it to them?",
+    "input": "",
+    "output": "No, you should never give your PIN to anyone, even if they claim to be from your bank. Legitimate banks will never ask for your PIN, full password, or card details over the phone. The fact that they knew some of your details doesn't make them genuine - scammers often have access to leaked data or use social engineering to gather information. You did the right thing by being cautious. I'd recommend contacting your bank directly using the number on the back of your card to report this incident. You should also report it to Action Fraud on 0300 123 2040. If you did share any information, contact your bank immediately to secure your account. Remember, it's always better to hang up and call back on a verified number if you're unsure about any call.",
+    "source_document": "Get Safe Online - Banking security guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a website is legitimate before making a purchase?",
+    "input": "",
+    "output": "Look for the padlock symbol and 'https://' in the website address, which indicates a secure connection. Check the website's contact details and physical address. Read customer reviews from multiple sources, not just the website itself. Be suspicious of websites with poor grammar, spelling mistakes, or that offer products at unrealistically low prices. Check if the company is registered with Companies House. Look for trust marks from organisations like Which? or the British Retail Consortium. Never pay by bank transfer to unknown sellers - use credit cards or PayPal which offer buyer protection. If you're unsure, search for the company name plus 'scam' or 'review' to see what others say. Trust your instincts - if something seems too good to be true, it probably is.",
+    "source_document": "Get Safe Online - Online shopping safety",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I think my computer has been infected with malware?",
+    "input": "",
+    "output": "If you suspect malware infection, disconnect your computer from the internet immediately to prevent further damage. Run a full scan with your antivirus software and update it if necessary. If you don't have antivirus software, download a reputable program. Check for any suspicious programs in your control panel and uninstall them. Change all your passwords from a different device, starting with email and banking accounts. Monitor your bank statements for unusual activity. If you're not confident dealing with this yourself, consider taking your computer to a reputable repair shop. Be aware of 'tech support' scams where fraudsters claim to help fix your computer for a fee. Remember to keep regular backups of important files to minimise data loss.",
+    "source_document": "Get Safe Online - Computer protection guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about someone using my personal information to commit fraud. What should I do?",
+    "input": "",
+    "output": "If you're concerned about identity theft, act quickly to protect yourself. Contact your bank and credit card companies to alert them to potential fraud. Check your credit reports with all three credit reference agencies (Experian, Equifax, and TransUnion) for any suspicious activity. Consider registering with CIFAS for protective registration, which adds a warning to your credit file. Monitor your bank statements and credit reports regularly. Report any suspicious activity to Action Fraud on 0300 123 2040. Consider using a credit monitoring service to alert you to changes in your credit file. Be extra vigilant about unsolicited calls or emails asking for personal information. Remember, prevention is better than cure - be careful about what personal information you share online and offline.",
+    "source_document": "Get Safe Online - Identity theft prevention",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I protect my children from online scams?",
+    "input": "",
+    "output": "Talk to your children about online safety and the risks of sharing personal information. Set up parental controls on devices and monitor their online activity. Teach them to be suspicious of offers that seem too good to be true, especially free games or prizes. Warn them about sharing personal information like their name, address, or school online. Monitor their social media accounts and friend lists. Set up separate user accounts on shared computers with limited permissions. Use age-appropriate privacy settings on gaming consoles and apps. Encourage them to tell you about any suspicious messages or requests they receive. Consider using family safety apps that allow you to monitor and control their online activity. Remember, education is key - help them understand why these precautions are important.",
+    "source_document": "Get Safe Online - Family online safety",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is threatening to share my private photos unless I pay them money. What should I do?",
+    "input": "",
+    "output": "This is a form of blackmail called 'sextortion' or 'webcam blackmail'. Do not pay the money - this will only encourage them to demand more. Stop all communication with the blackmailer immediately. Take screenshots of all messages and threats for evidence. Report this to Action Fraud on 0300 123 2040 and to your local police. If the photos involve someone under 18, report to the Internet Watch Foundation. Contact the platform where the blackmailer contacted you to report the account. Remember, paying rarely stops the threats and often makes them worse. Most blackmailers move on to other victims when they realise you won't pay. Focus on protecting yourself and reporting the crime rather than giving in to threats.",
+    "source_document": "Get Safe Online - Webcam blackmail guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I've been targeted by a pyramid scheme. How can I tell?",
+    "input": "",
+    "output": "Pyramid schemes typically promise high returns for recruiting others rather than selling actual products or services. Warning signs include being asked to pay money upfront to join, pressure to recruit friends and family, promises of quick wealth, and complex commission structures based on recruitment. The focus is usually on getting more people to join rather than selling legitimate products. If you're being pressured to recruit others to make money, this is likely a pyramid scheme. Report suspected pyramid schemes to Action Fraud on 0300 123 2040 and to the Financial Conduct Authority. Remember, legitimate businesses make money from selling products or services, not from recruiting more participants. If something seems too good to be true, it probably is.",
+    "source_document": "Get Safe Online - Pyramid schemes guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received an email claiming to be from HMRC about a tax refund. Is this legitimate?",
+    "input": "",
+    "output": "HMRC will never contact you by email about tax refunds. This is a common phishing scam. HMRC only contacts people by post for tax matters. If you receive an email claiming to be from HMRC about refunds, delete it immediately. Do not click on any links or provide any personal information. If you're expecting a tax refund, you'll receive a letter in the post. You can check your tax position by logging into your personal tax account on the official HMRC website. Report suspicious HMRC emails to phishing@hmrc.gov.uk. Remember, legitimate government agencies will never ask for personal or financial information via email. When in doubt, contact the organisation directly using official contact details from their website.",
+    "source_document": "Get Safe Online - Tax scams guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from social media scams?",
+    "input": "",
+    "output": "Be careful about what you share on social media - even seemingly innocent information can be used by scammers. Check your privacy settings and limit who can see your posts. Be suspicious of friend requests from people you don't know, especially if they have few friends or posts. Don't click on links in messages from unknown users. Be wary of posts offering free products, prizes, or investment opportunities. Never share personal information like your address, phone number, or financial details. Be careful about posting holiday photos while you're away - this tells burglars your home is empty. Report suspicious accounts and posts to the social media platform. Remember, if something seems too good to be true on social media, it probably is a scam.",
+    "source_document": "Get Safe Online - Social media safety",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about someone stalking me online. What should I do?",
+    "input": "",
+    "output": "If you're being stalked online, take it seriously and act quickly. Document all incidents including screenshots of messages, emails, and social media posts. Block the stalker on all platforms and change your privacy settings. Consider changing your email address and phone number if necessary. Report the stalking to your local police - cyberstalking is a crime in the UK. Contact Action Fraud on 0300 123 2040 for additional support. Consider using a VPN to protect your online activity. Be careful about what personal information you share online. If you feel in immediate danger, call 999. Remember, you don't have to deal with this alone - there are support services available. The police take cyberstalking seriously and can help protect you.",
+    "source_document": "Get Safe Online - Cyberstalking guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I know if my bank account has been compromised?",
+    "input": "",
+    "output": "Signs your bank account may be compromised include unexpected transactions, failed login attempts, emails about password changes you didn't make, or unusual account activity. Check your bank statements regularly and report any suspicious transactions immediately. Contact your bank right away if you notice anything unusual. They can freeze your account and issue new cards if necessary. Enable transaction alerts on your phone to get notified of all account activity. Check your credit reports for any accounts opened in your name. If you suspect fraud, report it to Action Fraud on 0300 123 2040. Remember, the sooner you act, the better your chances of recovering any lost money and preventing further damage.",
+    "source_document": "Get Safe Online - Banking security guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I think I've been targeted by a romance scam?",
+    "input": "",
+    "output": "If you suspect you're being targeted by a romance scam, stop all communication immediately. Don't send any money, even if they claim it's for an emergency. Report the scammer to the dating site or social media platform where you met them. Report the incident to Action Fraud on 0300 123 2040. If you've already sent money, contact your bank immediately. Be aware that you may be targeted by 'recovery room' scams where fraudsters claim they can help recover your money for a fee. Never pay upfront fees to recovery companies. Remember, legitimate romantic partners won't ask for money, especially if you've never met in person. Trust your instincts - if something seems too good to be true, it probably is.",
+    "source_document": "Get Safe Online - Romance fraud guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from holiday booking scams?",
+    "input": "",
+    "output": "When booking holidays online, always use reputable travel websites and check for the padlock symbol and 'https://' in the address. Be suspicious of offers that seem too good to be true or require immediate payment. Check if the travel company is ABTA or ATOL protected. Never pay by bank transfer to unknown companies - use credit cards which offer protection. Research the company online and read reviews from multiple sources. Be wary of unsolicited emails or social media posts offering cheap holidays. Check the company's contact details and physical address. If you're unsure, contact the company directly using official contact details. Remember, legitimate travel companies won't pressure you to book immediately or ask for unusual payment methods.",
+    "source_document": "Get Safe Online - Holiday booking safety",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think someone is using my identity to open accounts. What should I do?",
+    "input": "",
+    "output": "If you suspect identity theft, act immediately to protect yourself. Contact your bank and credit card companies to alert them. Check your credit reports with all three credit reference agencies for any accounts you didn't open. Consider registering with CIFAS for protective registration. Report the identity theft to Action Fraud on 0300 123 2040. Contact any companies where fraudulent accounts have been opened in your name. Monitor your bank statements and credit reports regularly. Consider using a credit monitoring service. Be extra vigilant about unsolicited calls or emails. Remember, the sooner you act, the better protected you'll be. Identity theft can take months or years to resolve, so be patient and persistent in following up with all relevant organisations.",
+    "source_document": "Get Safe Online - Identity theft guidance",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I know if a job offer is legitimate?",
+    "input": "",
+    "output": "Be suspicious of job offers that require you to pay money upfront for training, equipment, or background checks. Legitimate employers don't ask for payment to hire you. Research the company online and check if they're registered with Companies House. Be wary of job offers that come via unsolicited emails or social media messages. Check the company's website and contact details. Be suspicious if the interview is only conducted online or if you're asked to provide personal information before meeting anyone. Legitimate employers will want to meet you in person and won't pressure you to accept the job immediately. If something seems too good to be true, it probably is. Report suspicious job offers to Action Fraud on 0300 123 2040.",
+    "source_document": "Get Safe Online - Job searching safety",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+] 

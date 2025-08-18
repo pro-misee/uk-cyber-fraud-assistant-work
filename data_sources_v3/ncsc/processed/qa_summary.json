@@ -1,0 +1,71 @@
+{
+  "source_documents": [
+    "Data breaches: guidance for individuals and families",
+    "Online gaming for families and individuals", 
+    "Shopping and paying safely online",
+    "Social Media: how to use it safely",
+    "Sextortion emails: how to protect yourself",
+    "Video conferencing services: using them securely",
+    "Securing your devices",
+    "Smart devices: using them safely in your home",
+    "Setting up 2-Step Verification (2SV)",
+    "Buying and selling second-hand devices",
+    "What is an antivirus product? Do I need one?",
+    "'Smart' security cameras: Using them safely in your home",
+    "Cyber Aware"
+  ],
+  "total_qa_pairs_generated": 31,
+  "categories_covered": [
+    "Data breach response and prevention",
+    "Phishing and scam identification",
+    "Online shopping security",
+    "Social media safety",
+    "Sextortion scams",
+    "Video conferencing security",
+    "Device security",
+    "Smart home device protection",
+    "2-step verification",
+    "Second-hand device safety",
+    "Antivirus protection",
+    "Smart camera security",
+    "Password security",
+    "Victim support and emotional guidance",
+    "Child online safety",
+    "Account recovery and protection"
+  ],
+  "uk_specific_organizations_referenced": [
+    "Action Fraud (0300 123 2040)",
+    "Police Scotland (101)",
+    "NCSC Suspicious Email Reporting Service (report@phishing.gov.uk)",
+    "Victim Support (0808 168 9111)",
+    "Citizens Advice",
+    "FCA Consumer Helpline",
+    "UK Finance fraud reporting",
+    "Advertising Standards Authority (ASA)"
+  ],
+  "key_topics_addressed": [
+    "Immediate crisis response to scams",
+    "Retrospective actions after being scammed",
+    "Prevention and awareness strategies",
+    "Procedural guidance for reporting",
+    "Emotional support for victims",
+    "Technical security measures",
+    "Family and child protection"
+  ],
+  "generation_notes": "Generated comprehensive Q&A pairs covering all major cyber fraud scenarios from NCSC guidance documents. Each Q&A pair is designed to be standalone and provide complete, actionable advice. Focused on UK-specific procedures, contact information, and regulatory frameworks. Included empathetic tone and emotional support elements for victims.",
+  "source_urls": [
+    "https://www.ncsc.gov.uk/guidance/data-breaches",
+    "https://www.ncsc.gov.uk/guidance/online-gaming-for-families-and-individuals",
+    "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+    "https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely",
+    "https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself",
+    "https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely",
+    "https://www.ncsc.gov.uk/guidance/securing-your-devices",
+    "https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home",
+    "https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv",
+    "https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices",
+    "https://www.ncsc.gov.uk/guidance/what-is-an-antivirus-product",
+    "https://www.ncsc.gov.uk/guidance/smart-security-cameras-using-them-safely-in-your-home",
+    "https://www.ncsc.gov.uk/cyberaware/home"
+  ]
+} 

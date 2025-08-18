@@ -1,0 +1,72 @@
+{
+  "summary": {
+    "total_qa_pairs_generated": 30,
+    "source_document": "Action Fraud compiled guidance and fraud prevention materials",
+    "generation_date": "2025-01-27",
+    "generated_by": "gemini",
+    "question_categories": {
+      "immediate_crisis_questions": 3,
+      "retrospective_questions": 5,
+      "prevention_awareness_questions": 8,
+      "procedural_questions": 4,
+      "emotional_support_questions": 3,
+      "specific_fraud_types": 7
+    },
+    "fraud_types_covered": [
+      "Phishing scams",
+      "Courier fraud",
+      "Sextortion scams",
+      "Pension scams",
+      "Bank account fraud",
+      "Identity theft",
+      "ATM fraud",
+      "Mandate fraud",
+      "Cheque fraud",
+      "Online shopping fraud",
+      "Investment scams",
+      "Counterfeit currency",
+      "Malware and computer viruses",
+      "NCA impersonation scams",
+      "Scam adverts"
+    ],
+    "uk_organizations_referenced": [
+      "Action Fraud",
+      "Financial Conduct Authority (FCA)",
+      "National Crime Agency (NCA)",
+      "Victim Support",
+      "CIFAS",
+      "National Cyber Security Centre (NCSC)",
+      "The Pensions Advisory Service",
+      "Pension Wise",
+      "Information Commissioner's Office (ICO)",
+      "Bank of England",
+      "CrimeStoppers"
+    ],
+    "contact_numbers_included": [
+      "Action Fraud: 0300 123 2040",
+      "FCA Consumer Helpline: 0800 111 6768",
+      "NCA: 0370 496 7622",
+      "Victim Support: 0808 168 9111",
+      "ICO: 0303 123 1113",
+      "CrimeStoppers: 0800 555 111",
+      "Suspicious Email Reporting: report@phishing.gov.uk",
+      "Text message reporting: 7726"
+    ],
+    "key_advice_themes": [
+      "Immediate action steps for victims",
+      "Reporting procedures",
+      "Prevention strategies",
+      "Emotional support and coping",
+      "UK-specific contact information",
+      "Warning signs and red flags",
+      "Recovery and protection measures"
+    ],
+    "response_characteristics": {
+      "average_length_words": 150,
+      "tone": "Empathetic and supportive",
+      "style": "Clear and actionable",
+      "uk_specific": true,
+      "standalone_complete": true
+    }
+  }
+} 

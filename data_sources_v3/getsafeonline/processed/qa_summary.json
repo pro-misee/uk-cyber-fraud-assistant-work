@@ -1,0 +1,74 @@
+{
+  "source_document": "Get Safe Online - compiled_all.json",
+  "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+  "total_qa_pairs_generated": 30,
+  "generation_date": "2025-01-27",
+  "generated_by": "gemini",
+  "qa_categories": {
+    "immediate_crisis_questions": 3,
+    "retrospective_questions": 4,
+    "prevention_awareness_questions": 8,
+    "procedural_questions": 5,
+    "emotional_support_questions": 3,
+    "specific_scam_types": 7
+  },
+  "topics_covered": [
+    "General scam awareness and response",
+    "Banking and financial fraud",
+    "Identity theft",
+    "Online dating and romance fraud",
+    "Investment scams",
+    "Property rental scams",
+    "Phishing and email scams",
+    "Social media scams",
+    "Holiday booking scams",
+    "Job offer scams",
+    "Webcam blackmail and sextortion",
+    "Pyramid schemes",
+    "Tax scams",
+    "Cyberstalking",
+    "Computer security and malware",
+    "Victim support and emotional coping",
+    "Reporting procedures",
+    "Child online safety"
+  ],
+  "uk_specific_organizations_mentioned": [
+    "Action Fraud (0300 123 2040)",
+    "Financial Conduct Authority (FCA)",
+    "Citizens Advice",
+    "Victim Support (0808 168 9111)",
+    "Internet Watch Foundation",
+    "CIFAS",
+    "Credit reference agencies (Experian, Equifax, TransUnion)",
+    "Companies House",
+    "ABTA/ATOL (travel protection)",
+    "HMRC",
+    "Local police forces"
+  ],
+  "key_advice_themes": [
+    "Never share PINs or passwords with anyone",
+    "Contact banks directly using official numbers",
+    "Report scams to Action Fraud",
+    "Trust your instincts - if it seems too good to be true, it probably is",
+    "Act quickly when fraud is suspected",
+    "Keep evidence and documentation",
+    "Don't be embarrassed to report scams",
+    "Use secure payment methods",
+    "Verify company legitimacy before dealing",
+    "Protect personal information online"
+  ],
+  "file_structure": {
+    "main_output_file": "output.json",
+    "format": "JSON array with instruction/input/output structure",
+    "fields_included": [
+      "instruction (question)",
+      "input (empty string)",
+      "output (comprehensive answer)",
+      "source_document",
+      "source_url",
+      "chunk_number",
+      "document_index",
+      "generated_by"
+    ]
+  }
+} 

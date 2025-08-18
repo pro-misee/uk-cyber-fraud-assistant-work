@@ -1,0 +1,64 @@
+{
+  "source_document": "Victim Support UK website content",
+  "source_file": "data_sources/victimsupport/scraped/compiled_all.json",
+  "total_qa_pairs_generated": 35,
+  "generation_date": "2025-01-27",
+  "generated_by": "gemini",
+  "qa_categories": {
+    "immediate_crisis_questions": 3,
+    "retrospective_questions": 3,
+    "prevention_awareness_questions": 3,
+    "procedural_questions": 3,
+    "emotional_support_questions": 3,
+    "victim_support_services": 8,
+    "privacy_safety": 3,
+    "reporting_guidance": 4,
+    "rights_entitlements": 2,
+    "specialist_help": 3
+  },
+  "key_topics_covered": [
+    "Immediate response to scams",
+    "Banking security and verification",
+    "Warning signs of online scams",
+    "Protection strategies",
+    "Reporting procedures",
+    "Emotional support and coping",
+    "Victim Support services",
+    "Online privacy and safety",
+    "Criminal justice process",
+    "Specialist support services",
+    "Confidentiality and rights",
+    "Long-term support availability"
+  ],
+  "uk_specific_organizations_referenced": [
+    "Action Fraud (0300 123 2040)",
+    "Victim Support Supportline (08 08 16 89 111)",
+    "Police (101 non-emergency, 999 emergency)",
+    "Crimestoppers (0800 555 111)",
+    "Samaritans (116 123)",
+    "Financial Conduct Authority (FCA)",
+    "Credit reference agencies"
+  ],
+  "response_characteristics": {
+    "average_response_length": "150-250 words",
+    "tone": "Empathetic and non-judgmental",
+    "style": "Clear, actionable guidance",
+    "uk_context": "All responses include UK-specific information",
+    "standalone_quality": "Each Q&A pair is completely self-contained"
+  },
+  "source_documents_used": [
+    "Victim Support main page",
+    "Covering your tracks online",
+    "About us",
+    "How we can help",
+    "Reporting a crime"
+  ],
+  "quality_notes": [
+    "All Q&A pairs make standalone sense without requiring external context",
+    "Responses include specific UK contact numbers and procedures",
+    "Emotional support aspects are emphasized throughout",
+    "Practical steps are clearly outlined",
+    "Confidentiality and safety considerations are addressed",
+    "Multiple contact methods for Victim Support are provided"
+  ]
+} 

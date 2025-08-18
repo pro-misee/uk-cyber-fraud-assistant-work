@@ -1,0 +1,32 @@
+{
+  "original_count": 1304,
+  "deduplication_steps": [
+    {
+      "step": "identical_rows",
+      "removed": 0,
+      "remaining": 1304,
+      "description": "Removed completely identical rows across all columns"
+    },
+    {
+      "step": "duplicate_instructions",
+      "removed": 1026,
+      "remaining": 278,
+      "description": "Removed duplicate instructions (same question)"
+    },
+    {
+      "step": "duplicate_outputs",
+      "removed": 0,
+      "remaining": 278,
+      "description": "Removed duplicate outputs (same answer)"
+    },
+    {
+      "step": "duplicate_qa_pairs",
+      "removed": 0,
+      "remaining": 278,
+      "description": "Removed duplicate Q&A pairs (same question and answer)"
+    }
+  ],
+  "final_count": 278,
+  "total_removed": 1026,
+  "removal_percentage": 78.68098159509202
+}

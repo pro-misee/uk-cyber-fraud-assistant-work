@@ -1,0 +1,35 @@
+{
+  "total_samples": 1304,
+  "source_breakdown": {
+    "fca": 36,
+    "citizensadvice": 30,
+    "getsafeonline": 30,
+    "actionfraud": 44,
+    "policeuk": 16,
+    "ncsc": 31,
+    "which": 25,
+    "victimsupport": 36,
+    "ukfinance": 26
+  },
+  "source_files": [
+    "data_sources_v2/fca/processed/final_combined_qa_pairs.json",
+    "data_sources_v2/citizensadvice/processed/final_combined_qa_pairs.json",
+    "data_sources_v2/getsafeonline/processed/final_combined_qa_pairs.json",
+    "data_sources_v2/ukfinance/processed/final_combined_qa_pairs.json",
+    "data_sources_v2/actionfraud/processed/final_combined_qa_pairs.json",
+    "data_sources_v2/policeuk/processed/final_combined_qa_pairs.json",
+    "data_sources_v2/ncsc/processed/final_combined_qa_pairs.json",
+    "data_sources_v2/which/processed/final_combined_qa_pairs.json",
+    "data_sources_v2/victimsupport/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/fca/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/citizensadvice/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/getsafeonline/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/ukfinance/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/actionfraud/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/policeuk/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/ncsc/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/which/processed/final_combined_qa_pairs.json",
+    "data_sources_v3/victimsupport/processed/final_combined_qa_pairs.json"
+  ],
+  "output_file": "merged/consolidated_fraud_qa_dataset.json"
+}

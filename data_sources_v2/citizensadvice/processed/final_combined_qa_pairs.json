@@ -1,0 +1,282 @@
+[
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you think someone is trying to scam you, it's important to act quickly. Don't send any money or give out any personal details. If you're in immediate danger, call 999. You can report the scam to Citizens Advice and Action Fraud. The Citizens Advice consumer helpline is 0808 223 1133, and you can report to Action Fraud online or by calling 0300 123 2040.",
+    "source_document": "You can find out more or opt-out from some cookies.",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/citizens-advice-privacy-policy/how-we-use-cookies/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use pressure tactics to rush you into making a decision. Legitimate businesses will give you time to think. Don't be rushed into anything. If you're being pressured to pay, it's likely a scam. Stop all contact with the person and report them to Citizens Advice and Action Fraud.",
+    "source_document": "You can find out more or opt-out from some cookies.",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/citizens-advice-privacy-policy/how-we-use-cookies/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, there are steps you can take to try and get your money back. The method depends on how you paid. If you paid by credit or debit card, you might be able to use the chargeback scheme. If you paid by bank transfer, contact your bank immediately. You should also report the scam to Citizens Advice and Action Fraud.",
+    "source_document": "You can find out more or opt-out from some cookies.",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/citizens-advice-privacy-policy/how-we-use-cookies/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've given out personal details, you need to act to protect yourself from identity theft. Check your bank and card statements for any unusual transactions. You can also check your credit report for any accounts you don't recognize. Report the scam to Action Fraud and consider applying for protective registration with Cifas.",
+    "source_document": "You can find out more or opt-out from some cookies.",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/citizens-advice-privacy-policy/how-we-use-cookies/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an online sale is a scam?",
+    "input": "",
+    "output": "Be cautious of offers that seem too good to be true. Check the seller's reviews and be wary of private sellers on online marketplaces. If you can, pay by credit card for extra protection. If you're unsure, it's best to walk away. You can get more advice from the Citizens Advice consumer helpline on 0808 223 1133.",
+    "source_document": "You can find out more or opt-out from some cookies.",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/citizens-advice-privacy-policy/how-we-use-cookies/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a scam?",
+    "input": "",
+    "output": "You should report all scams to Citizens Advice and Action Fraud. This helps them to warn other people about the scams and can help to stop the scammers. You can contact the Citizens Advice consumer helpline on 0808 223 1133 and Action Fraud on 0300 123 2040.",
+    "source_document": "You can find out more or opt-out from some cookies.",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/citizens-advice-privacy-policy/how-we-use-cookies/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's very common to feel embarrassed after being scammed, but it's important to remember that scammers are clever and anyone can be a victim. You're not to blame. Reporting the scam is a brave and important step. If you need emotional support, you can talk to your local Citizens Advice or contact Victim Support on 0808 16 89 111.",
+    "source_document": "You can find out more or opt-out from some cookies.",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/citizens-advice-privacy-policy/how-we-use-cookies/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you think someone is trying to scam you, it's important to act quickly. Don't send any money or give out any personal details. If you're in immediate danger, call 999. You can report the scam to Citizens Advice and Action Fraud. The Citizens Advice consumer helpline is 0808 223 1133, and you can report to Action Fraud online or by calling 0300 123 2040.",
+    "source_document": "Consumer - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/consumer/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use pressure tactics to rush you into making a decision. Legitimate businesses will give you time to think. Don't be rushed into anything. If you're being pressured to pay, it's likely a scam. Stop all contact with the person and report them to Citizens Advice and Action Fraud.",
+    "source_document": "Consumer - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/consumer/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, there are steps you can take to try and get your money back. The method depends on how you paid. If you paid by credit or debit card, you might be able to use the chargeback scheme. If you paid by bank transfer, contact your bank immediately. You should also report the scam to Citizens Advice and Action Fraud.",
+    "source_document": "Consumer - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/consumer/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've given out personal details, you need to act to protect yourself from identity theft. Check your bank and card statements for any unusual transactions. You can also check your credit report for any accounts you don't recognize. Report the scam to Action Fraud and consider applying for protective registration with Cifas.",
+    "source_document": "Consumer - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/consumer/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an online sale is a scam?",
+    "input": "",
+    "output": "Be cautious of offers that seem too good to be true. Check the seller's reviews and be wary of private sellers on online marketplaces. If you can, pay by credit card for extra protection. If you're unsure, it's best to walk away. You can get more advice from the Citizens Advice consumer helpline on 0808 223 1133.",
+    "source_document": "Consumer - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/consumer/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a scam?",
+    "input": "",
+    "output": "You should report all scams to Citizens Advice and Action Fraud. This helps them to warn other people about the scams and can help to stop the scammers. You can contact the Citizens Advice consumer helpline on 0808 223 1133 and Action Fraud on 0300 123 2040.",
+    "source_document": "Consumer - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/consumer/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's very common to feel embarrassed after being scammed, but it's important to remember that scammers are clever and anyone can be a victim. You're not to blame. Reporting the scam is a brave and important step. If you need emotional support, you can talk to your local Citizens Advice or contact Victim Support on 0808 16 89 111.",
+    "source_document": "Consumer - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/consumer/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you think someone is trying to scam you, it's important to act quickly. Don't send any money or give out any personal details. If you're in immediate danger, call 999. You can report the scam to Citizens Advice and Action Fraud. The Citizens Advice consumer helpline is 0808 223 1133, and you can report to Action Fraud online or by calling 0300 123 2040.",
+    "source_document": "Learn more about Citizens Advice - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use pressure tactics to rush you into making a decision. Legitimate businesses will give you time to think. Don't be rushed into anything. If you're being pressured to pay, it's likely a scam. Stop all contact with the person and report them to Citizens Advice and Action Fraud.",
+    "source_document": "Learn more about Citizens Advice - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, there are steps you can take to try and get your money back. The method depends on how you paid. If you paid by credit or debit card, you might be able to use the chargeback scheme. If you paid by bank transfer, contact your bank immediately. You should also report the scam to Citizens Advice and Action Fraud.",
+    "source_document": "Learn more about Citizens Advice - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've given out personal details, you need to act to protect yourself from identity theft. Check your bank and card statements for any unusual transactions. You can also check your credit report for any accounts you don't recognize. Report the scam to Action Fraud and consider applying for protective registration with Cifas.",
+    "source_document": "Learn more about Citizens Advice - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an online sale is a scam?",
+    "input": "",
+    "output": "Be cautious of offers that seem too good to be true. Check the seller's reviews and be wary of private sellers on online marketplaces. If you can, pay by credit card for extra protection. If you're unsure, it's best to walk away. You can get more advice from the Citizens Advice consumer helpline on 0808 223 1133.",
+    "source_document": "Learn more about Citizens Advice - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a scam?",
+    "input": "",
+    "output": "You should report all scams to Citizens Advice and Action Fraud. This helps them to warn other people about the scams and can help to stop the scammers. You can contact the Citizens Advice consumer helpline on 0808 223 1133 and Action Fraud on 0300 123 2040.",
+    "source_document": "Learn more about Citizens Advice - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's very common to feel embarrassed after being scammed, but it's important to remember that scammers are clever and anyone can be a victim. You're not to blame. Reporting the scam is a brave and important step. If you need emotional support, you can talk to your local Citizens Advice or contact Victim Support on 0808 16 89 111.",
+    "source_document": "Learn more about Citizens Advice - Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/about-us/",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you think someone is trying to scam you, it's important to act quickly. Don't send any money or give out any personal details. If you're in immediate danger, call 999. You can report the scam to Citizens Advice and Action Fraud. The Citizens Advice consumer helpline is 0808 223 1133, and you can report to Action Fraud online or by calling 0300 123 2040.",
+    "source_document": "Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "Scammers often use pressure tactics to rush you into making a decision. Legitimate businesses will give you time to think. Don't be rushed into anything. If you're being pressured to pay, it's likely a scam. Stop all contact with the person and report them to Citizens Advice and Action Fraud.",
+    "source_document": "Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, there are steps you can take to try and get your money back. The method depends on how you paid. If you paid by credit or debit card, you might be able to use the chargeback scheme. If you paid by bank transfer, contact your bank immediately. You should also report the scam to Citizens Advice and Action Fraud.",
+    "source_document": "Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've given out personal details, you need to act to protect yourself from identity theft. Check your bank and card statements for any unusual transactions. You can also check your credit report for any accounts you don't recognize. Report the scam to Action Fraud and consider applying for protective registration with Cifas.",
+    "source_document": "Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an online sale is a scam?",
+    "input": "",
+    "output": "Be cautious of offers that seem too good to be true. Check the seller's reviews and be wary of private sellers on online marketplaces. If you can, pay by credit card for extra protection. If you're unsure, it's best to walk away. You can get more advice from the Citizens Advice consumer helpline on 0808 223 1133.",
+    "source_document": "Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a scam?",
+    "input": "",
+    "output": "You should report all scams to Citizens Advice and Action Fraud. This helps them to warn other people about the scams and can help to stop the scammers. You can contact the Citizens Advice consumer helpline on 0808 223 1133 and Action Fraud on 0300 123 2040.",
+    "source_document": "Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's very common to feel embarrassed after being scammed, but it's important to remember that scammers are clever and anyone can be a victim. You're not to blame. Reporting the scam is a brave and important step. If you need emotional support, you can talk to your local Citizens Advice or contact Victim Support on 0808 16 89 111.",
+    "source_document": "Citizens Advice",
+    "source_url": "https://www.citizensadvice.org.uk/",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  }
+]

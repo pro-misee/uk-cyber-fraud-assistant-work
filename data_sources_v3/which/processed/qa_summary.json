@@ -1,0 +1,72 @@
+{
+  "source": "Which? consumer rights and scam prevention content",
+  "total_qa_pairs_generated": 25,
+  "content_coverage": {
+    "immediate_crisis_questions": 3,
+    "retrospective_questions": 3,
+    "prevention_awareness_questions": 6,
+    "procedural_questions": 8,
+    "emotional_support_questions": 3,
+    "payment_method_specific": 2
+  },
+  "topics_covered": [
+    "Immediate scam response",
+    "Money recovery for different payment methods",
+    "Personal data protection",
+    "Bank transfer scams",
+    "Social media scam detection",
+    "Investment scams",
+    "Diet pill scams",
+    "Credit card protection",
+    "PayPal scams",
+    "Debit card chargeback",
+    "Emotional support for victims",
+    "Email scam detection",
+    "Text message scams",
+    "Phone call scams",
+    "Advertising scams",
+    "Scam mail prevention",
+    "Suspicious website reporting",
+    "Trading Standards reporting",
+    "Unauthorised transactions",
+    "Bank fraud handling"
+  ],
+  "uk_specific_organizations_referenced": [
+    "Action Fraud",
+    "FCA (Financial Conduct Authority)",
+    "Citizens Advice",
+    "Trading Standards",
+    "National Cyber Security Centre (NCSC)",
+    "Advertising Standards Authority (ASA)",
+    "Ofcom",
+    "Royal Mail",
+    "Mailing Preference Service (MPS)",
+    "Financial Ombudsman Service",
+    "Mind",
+    "Victim Support"
+  ],
+  "contact_numbers_included": [
+    "Action Fraud: 0300 123 2040",
+    "Police (Scotland): 101",
+    "Mind: 0300 123 3393",
+    "Victim Support: 0808 16 89 111",
+    "Ofcom: 0300 123 3333",
+    "MPS: 020 7291 3310"
+  ],
+  "generation_date": "2025-01-27",
+  "source_documents": [
+    "How to get your money back after a scam",
+    "How to spot a scam",
+    "How to report a scam",
+    "Nixol diet pill scam warning",
+    "Quantum AI investment scam warning"
+  ],
+  "quality_notes": [
+    "All Q&A pairs are standalone and self-contained",
+    "UK-specific contact information and procedures included",
+    "Empathetic tone maintained throughout",
+    "Actionable advice provided for each scenario",
+    "Multiple victim perspectives covered",
+    "Comprehensive coverage of different scam types and payment methods"
+  ]
+} 

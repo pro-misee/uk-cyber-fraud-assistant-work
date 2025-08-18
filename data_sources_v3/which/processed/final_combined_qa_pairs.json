@@ -1,0 +1,252 @@
+[
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you think you're being scammed right now, stop all communication immediately. Don't give out any more personal or financial information. If you've already shared bank details, contact your bank immediately using the number on the back of your card. If you've made a payment, call your bank straight away - they may be able to stop the transaction or recover the money. Report the scam to Action Fraud on 0300 123 2040 or online at actionfraud.police.uk. If you're in Scotland, call the police on 101. Remember, legitimate organisations will never pressure you to act quickly or ask for sensitive information unexpectedly. Trust your instincts - if something feels wrong, it probably is.",
+    "source_document": "Which? scam prevention and reporting guidance",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "No, this is almost certainly a scam. Legitimate organisations will never pressure you to make immediate payments or create artificial urgency. Scammers often use countdown timers or claim offers are 'too good to miss' to rush your decision-making. Genuine companies should always give you time and space to make an informed decision. If someone is trying to hurry you, hang up or stop communication immediately. Contact the organisation directly using verified contact details (not the ones provided by the person pressuring you) to check if the request is genuine. Remember, it's always better to take time to think things through than to rush into a decision you might regret.",
+    "source_document": "Which? scam warning signs and prevention advice",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've just realized I might have been tricked, what are my next steps?",
+    "input": "",
+    "output": "First, don't panic - you're not alone and it's not your fault. Stop all communication with the scammer immediately. If you've shared bank details, contact your bank right away using the number on the back of your card. If you've made a payment, call your bank immediately - they may be able to stop the transaction or recover funds. Report the scam to Action Fraud on 0300 123 2040 or online at actionfraud.police.uk. If you're in Scotland, call the police on 101. Change any passwords you may have shared and monitor your accounts for suspicious activity. Consider contacting your bank to secure your accounts. Remember, reporting helps protect others and may help recover your money. Don't be embarrassed - scammers are very sophisticated and target everyone.",
+    "source_document": "Which? immediate response guidance for scam victims",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "It depends on how you paid. If you used a debit card, you may be able to use the chargeback scheme - contact your bank immediately. For credit cards, you have protection under Section 75 if the item cost over £100. Bank transfers are harder to recover, but contact your bank straight away - they may be able to trace and recover the funds. The new APP fraud reimbursement requirement came into force on 7 October 2024 for bank transfer scams. For PayPal payments, you may be covered by PayPal Buyer Protection if the seller failed to deliver. Unfortunately, cash, vouchers, and gift cards are very difficult to recover. Always report the scam to Action Fraud on 0300 123 2040 and your bank immediately. The sooner you act, the better your chances of recovery.",
+    "source_document": "Which? money recovery guidance for different payment methods",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "Don't panic, but act quickly. Contact your bank immediately if you've shared financial information - they can help secure your accounts. Change any passwords you may have shared, especially for banking, email, and social media accounts. Monitor your bank accounts and credit reports for suspicious activity. Consider placing a fraud alert on your credit file. Report the incident to Action Fraud on 0300 123 2040 or online at actionfraud.police.uk. If you're in Scotland, call the police on 101. Be extra vigilant for follow-up scams - scammers often sell victim lists to other criminals. Never share personal details again unless you're 100% certain of who you're dealing with. Remember, legitimate organisations will never ask for sensitive information unexpectedly.",
+    "source_document": "Which? identity theft and personal data protection advice",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been a victim of a bank transfer scam, how do I report it?",
+    "input": "",
+    "output": "Contact your bank immediately using the number on the back of your card - they may be able to trace and recover the funds. Report the scam to Action Fraud on 0300 123 2040 or online at actionfraud.police.uk. If you're in Scotland, call the police on 101. Provide as much detail as possible including the bank account number your money was sent to. The new APP fraud reimbursement requirement came into force on 7 October 2024 for bank transfer scams that happen on or after this date. For scams before this date, the voluntary Contingent Reimbursement Model applies. All types of APP fraud are covered, including impersonation and romance scams. The rules apply to most UK banks, building societies, and e-money firms. Keep all evidence including messages, emails, and bank statements.",
+    "source_document": "Which? bank transfer scam reporting and recovery guidance",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if a social media ad is a scam?",
+    "input": "",
+    "output": "Be suspicious if the ad features celebrities or organisations but isn't posted from an official account. Look for deepfakes - unnatural movements, strange background noises, and unusual details in videos. Check if the website was recently created by using who.is to look up domain registration dates. Be wary of ads that ask for personal and financial details immediately. Avoid offers that sound too good to be true, especially investment schemes promising high returns. Check if the business claims to be located in a real office building but the website doesn't match. Look for fake endorsements from well-known figures. If you're unsure, don't click on the ad or provide any information. Report suspicious ads to the platform and to Action Fraud.",
+    "source_document": "Which? social media scam detection advice",
+    "source_url": "https://www.which.co.uk/news/article/what-is-the-quantum-ai-scam-acsiK7o1b7qr",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs of an investment scam?",
+    "input": "",
+    "output": "Investment scams often promise high returns for little financial commitment, typically asking for initial investments of £200-£250. They may use fake endorsements from celebrities or impersonate well-known organisations like the BBC. Scammers often bombard you with phone calls from 'financial advisors' after you provide contact details. They may use AI-generated images or deepfakes to appear legitimate. The Financial Conduct Authority warns against firms not on their register. Be suspicious of schemes that claim to be 'too good to miss' or use pressure tactics. Check if the firm is authorised by the FCA before investing. Remember, if an investment opportunity sounds too good to be true, it almost certainly is. Never invest with firms that aren't properly regulated.",
+    "source_document": "Which? investment scam warning signs and FCA guidance",
+    "source_url": "https://www.which.co.uk/news/article/what-is-the-quantum-ai-scam-acsiK7o1b7qr",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I protect myself from diet pill scams?",
+    "input": "",
+    "output": "Be very cautious of diet pill ads on social media, especially those claiming celebrity endorsements from shows like Dragons' Den. The Medicines and Healthcare products Regulatory Agency (MHRA) warns against obtaining weight-loss medicines from any source other than a pharmacy or through your doctor. Fake diet pills often contain dangerous and illegal substances. Don't trust ads claiming products are 'clinically tested' or '100% natural' without evidence. Be suspicious of websites impersonating news organisations like the Daily Mail. Check if the business address is legitimate - scammers often use fake addresses. Avoid subscription traps that charge monthly fees. If you've taken a medicine and are concerned about your health, call 111. Only buy weight-loss products from legitimate pharmacies or with medical supervision.",
+    "source_document": "Which? diet pill scam prevention and MHRA guidance",
+    "source_url": "https://www.which.co.uk/news/article/watch-out-for-the-nixol-diet-pill-scam-aIVRx1q4BYP6",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a credit card scam?",
+    "input": "",
+    "output": "Contact your credit card provider immediately using the number on the back of your card. You have strong protection under Section 75 of the Consumer Credit Act if the item cost over £100 and not more than £30,000. You can also use chargeback for items under £100. Report the scam to Action Fraud on 0300 123 2040 or online at actionfraud.police.uk. If you're in Scotland, call the police on 101. Contact the Financial Ombudsman Service if your bank doesn't handle your complaint properly. Keep all evidence including statements, messages, and emails. The sooner you report it, the better your chances of getting your money back. Credit cards offer the greatest protection against scams, so always use them for online purchases when possible.",
+    "source_document": "Which? credit card fraud reporting and Section 75 protection",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What information do I need when reporting a PayPal scam?",
+    "input": "",
+    "output": "When reporting a PayPal scam, you'll need your PayPal account details, transaction IDs, and any communication with the seller. For PayPal Buyer Protection claims, there are time limits and exceptions. If the scammer used a fake PayPal payment form to gather your bank details, you won't be able to claim through PayPal Buyer Protection as PayPal wasn't part of the transaction. For seller scams where buyers claim they didn't receive items, you'll need proof of delivery to the registered address. PayPal's seller protection has specific requirements around delivery addresses. If you're a seller, never send items to different addresses than the one registered with PayPal. Report the scam to Action Fraud on 0300 123 2040 and contact your bank if bank details were compromised.",
+    "source_document": "Which? PayPal scam reporting and protection guidance",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How long does it take to get money back from a debit card scam?",
+    "input": "",
+    "output": "The time varies depending on your bank and the circumstances. Chargeback claims through the debit card scheme can take several weeks to process, though some banks may provide temporary refunds while investigating. There are no guarantees with chargeback as it's not enshrined in law but part of Scheme Rules. The process involves your bank contacting the merchant's bank to request a refund. For unauthorised transactions, banks should investigate quickly and provide refunds under the Payment Services Regulations. The sooner you report the scam, the better your chances of recovery. Keep all evidence and follow up with your bank regularly. If your bank doesn't handle your case properly, you can complain to the Financial Ombudsman Service. Remember, debit cards offer less protection than credit cards for scams.",
+    "source_document": "Which? debit card chargeback and recovery timeframes",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "Yes, feeling embarrassed is completely normal and you're not alone. Being scammed can take a huge toll on your mental health, but it's important to remember it's not your fault. Scammers are very sophisticated and target everyone - they're experts at manipulation and deception. Many people feel ashamed or stupid, but these feelings are exactly what scammers rely on to keep victims quiet. Talking to others about what's happened can help, and hearing about others' experiences can be reassuring. You can get confidential support from Mind on 0300 123 3393 (9am-6pm, Monday-Friday) or Victim Support on 0808 16 89 111 (24/7). These helplines are non-judgemental and understand what you're going through. Remember, reporting your experience helps protect others and may help recover your money.",
+    "source_document": "Which? emotional support guidance for scam victims",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I cope with the stress of being a cyber fraud victim?",
+    "input": "",
+    "output": "Being scammed is incredibly stressful, but there are ways to cope. First, remember it's not your fault - scammers are experts at manipulation. Talk to someone you trust about what happened; keeping it secret only increases stress and isolation. Contact Victim Support on 0808 16 89 111 (24/7) for confidential, non-judgemental support. Mind offers a confidential helpline on 0300 123 3393 (9am-6pm, Monday-Friday). Take practical steps to regain control - report the scam, secure your accounts, and monitor for further fraud. Don't let embarrassment stop you from seeking help. Many people find that helping others by reporting scams and sharing their experience reduces feelings of helplessness. Remember, you're not alone - millions of people are targeted by scams every year. Focus on what you can control rather than dwelling on what you can't change.",
+    "source_document": "Which? mental health support for scam victims",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Will people judge me for falling for this online scam?",
+    "input": "",
+    "output": "It's natural to worry about being judged, but most people are understanding when they learn about scams. Scammers are very sophisticated and target everyone - they use psychological manipulation, fake endorsements, and increasingly convincing technology. Many people feel embarrassed, but keeping quiet only helps scammers continue targeting others. Talking to friends and family can actually help - they may have had similar experiences or can offer support. Professional helplines like Victim Support (0808 16 89 111) and Mind (0300 123 3393) are completely non-judgemental and understand what you're going through. Remember, reporting your experience helps protect others and may help recover your money. The people who matter will support you, and anyone who judges you doesn't understand how sophisticated modern scams have become.",
+    "source_document": "Which? emotional support and stigma reduction advice",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an email is from a real company or a scammer?",
+    "input": "",
+    "output": "Look for spelling and grammar mistakes - legitimate organisations rarely make such errors. Check if you were contacted out of the blue, especially if asked for personal or payment details. Verify the sender's email address carefully - scammers often use addresses that look similar to real companies. Don't click on links in suspicious emails - instead, contact the company directly using verified contact details. Be suspicious of emails asking you to keep something secret or act urgently. Check if the contact details are vague or use premium rate numbers. Forward scam emails to report@phishing.gov.uk for investigation by the National Cyber Security Centre. You can also report to your email provider - Gmail has 'Report spam', Outlook has a 'Phishing' button, and Yahoo Mail has a 'Spam' option. When in doubt, contact the company directly using details from their official website.",
+    "source_document": "Which? email scam detection and reporting guidance",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I receive a suspicious text message?",
+    "input": "",
+    "output": "Don't reply to suspicious text messages or click on any links. Forward the text to 7726 to report it to your mobile provider. If you're on an iPhone, text 'call' followed by the dubious phone number to 7726. On Android, text 'call' to 7726 and you'll receive a message asking for the scam number. Report the scam to Action Fraud on 0300 123 2040 or online at actionfraud.police.uk. If you're in Scotland, call the police on 101. Be suspicious of texts from unknown numbers, especially those asking for personal information or claiming to be from banks or government departments. Legitimate organisations won't ask for sensitive information via text. If you're unsure about a text claiming to be from your bank, contact them directly using the number on the back of your card. Never share personal or financial details in response to a text message.",
+    "source_document": "Which? text message scam reporting and prevention",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam phone call?",
+    "input": "",
+    "output": "For premium rate phone scams, contact Ofcom by filling out a form on their website or calling 0300 123 3333 or 020 7981 3040. Report scam calls to your mobile provider by texting 'call' followed by the dubious phone number to 7726 on iPhone, or just 'call' to 7726 on Android. Report the scam to Action Fraud on 0300 123 2040 or online at actionfraud.police.uk. If you're in Scotland, call the police on 101. Be suspicious of cold calls asking for personal or payment details - legitimate organisations rarely contact you unexpectedly for sensitive information. If you're not 100% convinced about the caller's identity, hang up and contact the company directly using verified contact details. Never give out personal or financial information to cold callers. Remember, it's always better to be cautious than to risk being scammed.",
+    "source_document": "Which? phone scam reporting to Ofcom and mobile providers",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I see a dodgy advert online?",
+    "input": "",
+    "output": "Report suspicious adverts to the Advertising Standards Authority (ASA) - they investigate all types of mass advertising including TV, radio, billboards, websites, and social media. The ASA can get scam ads removed and fine companies that breach guidelines. On social media platforms like Facebook, Instagram, and TikTok, report posts or ads by selecting the three dots and pressing 'Report'. Be suspicious of ads that sound too good to be true, especially those claiming celebrity endorsements or promising unrealistic results. Check if the business has legitimate contact details and a real address. Use tools like TinEye to trace image sources and who.is to check domain registration dates. Don't click on suspicious ads or provide personal information. If you've been misled by an advert, report it to the ASA and consider reporting to Action Fraud if you've lost money.",
+    "source_document": "Which? advertising scam reporting to ASA and social media platforms",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I stop receiving scam mail?",
+    "input": "",
+    "output": "Report scam mail to Royal Mail by sending it to Freepost Royal Mail Customer Services. You can also use Royal Mail's online form to report scam letters. Register with the Mailing Preference Service (MPS) by calling 020 7291 3310 or visiting mpsonline.org.uk - this can remove your name and address from mailing lists. If you receive junk mail that might be from fraudsters, send it to Freepost Scam Mail with the letter. Reporting helps Royal Mail investigate with relevant authorities. Be suspicious of mail asking for personal information or claiming you've won prizes you didn't enter. Never respond to suspicious mail or provide personal details. If you're unsure about mail claiming to be from legitimate organisations, contact them directly using verified contact details. Remember, legitimate companies won't ask for sensitive information via unsolicited mail.",
+    "source_document": "Which? scam mail reporting and Mailing Preference Service",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I find a suspicious website?",
+    "input": "",
+    "output": "Report suspicious websites to the National Cyber Security Centre (NCSC) on their website. Don't enter any personal or financial information on suspicious sites. Check the website's domain registration date using who.is - recently created sites are often scams. Look for spelling and grammar mistakes, vague contact details, or requests for unusual payment methods. Be suspicious of sites that ask you to keep something secret or act urgently. If the site claims to be from a legitimate company, contact that company directly using verified contact details to check if it's genuine. Report the scam to Action Fraud on 0300 123 2040 or online at actionfraud.police.uk. If you're in Scotland, call the police on 101. Never download files or click on links from suspicious websites. Use security software and keep your browser updated to help protect against malicious sites.",
+    "source_document": "Which? suspicious website reporting to NCSC",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I report a scam company to Trading Standards?",
+    "input": "",
+    "output": "Contact your local Citizens Advice - they have a strong relationship with Trading Standards and will pass on information about businesses you're concerned about. Trading Standards officers investigate companies that may be involved in illegal activities and have powers to take criminal action against fraudulent firms. You can find your local Citizens Advice through their website or by calling their helpline. Provide as much detail as possible about the company, including their name, address, contact details, and what they've done. Keep all evidence including contracts, receipts, emails, and correspondence. Trading Standards can investigate various types of fraud including fake companies, misleading advertising, and unfair trading practices. They work closely with other enforcement agencies and can take action to protect other consumers. Remember, reporting helps prevent others from falling victim to the same scam.",
+    "source_document": "Which? Trading Standards reporting through Citizens Advice",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What protection do I have if I paid by credit card?",
+    "input": "",
+    "output": "Credit cards offer the strongest protection against scams. Under Section 75 of the Consumer Credit Act, your credit card company is jointly and severally liable for any breach of contract or misrepresentation by the company you bought from. This applies to items costing between £100 and £30,000. For items under £100, you can use chargeback through the card scheme. Section 75 applies to scams where you paid for goods or services that were never available or where the seller disappeared. Credit cards also offer protection for items bought abroad and online purchases. Contact your credit card provider immediately if you think you've been scammed. Keep all evidence including statements, receipts, and correspondence. If your bank doesn't handle your complaint properly, you can contact the Financial Ombudsman Service. Always use credit cards for online purchases when possible for maximum protection.",
+    "source_document": "Which? credit card Section 75 protection and chargeback",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if there's an unauthorised transaction on my card?",
+    "input": "",
+    "output": "Contact your bank immediately using the number on the back of your card. Under the Payment Services Regulations and Banking Conduct of Business rules, banks must provide refunds for unauthorised transactions. Report the transaction as soon as you become aware of it. If you've handed over your card for a specific amount and more money was taken without permission, you can claim for the additional amount. Keep all evidence including statements and any correspondence. The bank should investigate quickly and provide a refund if the transaction was genuinely unauthorised. If your bank doesn't handle your case properly, you can complain to the Financial Ombudsman Service. Monitor your account for any further suspicious activity. Consider cancelling your card and getting a replacement if you're concerned about further fraud. Remember, the sooner you report it, the better your chances of getting your money back.",
+    "source_document": "Which? unauthorised transaction reporting and bank obligations",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I know if my bank is handling my fraud case properly?",
+    "input": "",
+    "output": "Different banks have different policies, but all have a responsibility to protect your money. Banks should investigate fraud reports quickly and make all reasonable efforts to recover money where possible. They should keep you informed about the progress of your case and explain their decisions clearly. If you think your bank hasn't handled your case properly, you have the right to challenge their decision. You can complain to the Financial Ombudsman Service if you're not satisfied with your bank's response. Keep all correspondence and evidence including statements, emails, and phone call records. Banks should follow the Payment Services Regulations and Banking Conduct of Business rules. For APP fraud, the new reimbursement requirement came into force on 7 October 2024. If you're unhappy with how your case has been handled, don't give up - escalate your complaint and seek independent advice if necessary.",
+    "source_document": "Which? bank fraud handling standards and complaint procedures",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+] 

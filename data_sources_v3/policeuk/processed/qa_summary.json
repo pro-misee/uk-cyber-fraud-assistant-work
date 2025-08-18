@@ -1,0 +1,45 @@
+{
+  "source_document": "Police UK Contact Information",
+  "source_url": "https://www.police.uk/pu/contact-us/",
+  "total_qa_pairs_generated": 15,
+  "generation_date": "2025-01-27",
+  "generated_by": "gemini",
+  "content_coverage": {
+    "emergency_reporting": "Covered emergency procedures and when to call 999",
+    "non_emergency_reporting": "Covered 101 reporting procedures for cyber fraud",
+    "anonymous_reporting": "Covered Crimestoppers anonymous reporting options",
+    "accessibility": "Covered textphone services for hearing/speech impaired",
+    "online_reporting": "Covered online reporting options",
+    "case_updates": "Covered how to get updates on reported cases",
+    "international_reporting": "Covered reporting from outside UK",
+    "victim_support": "Covered emotional support and non-judgmental approach"
+  },
+  "question_categories": {
+    "immediate_crisis": 2,
+    "retrospective": 3,
+    "prevention_awareness": 2,
+    "procedural": 5,
+    "emotional_support": 3
+  },
+  "key_contact_numbers_included": [
+    "999 - Emergency",
+    "101 - Non-emergency",
+    "18000 - Emergency textphone",
+    "18001 101 - Non-emergency textphone",
+    "0800 555 111 - Crimestoppers",
+    "0300 123 2040 - Action Fraud"
+  ],
+  "uk_specific_organizations_referenced": [
+    "Action Fraud",
+    "Crimestoppers",
+    "Citizens Advice",
+    "Local police forces"
+  ],
+  "response_characteristics": {
+    "average_response_length": "150-200 words",
+    "tone": "Empathetic and professional",
+    "includes_actionable_steps": true,
+    "uk_specific_guidance": true,
+    "standalone_comprehension": true
+  }
+} 

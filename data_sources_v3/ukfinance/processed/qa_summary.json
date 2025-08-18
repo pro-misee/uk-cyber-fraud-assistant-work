@@ -1,0 +1,54 @@
+{
+  "source": "UK Finance",
+  "total_qa_pairs": 25,
+  "generation_date": "2025-01-27",
+  "source_documents": [
+    "UK Finance fraud and scams guidance",
+    "UK Finance Cyber Essentials cyber security initiative", 
+    "UK Finance consumer protection guidance"
+  ],
+  "topics_covered": [
+    "Impersonation scams",
+    "Phishing and email fraud",
+    "SMS and text message scams",
+    "Remote access scams",
+    "Banking security",
+    "Victim support and emotional guidance",
+    "Take Five campaign",
+    "Fraud reporting procedures",
+    "Cyber security protection",
+    "Vulnerable customer protection",
+    "Data breach monitoring",
+    "Regulatory compliance",
+    "Online safety for children",
+    "Recovery timeframes",
+    "Common scam types"
+  ],
+  "question_categories": {
+    "immediate_crisis": 3,
+    "retrospective": 4,
+    "prevention_awareness": 6,
+    "procedural": 5,
+    "emotional_support": 3,
+    "technical_guidance": 4
+  },
+  "key_uk_organizations_referenced": [
+    "Action Fraud",
+    "FCA (Financial Conduct Authority)",
+    "Police Scotland",
+    "Advice Direct Scotland",
+    "Victim Support",
+    "UK Finance"
+  ],
+  "contact_numbers_included": [
+    "Action Fraud: 0300 123 2040",
+    "Police Scotland: 101",
+    "Advice Direct Scotland: 0808 164 6000",
+    "SMS reporting: 7726",
+    "Phishing email reporting: report@phishing.gov.uk"
+  ],
+  "average_response_length": "150-250 words",
+  "tone": "Empathetic, supportive, and non-judgmental",
+  "target_audience": "UK residents seeking fraud prevention and victim support guidance",
+  "compliance": "UK-specific information and procedures included"
+} 

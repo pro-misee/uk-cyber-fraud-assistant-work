@@ -1,0 +1,362 @@
+[
+  {
+    "instruction": "I just got a call from someone claiming to be from the FCA asking for my bank details and PIN. They sounded very official and knew some of my information. Should I give them what they want?",
+    "input": "",
+    "output": "No, absolutely not! The FCA would never ask you for your bank account PINs, passwords, or ask you to transfer money to them. This is a classic scam where fraudsters pretend to be from legitimate organisations. Even if they know some of your details, this doesn't make them genuine - scammers often have access to leaked data. Hang up immediately and report this to the FCA on 0800 111 6768. You should also contact your bank using the number on the back of your card to alert them about this suspicious call. Remember, legitimate organisations will never pressure you to act quickly or ask for sensitive financial information over the phone.",
+    "source_document": "FCA scam protection guidance - fake FCA communications warning",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone contacted me out of the blue offering an investment opportunity with guaranteed high returns. They're pressuring me to decide quickly. Is this legitimate?",
+    "input": "",
+    "output": "This has all the classic warning signs of a scam. Legitimate investments don't offer guaranteed high returns, and genuine financial firms won't pressure you to act quickly. The fact that they contacted you unexpectedly ('out of the blue') is a major red flag. Before considering any investment, use the FCA Firm Checker to verify if the firm is authorised. Check that the firm reference number and contact details match what's on the official register. If you can't find them on the Firm Checker, call the FCA on 0800 111 6768. Remember: if it sounds too good to be true, it probably is. Take your time to research and never feel pressured into making quick financial decisions.",
+    "source_document": "FCA scam protection guidance - warning signs and firm checking",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money for a loan but never received it. The company asked for an upfront fee of £300 and said it was refundable. What should I do?",
+    "input": "",
+    "output": "You've likely fallen victim to loan fee fraud, which is a common scam where victims lose an average of £255. Legitimate lenders don't ask for upfront fees before providing loans. If you've already paid money, contact your bank immediately using the number on your card or statements to try to recover the funds. Report this scam to the FCA on 0800 111 6768. For future reference, only deal with authorised financial firms - use the FCA Firm Checker to verify if a company is legitimate before giving them any money. If you're struggling with debt, contact MoneyHelper for free debt advice rather than falling for loan scams.",
+    "source_document": "FCA loan fee fraud guidance",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm under 55 but someone offered to help me access my pension early. They said it's called 'pension liberation' and I can borrow from my pension fund. Should I do this?",
+    "input": "",
+    "output": "No, this is almost certainly a scam. You can only take money from your pension when you're 55 or older (increasing to 57 from 2028), except in very specific cases like poor health. Early pension release schemes are illegal and could result in a 55% tax bill on what you withdraw, even if you didn't realise you were breaking the rules. These scams often transfer your pension to schemes based abroad, take hefty fees (up to 30%), and sometimes simply steal your money outright. If you're worried about money and considering using your pension to repay debts, contact a free debt adviser first using MoneyHelper's debt advice locator tool. Never take advice from the company that contacted you - this may be part of the scam.",
+    "source_document": "FCA pension scams guidance - early pension release",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone contacted me offering a free pension review. They said they're acting on behalf of the FCA. Is this legitimate?",
+    "input": "",
+    "output": "No, this is likely a scam. Professional pension advice is not free, and most companies offering free pension reviews aren't authorised by the FCA. Scammers often falsely claim they're acting on behalf of the FCA or MoneyHelper. These 'free' reviews are designed to persuade you to move your pension into high-risk schemes involving unusual investments like overseas property, forestry, or storage units. If you get a cold call about your pension, the safest thing to do is hang up immediately - it's illegal and probably a scam. Report pension cold calls to the Information Commissioner's Office (ICO). If you're thinking about changing your pension arrangements, get proper financial guidance or advice from an FCA-authorised adviser first.",
+    "source_document": "FCA pension scams guidance - pension review scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received an email asking me to download screen sharing software to help with an investment opportunity. Should I do this?",
+    "input": "",
+    "output": "Absolutely not! This is a screen sharing scam. Once you download the software and allow them access to your screen, scammers can access your personal information and financial accounts, including your online banking. Even if you've searched for a company online and contacted them, you should never share your screen with them. Scammers may try to build trust or friendship to put you at ease, but this is all part of their deception. If you're asked to share your screen or provide remote access to your phone or computer, this is a major warning sign it's a scam. Only deal with financial services firms that are authorised by the FCA - use the FCA Firm Checker to verify if a firm is legitimate before having any contact with them.",
+    "source_document": "FCA screen sharing scams guidance",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is legitimate?",
+    "input": "",
+    "output": "Always use the FCA Firm Checker to verify if a financial firm is authorised and has permission for the service they're offering. Check that the firm reference number (FRN) and contact details match what's on the official register. If there are no contact details on the Firm Checker, or the firm says they're out of date, call the FCA on 0800 111 6768. Be very wary of unexpected contact, pressure to invest quickly, or promises of guaranteed high returns. If you're contacted about an investment opportunity unexpectedly, use the FCA's Investment Checker to avoid scams. Remember that investment scams often involve unregulated products like cryptoassets, forex trading, binary options, or unusual investments like overseas property or forestry. If something sounds too good to be true, it probably is.",
+    "source_document": "FCA scam protection guidance - checking firms and investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been scammed before and now someone is offering to help me get my money back for a fee. Should I trust them?",
+    "input": "",
+    "output": "No, this is likely a recovery room scam. Fraudsters often target people who have already been scammed, either by trying to scam them again or by selling their details to other criminals. These follow-up scams might offer to get your money back or buy back an investment after you pay a fee. If you've already been scammed, it's important to be extra careful as fraudsters could try to target you again. The new scam might be completely different or related to the previous one. If you have any concerns about a potential financial scam, contact the FCA immediately on 0800 111 6768. Remember, legitimate organisations won't ask for fees to help you recover money from scams.",
+    "source_document": "FCA scam protection guidance - recovery room scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I think I've been contacted by a scammer?",
+    "input": "",
+    "output": "If you're worried about a potential scam or think you may have been contacted by a fraudster, report it to the FCA immediately. Call them on 0800 111 6768 or use their contact form. If you've given scammers any personal information or made a payment, contact your bank immediately using the number on your card or statements. The FCA can only look into scams involving financial services they regulate. For other scams (like HMRC scams, TV licence scams, or eBay scams), contact Action Fraud on 0300 123 2040 or via their website. If you live in Scotland, report to Police Scotland on 101 or contact Advice Direct Scotland on 0808 164 6000. Reporting scams helps protect others from falling victim to the same criminals.",
+    "source_document": "FCA scam reporting guidance",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about falling for a scam. Is this normal and how do I cope?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but you shouldn't be ashamed. Scammers are sophisticated and can be very convincing, even to intelligent people. They use psychological tactics to pressure and manipulate victims. Many people fall for scams, and it's not a reflection of your intelligence or character. The important thing is to report it to help prevent others from being targeted. Contact the FCA on 0800 111 6768 if it's a financial scam, or Action Fraud on 0300 123 2040 for other types of fraud. If you're struggling with the emotional impact, consider talking to a trusted friend or family member, or seek support from organisations like Victim Support. Remember, you're not alone - scammers target thousands of people every year, and reporting helps authorities catch them and protect others.",
+    "source_document": "FCA scam protection guidance - victim support",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is offering me an investment in overseas property development with guaranteed returns. They said it's not regulated by the FCA but that's normal. Should I invest?",
+    "input": "",
+    "output": "Be extremely cautious. Investment scams often involve unregulated products, and overseas property development is commonly used by scammers. Even if the offer isn't a scam, investing in unregulated products means you won't be protected if something goes wrong and you could lose all your money. The FCA lists many unregulated investment types including overseas property, forestry, storage units, care homes, and various commodities. If you're contacted unexpectedly about an investment opportunity, use the FCA's Investment Checker to avoid scams. Always verify the firm using the FCA Firm Checker, and be suspicious of guaranteed returns - legitimate investments don't offer guarantees. Consider getting independent financial advice before making any investment decisions, especially for unregulated products.",
+    "source_document": "FCA scam protection guidance - unregulated investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I check if a financial firm is legitimate before dealing with them?",
+    "input": "",
+    "output": "Use the FCA Firm Checker to verify if a financial firm is authorised and has permission for the service they're offering. Check that the firm reference number (FRN) and contact details match what's on the official register. Always use the contact details on the Firm Checker rather than direct lines or emails you've been given. If there are no contact details on the Firm Checker, or the firm says they're out of date, call the FCA on 0800 111 6768. Remember that some firms pretend to be authorised firms, so always use the official contact details. Never click on links in emails or on company websites to visit the Firm Checker - always use the official website address. If you're struggling to check the details, the FCA team can help verify if a firm is genuine.",
+    "source_document": "FCA scam protection guidance - checking firms",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a text message saying I've won a prize and need to pay a fee to claim it. Is this legitimate?",
+    "input": "",
+    "output": "No, this is a scam. Legitimate competitions and prizes don't require you to pay fees to claim them. This is a common tactic used by fraudsters to trick people into sending money. If you're contacted unexpectedly about winning a prize, competition, or lottery, it's almost certainly a scam. The FCA can't help with competition or lottery scams as they don't involve financial services they regulate. Instead, report this to Action Fraud on 0300 123 2040 or via their website. If you live in Scotland, report to Police Scotland on 101 or contact Advice Direct Scotland on 0808 164 6000. Remember the golden rule: if you have to pay money to receive money, it's almost always a scam.",
+    "source_document": "FCA scam reporting guidance - scams they can't help with",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs that I might be dealing with a scammer?",
+    "input": "",
+    "output": "There are several key warning signs to watch out for: unexpected contact (calls, emails, texts out of the blue), pressure to act quickly, offers that sound too good to be true, claims that you've been specially chosen for an exclusive opportunity, attempts to flatter you or build friendship, emotional manipulation (making you feel worried or excited), and claims of authority or special knowledge. Scammers often use sophisticated tactics and can appear very convincing. If you're contacted unexpectedly or feel suspicious about any communication, stop and check these warning signs. If you answer 'yes' to any of these questions, or you're unsure if a contact is genuine, use the FCA Firm Checker to verify the company and contact the FCA on 0800 111 6768 if you have concerns. Remember, legitimate businesses won't pressure you to make quick decisions.",
+    "source_document": "FCA scam protection guidance - warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm struggling with debt and someone offered me a loan with no credit checks. They want me to pay a fee first. Should I trust them?",
+    "input": "",
+    "output": "No, this is likely loan fee fraud. Legitimate lenders don't offer 'no credit check' loans, and they don't ask for upfront fees before providing loans. This scam targets people who are struggling financially and may have been turned down by legitimate lenders. The fraudsters often ask for between £25 and £450 as a deposit, administrative fee, or insurance, but you'll never receive the loan. If you're struggling with debt, don't fall for these scams - instead, get free debt advice from MoneyHelper. You can use their Debt Advice Locator tool to find free services in your area. Only deal with authorised financial firms - use the FCA Firm Checker to verify if a company is legitimate before giving them any money. Remember, if you have to pay money to borrow money, it's almost certainly a scam.",
+    "source_document": "FCA loan fee fraud guidance",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How long does it take to report a scam and what information do I need?",
+    "input": "",
+    "output": "Reporting a scam is quick and can be done by phone or online. The FCA is open Monday to Friday, 8am to 6pm and Saturday 9am to 1pm. Call them on 0800 111 6768 (freephone) or 0300 500 8082 from the UK. Have ready any details about the scam, including the company name, contact details you were given, what they offered, how much money you may have lost, and any documentation or communications you received. The FCA team will take details of the scam and give you guidance on your next steps. For scams the FCA can't help with (like HMRC scams or competition scams), contact Action Fraud on 0300 123 2040. The sooner you report, the better chance there is of preventing others from being targeted and potentially recovering your money.",
+    "source_document": "FCA scam reporting guidance",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received an email claiming to be from HMRC saying I owe tax and need to pay immediately. Should I respond?",
+    "input": "",
+    "output": "No, this is likely a scam. HMRC will never contact you by email, text, or phone to demand immediate payment or ask for personal information. If you receive a suspicious email, text, or phone call claiming to be from HMRC, don't respond or click on any links. Instead, find out how to report it through official HMRC channels. The FCA can't help with HMRC and tax scams as they don't involve financial services they regulate. Report these scams to Action Fraud on 0300 123 2040 or via their website. If you live in Scotland, report to Police Scotland on 101 or contact Advice Direct Scotland on 0808 164 6000. If you're genuinely concerned about your tax affairs, contact HMRC directly using the official contact details from their website, not from any email or message you've received.",
+    "source_document": "FCA scam reporting guidance - HMRC scams",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do to protect myself from future scams?",
+    "input": "",
+    "output": "Treat all unexpected calls, emails, and text messages with caution - don't assume they're genuine even if the person knows some basic information about you. Hang up on calls and ignore messages if you feel pressured to act quickly. Check your bank account and credit card statements regularly for any suspicious transactions. Consider getting independent financial advice before big financial decisions - MoneyHelper has information on how to find a financial adviser. Use the FCA Firm Checker to verify any financial firm before dealing with them. Never give out your bank account or credit card details unless you're certain who you're dealing with. Don't share passwords with anyone or give access to your device by downloading software from untrusted sources. If you've already been scammed, be extra careful as fraudsters may target you again. Remember: if it sounds too good to be true, it probably is.",
+    "source_document": "FCA scam protection guidance - protection measures",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone offered me an investment in cryptocurrency with guaranteed high returns. They said it's the future of money. Should I invest?",
+    "input": "",
+    "output": "Be extremely cautious. Cryptocurrency investment scams are very common and often promise unrealistic returns. The FCA specifically warns about cryptoasset investment scams. These investments are high-risk and unregulated, meaning you won't be protected if something goes wrong. Scammers often use sophisticated tactics to make these investments seem legitimate, including fake websites and professional-looking materials. If you're contacted unexpectedly about a cryptocurrency investment, use the FCA's Investment Checker to avoid scams. Always verify the firm using the FCA Firm Checker before investing. Be suspicious of guaranteed returns - legitimate investments don't offer guarantees. Consider getting independent financial advice before investing in any cryptocurrency or other unregulated products. Remember, if it sounds too good to be true, it probably is.",
+    "source_document": "FCA scam protection guidance - cryptoasset investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about my pension and someone offered to help me transfer it to a better scheme. How do I know if this is legitimate?",
+    "input": "",
+    "output": "Be very careful with pension transfer offers. If you're contacted unexpectedly about your pension, especially with offers of 'free' reviews or guaranteed better returns, it's likely a scam. Professional pension advice is not free, and most companies offering free pension reviews aren't authorised by the FCA. Scammers often try to persuade you to move your pension into high-risk schemes involving unusual investments. If you get a cold call about your pension, hang up immediately - it's illegal and probably a scam. If you're thinking about changing your pension arrangements, get proper financial guidance or advice from an FCA-authorised adviser first. You can find an adviser through MoneyHelper. Never take advice from the company that contacted you - this may be part of the scam. Report pension cold calls to the Information Commissioner's Office (ICO).",
+    "source_document": "FCA pension scams guidance",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I've already given my personal information to someone I think might be a scammer?",
+    "input": "",
+    "output": "Act quickly to minimise the damage. Contact your bank immediately using the number on your card or statements to secure your accounts. If you've given out passwords, change them immediately on all your accounts, especially banking and email accounts. Monitor your bank statements and credit reports for any suspicious activity. Report the scam to the FCA on 0800 111 6768 if it involves financial services, or to Action Fraud on 0300 123 2040 for other types of fraud. If you've given out your National Insurance number, contact HMRC. If you've given out driving licence details, contact the DVLA. Consider placing a fraud alert on your credit file with the credit reference agencies. Be extra vigilant for follow-up scams, as fraudsters often sell victim details to other criminals. Remember, the sooner you act, the better chance you have of preventing further damage.",
+    "source_document": "FCA scam protection guidance - what to do if scammed",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is offering me an investment in wine/whisky with guaranteed returns. They said it's a safe investment because people always drink. Should I trust this?",
+    "input": "",
+    "output": "No, be very cautious. Wine and whisky investments are unregulated products that the FCA specifically warns about. Even if the offer isn't a scam, investing in unregulated products means you won't be protected if something goes wrong and you could lose all your money. The FCA lists wine/whisky among the unregulated investment products that scammers commonly use. These investments are often high-risk and illiquid, meaning you may not be able to sell them when you want to. If you're contacted unexpectedly about this type of investment, use the FCA's Investment Checker to avoid scams. Always verify the firm using the FCA Firm Checker before investing. Be suspicious of guaranteed returns - legitimate investments don't offer guarantees. Consider getting independent financial advice before investing in any unregulated products. Remember, the fact that something is popular (like alcohol) doesn't make it a safe investment.",
+    "source_document": "FCA scam protection guidance - unregulated investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell the difference between a genuine loan fee and a loan fee scam?",
+    "input": "",
+    "output": "Genuine authorised firms may sometimes ask for upfront fees, but they must follow strict rules. They must send you a notice setting out specific information before you get the loan, including the firm's name as it appears on the FCA Firm Checker, a statement that they're acting as a credit broker, whether you need to pay a charge, the amount of the charge, and when and how payment will be taken. You must reply agreeing to this notice before getting the loan. Scammers, however, often pressure you to pay quickly via bank transfer or vouchers, claim the fee is refundable when it isn't, and may ask for payments through crypto exchanges. The key is to only deal with authorised firms - use the FCA Firm Checker to verify if a company is legitimate. If you're struggling with debt, get free advice from MoneyHelper rather than falling for loan scams.",
+    "source_document": "FCA loan fee fraud guidance - genuine vs scam fees",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm over 50 and someone offered me a free pension review. They said they're working with the government. Is this legitimate?",
+    "input": "",
+    "output": "No, this is likely a scam. Professional pension advice is not free, and most companies offering free pension reviews aren't authorised by the FCA. Scammers often falsely claim they're working with the government, the FCA, or MoneyHelper. These 'free' reviews are designed to persuade you to move your pension into high-risk schemes. If you're over 50 and need pension guidance, you can book a free appointment with a Pension Wise adviser through MoneyHelper - this is the legitimate government service. If you get a cold call about your pension, hang up immediately - it's illegal and probably a scam. Report pension cold calls to the Information Commissioner's Office (ICO). If you're thinking about your pension, get proper financial guidance or advice from an FCA-authorised adviser, not from companies that contact you unexpectedly.",
+    "source_document": "FCA pension scams guidance - pension review scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I think I've been scammed but I'm not sure who to report it to?",
+    "input": "",
+    "output": "The FCA can only help with scams involving financial services they regulate (investments, pensions, loans, insurance, etc.). For these, call the FCA on 0800 111 6768 or use their contact form. For other scams (like HMRC scams, TV licence scams, competition scams, or eBay scams), contact Action Fraud on 0300 123 2040 or via their website. If you live in Scotland, report to Police Scotland on 101 or contact Advice Direct Scotland on 0808 164 6000. If you're unsure, start with Action Fraud as they can direct you to the right organisation. Have ready any details about the scam including company names, contact details, what was offered, and any money lost. The sooner you report, the better chance of preventing others from being targeted and potentially recovering your money.",
+    "source_document": "FCA scam reporting guidance - who to contact",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone offered me an investment in sustainable energy with guaranteed returns. They said it's good for the environment and my wallet. Should I invest?",
+    "input": "",
+    "output": "Be very cautious. Sustainable energy investments are listed by the FCA as unregulated investment products that scammers commonly use. Even if the offer isn't a scam, investing in unregulated products means you won't be protected if something goes wrong and you could lose all your money. The fact that something is environmentally friendly doesn't make it a safe investment. If you're contacted unexpectedly about this type of investment, use the FCA's Investment Checker to avoid scams. Always verify the firm using the FCA Firm Checker before investing. Be suspicious of guaranteed returns - legitimate investments don't offer guarantees. Consider getting independent financial advice before investing in any unregulated products. Remember, scammers often use popular themes (like environmentalism) to make their offers seem more legitimate and appealing.",
+    "source_document": "FCA scam protection guidance - unregulated investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a call from someone claiming to be from my bank's fraud department. They knew my name and some account details. Should I trust them?",
+    "input": "",
+    "output": "Be very careful. Even if they know some of your details, this doesn't make them genuine - scammers often have access to leaked data or use social engineering to gather information. Legitimate banks will never ask for your PIN, full password, or card details over the phone. If you're unsure about any call claiming to be from your bank, hang up and call back using the number on the back of your card or your bank statements. Never use a number provided by the caller. Check your bank account and credit card statements regularly for any suspicious transactions. If you did share any information, contact your bank immediately to secure your account. Report suspicious calls to Action Fraud on 0300 123 2040. Remember, it's always better to be cautious and call back on a verified number than to risk falling for a scam.",
+    "source_document": "FCA scam protection guidance - banking scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I've already lost money to a scam?",
+    "input": "",
+    "output": "Contact your bank immediately using the number on your card or statements to try to recover the funds. Report the scam to the FCA on 0800 111 6768 if it involves financial services they regulate, or to Action Fraud on 0300 123 2040 for other types of fraud. Be extra careful after being scammed, as fraudsters may try to target you again or sell your details to other criminals. Watch out for follow-up scams offering to help you get your money back for a fee (recovery room scams). If you're struggling with the financial impact, contact MoneyHelper for free debt advice. Don't be embarrassed - scammers are sophisticated and target thousands of people. The important thing is to report it to help prevent others from being targeted. Consider talking to a trusted friend or family member for support, and remember that you're not alone in this experience.",
+    "source_document": "FCA scam protection guidance - what to do if scammed",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone offered me an investment in gold with guaranteed returns. They said gold always goes up in value. Should I trust this?",
+    "input": "",
+    "output": "Be very cautious. Gold investments are listed by the FCA as unregulated investment products that scammers commonly use. Even if the offer isn't a scam, investing in unregulated products means you won't be protected if something goes wrong and you could lose all your money. The fact that gold has historically been valuable doesn't guarantee future returns, and legitimate investments don't offer guaranteed returns. If you're contacted unexpectedly about this type of investment, use the FCA's Investment Checker to avoid scams. Always verify the firm using the FCA Firm Checker before investing. Be suspicious of any investment that promises guaranteed returns - this is a major red flag. Consider getting independent financial advice before investing in any unregulated products. Remember, scammers often use popular investment themes (like precious metals) to make their offers seem more legitimate.",
+    "source_document": "FCA scam protection guidance - unregulated investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect my elderly parents from investment scams?",
+    "input": "",
+    "output": "The FCA warns that over-55s and particularly over-75s are at heightened risk of investment scams. Help your parents by educating them about warning signs: unexpected contact, pressure to act quickly, offers that sound too good to be true, and claims of exclusive opportunities. Encourage them to use the FCA Firm Checker before dealing with any financial firm. Make sure they know that the FCA would never ask for money or bank details. Help them check their bank statements regularly for suspicious transactions. Consider setting up power of attorney if they're vulnerable. Encourage them to talk to you or other trusted family members before making any investment decisions. Make sure they know how to report scams to the FCA on 0800 111 6768 or Action Fraud on 0300 123 2040. The FCA has specific resources for protecting older people from investment scams, including the ScamSmart campaign.",
+    "source_document": "FCA scam protection guidance - protecting vulnerable people",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone offered me an investment in student accommodation with guaranteed rental income. They said it's a safe investment because students always need housing. Should I invest?",
+    "input": "",
+    "output": "Be very cautious. Student accommodation investments are listed by the FCA as unregulated investment products that scammers commonly use. Even if the offer isn't a scam, investing in unregulated products means you won't be protected if something goes wrong and you could lose all your money. The fact that there's demand for student housing doesn't guarantee investment returns, and legitimate investments don't offer guaranteed returns. If you're contacted unexpectedly about this type of investment, use the FCA's Investment Checker to avoid scams. Always verify the firm using the FCA Firm Checker before investing. Be suspicious of guaranteed returns - this is a major red flag. Consider getting independent financial advice before investing in any unregulated products. Remember, scammers often use popular investment themes (like property) to make their offers seem more legitimate and appealing.",
+    "source_document": "FCA scam protection guidance - unregulated investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I'm feeling pressured to make a quick financial decision?",
+    "input": "",
+    "output": "If you feel pressured to act quickly, this is a major warning sign of a scam. Legitimate banks and businesses won't mind waiting if you want time to think. Hang up on calls and ignore messages if you feel pressured. Take time to research and verify any financial opportunity. Use the FCA Firm Checker to verify if a company is legitimate before dealing with them. Consider getting independent financial advice before making big financial decisions - MoneyHelper has information on how to find a financial adviser. Remember that pressure tactics are a common scam technique - fraudsters want you to act before you can think clearly or do proper research. If something sounds too good to be true, it probably is. Don't let anyone rush you into a decision you're not comfortable with. Your financial security is worth taking the time to make informed decisions.",
+    "source_document": "FCA scam protection guidance - pressure tactics",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone offered me an investment in fine art with guaranteed appreciation. They said art always increases in value over time. Should I trust this?",
+    "input": "",
+    "output": "Be very cautious. Fine art investments are listed by the FCA as unregulated investment products that scammers commonly use. Even if the offer isn't a scam, investing in unregulated products means you won't be protected if something goes wrong and you could lose all your money. The fact that some art has appreciated in value doesn't guarantee future returns, and legitimate investments don't offer guaranteed returns. If you're contacted unexpectedly about this type of investment, use the FCA's Investment Checker to avoid scams. Always verify the firm using the FCA Firm Checker before investing. Be suspicious of guaranteed returns - this is a major red flag. Consider getting independent financial advice before investing in any unregulated products. Remember, scammers often use popular investment themes (like art and collectibles) to make their offers seem more legitimate and sophisticated.",
+    "source_document": "FCA scam protection guidance - unregulated investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an email claiming to be from the FCA is genuine?",
+    "input": "",
+    "output": "The FCA would never ask you to transfer money to them or ask for your bank account PINs and passwords. Be very suspicious of any email claiming to be from the FCA that asks for personal or financial information. Scammers often create fake emails that look very convincing. If you receive a suspicious email claiming to be from the FCA, don't click on any links or provide any information. Instead, contact the FCA directly on 0800 111 6768 to verify if the communication is genuine. You can also report fake FCA communications to help protect others. Remember, legitimate organisations will never pressure you to act quickly or ask for sensitive information via email. When in doubt, always contact the organisation directly using official contact details, not those provided in suspicious emails.",
+    "source_document": "FCA scam protection guidance - fake FCA communications",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I think I've been targeted by a recovery room scam?",
+    "input": "",
+    "output": "If you've already been scammed and someone contacts you offering to help get your money back for a fee, this is likely a recovery room scam. Don't pay any fees or give any more personal information. These scammers target people who have already been victims, either by trying to scam them again or by selling their details to other criminals. Report this to the FCA on 0800 111 6768 if it involves financial services, or to Action Fraud on 0300 123 2040 for other types of fraud. Be extra careful after being scammed, as fraudsters may try to target you again. Remember, legitimate organisations won't ask for fees to help you recover money from scams. If you're struggling with the financial impact of being scammed, contact MoneyHelper for free debt advice rather than falling for recovery room scams.",
+    "source_document": "FCA scam protection guidance - recovery room scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone offered me an investment in overseas agriculture with guaranteed returns. They said it's a safe investment because people always need food. Should I trust this?",
+    "input": "",
+    "output": "Be very cautious. Overseas agriculture investments are listed by the FCA as unregulated investment products that scammers commonly use. Even if the offer isn't a scam, investing in unregulated products means you won't be protected if something goes wrong and you could lose all your money. The fact that people need food doesn't guarantee investment returns, and legitimate investments don't offer guaranteed returns. If you're contacted unexpectedly about this type of investment, use the FCA's Investment Checker to avoid scams. Always verify the firm using the FCA Firm Checker before investing. Be suspicious of guaranteed returns - this is a major red flag. Consider getting independent financial advice before investing in any unregulated products. Remember, scammers often use popular investment themes (like agriculture and food security) to make their offers seem more legitimate and appealing.",
+    "source_document": "FCA scam protection guidance - unregulated investment scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+] 

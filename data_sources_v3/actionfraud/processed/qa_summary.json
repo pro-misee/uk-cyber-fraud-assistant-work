@@ -1,0 +1,101 @@
+{
+  "summary": {
+    "total_qa_pairs_generated": 50,
+    "source_document": "Action Fraud UK cyber fraud guidance documents",
+    "generation_date": "2025-01-27",
+    "generated_by": "gemini",
+    "content_coverage": {
+      "immediate_crisis_questions": 3,
+      "retrospective_questions": 8,
+      "prevention_awareness_questions": 15,
+      "procedural_questions": 12,
+      "emotional_support_questions": 2,
+      "technical_questions": 10
+    },
+    "fraud_types_covered": [
+      "Phishing and email scams",
+      "Text message scams",
+      "Phone scams and impersonation",
+      "Bank account fraud",
+      "Credit card fraud",
+      "Identity theft",
+      "Pension scams",
+      "Sextortion scams",
+      "Courier fraud",
+      "National Insurance scams",
+      "Counterfeit currency",
+      "Cheque fraud",
+      "ATM fraud",
+      "Online shopping fraud",
+      "Social media scams",
+      "Romance scams",
+      "Business email compromise",
+      "Malware and computer viruses",
+      "Account takeover",
+      "Call centre fraud"
+    ],
+    "uk_specific_organizations_referenced": [
+      "Action Fraud",
+      "National Fraud Intelligence Bureau (NFIB)",
+      "National Cyber Security Centre (NCSC)",
+      "Financial Conduct Authority (FCA)",
+      "Victim Support",
+      "CIFAS",
+      "Police Scotland",
+      "CEOP",
+      "HMRC",
+      "Bank of England",
+      "National Crime Agency (NCA)",
+      "Information Commissioner's Office (ICO)"
+    ],
+    "contact_information_provided": [
+      "Action Fraud: 0300 123 2040",
+      "Action Fraud online: actionfraud.police.uk",
+      "Suspicious Email Reporting: report@phishing.gov.uk",
+      "Text message reporting: 7726",
+      "Victim Support: 0808 168 9111",
+      "FCA Consumer Helpline: 0800 111 6768",
+      "NCA verification: 0370 496 7622",
+      "Action Fraud textphone: 0300 123 2050"
+    ],
+    "key_advice_themes": [
+      "Never share PINs or passwords",
+      "Contact banks immediately if compromised",
+      "Report suspicious activity",
+      "Use official contact details",
+      "Be wary of urgency and pressure",
+      "Verify requests independently",
+      "Keep devices and software updated",
+      "Shred personal documents",
+      "Monitor accounts regularly",
+      "Seek emotional support when needed"
+    ],
+    "target_audience": [
+      "Individual fraud victims",
+      "Business owners",
+      "Vulnerable victims",
+      "Deaf and hard of hearing individuals",
+      "Scottish residents",
+      "Young people",
+      "Elderly individuals"
+    ],
+    "response_characteristics": {
+      "average_response_length": "150-250 words",
+      "tone": "Empathetic and supportive",
+      "style": "Clear and actionable",
+      "uk_specific": true,
+      "includes_contact_numbers": true,
+      "provides_step_by_step_guidance": true
+    },
+    "quality_standards_met": [
+      "Each Q&A pair is standalone and complete",
+      "All responses are UK-specific",
+      "Contact information is accurate",
+      "Advice is grounded in source documents",
+      "Tone is consistently empathetic",
+      "No duplicate questions",
+      "Comprehensive coverage of fraud types",
+      "Includes both prevention and response guidance"
+    ]
+  }
+} 

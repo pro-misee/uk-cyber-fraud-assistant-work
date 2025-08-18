@@ -1,0 +1,842 @@
+[
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 1,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 1,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 1,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 1,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 1,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 1,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I'm being scammed right now, what should I do?",
+    "input": "",
+    "output": "If you suspect you're being scammed, stop all communication with the suspected scammer immediately. Do not provide any personal or financial information. If you've already shared information, contact your bank right away. You should report the scam to the FCA and Action Fraud. You can call the FCA consumer helpline on 0800 111 6768 and report to Action Fraud online or at 0300 123 2040.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is pressuring me to pay money urgently, is this legitimate?",
+    "input": "",
+    "output": "High-pressure sales tactics are a major red flag for scams. Legitimate financial institutions will not pressure you to make a decision on the spot. Be very wary of anyone who does. It's best to end the conversation and report the incident to the FCA and Action Fraud. Do not transfer any money.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid money and now think it was a scam, can I get it back?",
+    "input": "",
+    "output": "If you've paid a scammer, contact your bank immediately. Depending on how you paid, they may be able to help. You should also report the scam to the FCA and Action Fraud. While it's not always possible to recover lost funds, reporting it can help prevent others from becoming victims.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I gave out my personal details to what might be a scammer, what should I do?",
+    "input": "",
+    "output": "If you've shared personal details, you need to act quickly to protect yourself. Contact your bank and any other financial institutions you use. Check your credit report for any unusual activity. You should also report the incident to the FCA and Action Fraud.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if an investment opportunity is a scam?",
+    "input": "",
+    "output": "Be wary of investment opportunities that promise high returns with little or no risk. Check the FCA Register to see if the firm is authorized. Scammers often use fake websites and materials that look genuine, so it's important to do your own research. If it sounds too good to be true, it probably is.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Who should I contact about a pension scam?",
+    "input": "",
+    "output": "If you suspect a pension scam, you should report it to the FCA and Action Fraud. You can also get in touch with MoneyHelper for free and impartial guidance. It's important to report pension scams to help protect yourself and others.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I feel embarrassed about being scammed, is this normal?",
+    "input": "",
+    "output": "It's completely normal to feel embarrassed, but please remember that scammers are very sophisticated and can target anyone. You are not to blame. Reporting the scam is a crucial step in preventing others from falling victim. If you need support, you can contact Victim Support on 0808 16 89 111.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 11,
+    "generated_by": "gemini"
+  }
+]

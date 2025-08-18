@@ -1,0 +1,63 @@
+{
+  "source_organization": "Victim Support",
+  "source_url": "https://www.victimsupport.org.uk/",
+  "total_qa_pairs_generated": 35,
+  "generation_date": "2025-01-27",
+  "source_documents_processed": [
+    "Victim Support main website - emergency contact information",
+    "Victim Support - covering your tracks online", 
+    "Victim Support - about us",
+    "Victim Support - how we can help",
+    "Victim Support - reporting crime guidance"
+  ],
+  "qa_categories_covered": {
+    "immediate_crisis_questions": 3,
+    "retrospective_questions": 3,
+    "prevention_awareness_questions": 4,
+    "procedural_questions": 5,
+    "emotional_support_questions": 3,
+    "victim_support_services": 8,
+    "privacy_safety_questions": 3,
+    "legal_rights_questions": 2,
+    "accessibility_questions": 2,
+    "family_friend_support": 1
+  },
+  "key_topics_addressed": [
+    "Emergency response to active scams",
+    "Money recovery after fraud",
+    "Personal information protection",
+    "Reporting fraud to authorities",
+    "Recognizing scam warning signs",
+    "Online safety and privacy",
+    "Emotional support for victims",
+    "Victim Support services and contact methods",
+    "Legal rights and procedures",
+    "Family and friend support",
+    "Accessibility and communication options"
+  ],
+  "uk_specific_organizations_referenced": [
+    "Action Fraud (0300 123 2040)",
+    "Victim Support Supportline (08 08 16 89 111)",
+    "Police (999 emergency, 101 non-emergency)",
+    "Crimestoppers (0800 555 111)",
+    "UK banks and financial institutions",
+    "Credit reference agencies"
+  ],
+  "response_characteristics": {
+    "average_response_length": "150-250 words",
+    "tone": "Empathetic and non-judgmental",
+    "style": "Clear, actionable guidance with UK-specific information",
+    "includes_actionable_steps": true,
+    "references_uk_organizations": true,
+    "addresses_emotional_aspects": true
+  },
+  "quality_standards_met": [
+    "Each Q&A pair is completely standalone",
+    "UK-specific contact information included",
+    "Empathetic and supportive tone maintained",
+    "Actionable advice provided",
+    "Grounded in source document content",
+    "No duplicate questions",
+    "Comprehensive coverage of victim scenarios"
+  ]
+}
