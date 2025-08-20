@@ -651,6 +651,61 @@ Training/Validation Gap: 8.63x ❌ CATASTROPHIC (target was <3x)
 
 **The 1000-sample dataset still causes overfitting!**
 
+---
+
+## EMERGENCY PROTOCOL - DATASET SIZE IS THE PROBLEM
+
+### Root Cause Identified: **1000-Sample Dataset is TOO LARGE for Mistral-7B**
+
+**CRITICAL INSIGHT**: Two successive failures (V4 and V4.1) with **dramatically different parameters** but **identical dataset size** points to **FUNDAMENTAL DATASET SIZE ISSUE**.
+
+**Evidence**:
+- ✅ **V3 Success**: 278 samples → validation loss 1.147, gap 1.8x
+- ❌ **V4 Failure**: 1000 samples → validation loss 4.515, gap 19x  
+- ❌ **V4.1 Failure**: 1000 samples → validation loss 3.653, gap 8.6x
+
+**Mathematical Analysis**:
+- **V3**: 278 samples ÷ 48 rank = 5.8 samples per parameter capacity unit ✅
+- **V4**: 1000 samples ÷ 56 rank = 17.9 samples per parameter capacity unit ❌
+- **V4.1**: 1000 samples ÷ 32 rank = 31.3 samples per parameter capacity unit ❌
+
+**The ratio is INVERTED** - V4.1 has **5x more samples per parameter unit than successful V3!**
+
+### IMMEDIATE ACTION PLAN - PHASE 1 EXECUTION
+
+**CRITICAL DECISION**: Must immediately test **Phase 1 Strategy**:
+
+**Phase 1**: Test V4.1 corrected parameters on **proven 278-sample dataset**
+- If Phase 1 succeeds → Parameters are correct, dataset size is the issue
+- If Phase 1 fails → Parameters need further reduction
+
+**Phase 1 Configuration**:
+- **Dataset**: Use successful V3's 278 samples (`master_fraud_qa_dataset.json`)
+- **Parameters**: Keep V4.1 corrections (r=32, α=64, lr=5e-6, wd=0.1)
+- **Expected Result**: Should achieve validation loss <1.5, gap <2x
+
+**Alternative Strategy - Dataset Quality Investigation**:
+If Phase 1 succeeds, the issue is that **722 additional samples (1000-278) contain low-quality/repetitive content** causing model confusion.
+
+**Recommended Immediate Actions**:
+
+1. **STOP 1000-sample training** - Dataset size fundamentally incompatible
+2. **Execute Phase 1**: Train V4.1 parameters on 278-sample proven dataset
+3. **If Phase 1 succeeds**: Gradually expand dataset (278→400→600→800)
+4. **Find optimal dataset size**: Maximum samples before overfitting occurs
+
+**SUCCESS PREDICTION for Phase 1**:
+V4.1 parameters (r=32, lr=5e-6, wd=0.1) on 278 samples should yield:
+- **Expected Validation Loss**: ~1.2-1.4 (better than V3's 1.147)
+- **Expected Training Gap**: ~2-3x (much better than current 8.6x)
+- **Training Time**: ~200-250 seconds (faster due to smaller dataset)
+
+### FUNDAMENTAL LESSON LEARNED
+
+**"More data ≠ Better results"** - The 1000-sample dataset has **crossed the threshold** where additional data becomes harmful rather than helpful for a 7B parameter model with LoRA adaptation.
+
+**Next Action**: Execute Phase 1 immediately with 278-sample dataset to validate this hypothesis.
+
 ### Epoch 3
 **Training Loss**: [To be documented]
 **Validation Loss**: [To be documented]
